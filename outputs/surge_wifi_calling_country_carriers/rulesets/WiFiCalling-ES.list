@@ -1,0 +1,195 @@
+# Spain
+# Source: https://mcc-mnc-lookup.com/country/es/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 214-01
+# Operators: Vodafone España, SAU | Vodafone ; Vodafone España, SAU | vodafone ES
+DOMAIN-SUFFIX,mnc001.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-02
+# Operators: OLAMO MOBILE, S.L. UNIPERSONAL | Cube Móvil
+DOMAIN-SUFFIX,mnc002.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-03
+# Operators: France Telecom España, SA | Orange ; France Telecom España, SA | Orange SP
+DOMAIN-SUFFIX,mnc003.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-04
+# Operators: Xfera Móviles, S.A. | Yoigo ; Xfera Móviles, S.A. | YOIGO
+DOMAIN-SUFFIX,mnc004.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-05
+# Operators: Telefónica Móviles España, SAU | Movistar
+DOMAIN-SUFFIX,mnc005.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-06
+# Operators: Vodafone España, SAU | Vodafone
+DOMAIN-SUFFIX,mnc006.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-07
+# Operators: Telefónica Móviles España, SAU | Movistar
+DOMAIN-SUFFIX,mnc007.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-08
+# Operators: Euskaltel, SA | Euskaltel
+DOMAIN-SUFFIX,mnc008.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-09
+# Operators: France Telecom España, SA | Orange
+DOMAIN-SUFFIX,mnc009.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-10
+# Operators: ZINNIA TELECOMUNICACIONES, S.L.U.
+DOMAIN-SUFFIX,mnc010.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-11
+# Operators: TELECOM CASTILLA-LA MANCHA, S.A.
+DOMAIN-SUFFIX,mnc011.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-12
+# Operators: CHADEVA SUR 2001, S.L. UNIPERSONAL | VENUS MOVIL, S.L. UNIPERSONAL
+DOMAIN-SUFFIX,mnc012.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-13
+# Operators: FOOTBALLERISTA MOBILE SPAIN, S.A. UNIPERSONAL | FOOTBALLERISTA MOBILE SPAIN, S.A.
+DOMAIN-SUFFIX,mnc013.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-14
+# Operators: AVATEL MÓVIL, S.L.U.
+DOMAIN-SUFFIX,mnc014.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-15
+# Operators: PROCONO, S.A.
+DOMAIN-SUFFIX,mnc015.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-16
+# Operators: R CABLE Y TELECOMUNICACIONES GALICIA, S.A. | TeleCable
+DOMAIN-SUFFIX,mnc016.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-17
+# Operators: R Cable y Telecomunicaciones Galicia, SA | Móbil R
+DOMAIN-SUFFIX,mnc017.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-19
+# Operators: E-Plus Móviles, SL | —
+DOMAIN-SUFFIX,mnc019.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-22
+# Operators: Best Spain Telecom, SL | DIGI mobil
+DOMAIN-SUFFIX,mnc022.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-23
+# Operators: Xfera Móviles, S.A.U. | Xfera Moviles S.A.U.
+DOMAIN-SUFFIX,mnc023.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-24
+# Operators: VODAFONE ESPAÑA, S.A.U.
+DOMAIN-SUFFIX,mnc024.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-26
+# Operators: Lleida Networks Serveis Telemátics, SL
+DOMAIN-SUFFIX,mnc026.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-27
+# Operators: SCN Truphone SL | Truphone
+DOMAIN-SUFFIX,mnc027.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-31
+# Operators: Red Digital De Telecomunicaciones de las Islas Baleares, S.L.
+DOMAIN-SUFFIX,mnc031.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-34
+# Operators: AIRE NETWORKS DEL MEDITERRÁNEO, S.L. UNIPERSONAL | Aire Networks del Mediterráneo, S.L.U.
+DOMAIN-SUFFIX,mnc034.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-35
+# Operators: INGENIUM OUTSOURCING SERVICES, S.L.
+DOMAIN-SUFFIX,mnc035.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-36
+# Operators: ALAI OPERADOR DE TELECOMUNICACIONES, S.L. | ALAI OPERADOR DE TELECOMUNICACIONES, S.L
+DOMAIN-SUFFIX,mnc036.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-37
+# Operators: VODAFONE ESPAÑA, S.A.U. | Vodafone Spain
+DOMAIN-SUFFIX,mnc037.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-38
+# Operators: Telefónica Móviles España, SAU | Telefónica Móviles España, S.A.U.
+DOMAIN-SUFFIX,mnc038.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-51
+# Operators: ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS | ADIF
+DOMAIN-SUFFIX,mnc051.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-700
+# Operators: IBERDROLA ESPAÑA, S.A.UNIPERSONAL | Iberdrola
+DOMAIN-SUFFIX,mnc700.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-701
+# Operators: ENDESA DISTRIBUCIÓN ELÉCTRICA, S.L. | —
+DOMAIN-SUFFIX,mnc701.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc701.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-702
+# Operators: UNIVERSIDAD DE MÁLAGA | Universidad de Málaga
+DOMAIN-SUFFIX,mnc702.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc702.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-703
+# Operators: ENDESA GENERACIÓN, S.A.
+DOMAIN-SUFFIX,mnc703.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc703.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-705
+# Operators: ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS | Administrador de Infraestructuras Ferroviarias
+DOMAIN-SUFFIX,mnc705.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc705.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-706
+# Operators: GOBIERNO VASCO | Gobierno Vasco
+DOMAIN-SUFFIX,mnc706.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc706.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-707
+# Operators: MINISTERIO DE DEFENSA - CENTRO DE SISTEMAS Y TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES | Centro de Sistemas y Tecnologías de la Información y las Comunicaciones
+DOMAIN-SUFFIX,mnc707.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc707.mcc214.pub.3gppnetwork.org
+
+# MCC-MNC: 214-709
+# Operators: CENTRE DE TELECOMUNICACIONS I TECNOLOGIES DE LA INFORMACIÓ DE LA GENERALITAT DE CATALUNYA | CTTI
+DOMAIN-SUFFIX,mnc709.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc709.mcc214.pub.3gppnetwork.org

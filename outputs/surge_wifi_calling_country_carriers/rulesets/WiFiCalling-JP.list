@@ -1,0 +1,265 @@
+# Japan
+# Source: https://mcc-mnc-lookup.com/country/jp/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 440-00
+# Operators: SoftBank Corp. | Y!Mobile
+DOMAIN-SUFFIX,mnc000.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-01
+# Operators: KDDI Corporation | KDDICorporation
+DOMAIN-SUFFIX,mnc001.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-02
+# Operators: Hanshin Cable Engineering Co. Ltd. | Hanshin Cable Engineering Co., Ltd.
+DOMAIN-SUFFIX,mnc002.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-03
+# Operators: Internet Initiative Japan Inc. | IIJmio
+DOMAIN-SUFFIX,mnc003.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-04
+# Operators: Japan Radio Co., Ltd. | Japan Radio Company, Ltd.
+DOMAIN-SUFFIX,mnc004.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-05
+# Operators: Wireless City Planning Inc.
+DOMAIN-SUFFIX,mnc005.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-06
+# Operators: SAKURA Internet Inc.
+DOMAIN-SUFFIX,mnc006.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-07
+# Operators: closip, Inc.
+DOMAIN-SUFFIX,mnc007.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-08
+# Operators: Panasonic Connect Co., Ltd | Panasonic ConnectCo., Ltd.
+DOMAIN-SUFFIX,mnc008.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-10
+# Operators: NTT DOCOMO, INC. | JP DOCOMO
+DOMAIN-SUFFIX,mnc010.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-11
+# Operators: Rakuten Mobile Network, Inc. | Rakuten
+DOMAIN-SUFFIX,mnc011.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-12
+# Operators: CABLE MEDIA WAIWAI CORPORATION | Cable media waiwai Co., Ltd.
+DOMAIN-SUFFIX,mnc012.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-13
+# Operators: NTT Communications Corporation | NTT CommunicationsCorporation
+DOMAIN-SUFFIX,mnc013.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-14
+# Operators: GRAPE ONE LTD. | Grape One Co., Ltd.
+DOMAIN-SUFFIX,mnc014.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-15
+# Operators: BB Backbone Corp.
+DOMAIN-SUFFIX,mnc015.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-16
+# Operators: Nokia Innovations Japan G.K. | NokiaInnovations Japan G.K.
+DOMAIN-SUFFIX,mnc016.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-17
+# Operators: OSAKA GAS BUSINESS CREATE CORPORATION | Osaka Gas Business Create Co., Ltd.
+DOMAIN-SUFFIX,mnc017.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-18
+# Operators: Kintetsu Cable Network, Ltd | Kintetsu Cable Network Co., Ltd.
+DOMAIN-SUFFIX,mnc018.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-19
+# Operators: NEC Networks & System Integration Corporation | NECNetworks & System Integration Corporation
+DOMAIN-SUFFIX,mnc019.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-20
+# Operators: SoftBank Corp. | SoftBank
+DOMAIN-SUFFIX,mnc020.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-21
+# Operators: SoftBank Corp. | SoftBank
+DOMAIN-SUFFIX,mnc021.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-22
+# Operators: JTOWER Inc.
+DOMAIN-SUFFIX,mnc022.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-23
+# Operators: FUJITSU LIMITED | FujitsuLtd.
+DOMAIN-SUFFIX,mnc023.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-24
+# Operators: Japan Communications Inc.
+DOMAIN-SUFFIX,mnc024.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-25
+# Operators: SoftBank Corp. | SoftBank
+DOMAIN-SUFFIX,mnc025.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-26
+# Operators: NTT DOCOMO, INC. | NTT docomo
+DOMAIN-SUFFIX,mnc026.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-50
+# Operators: KDDI Corporation | 44050
+DOMAIN-SUFFIX,mnc050.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-51
+# Operators: KDDI Corporation | KDDI(au)
+DOMAIN-SUFFIX,mnc051.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-52
+# Operators: KDDI Corporation | 44052
+DOMAIN-SUFFIX,mnc052.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc052.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-53
+# Operators: KDDI Corporation | au
+DOMAIN-SUFFIX,mnc053.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc053.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-54
+# Operators: KDDI Corporation | 44054
+DOMAIN-SUFFIX,mnc054.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc054.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-55
+# Operators: KDDI CORPORATION | 44055
+DOMAIN-SUFFIX,mnc055.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc055.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-91
+# Operators: NTT DOCOMO, INC. | JPN-ROAM D
+DOMAIN-SUFFIX,mnc091.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc091.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-92
+# Operators: KDDI Corporation | JPN-ROAM K
+DOMAIN-SUFFIX,mnc092.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc092.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-93
+# Operators: SoftBank Corp. | JPN-ROAM S
+DOMAIN-SUFFIX,mnc093.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc093.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-94
+# Operators: Rakuten Mobile Network, Inc. | JPN-ROAM R
+DOMAIN-SUFFIX,mnc094.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc094.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 441-00
+# Operators: Wireless City Planning Inc. | —
+DOMAIN-SUFFIX,mnc000.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-200
+# Operators: SORACOM, Inc. | Soracom Inc.
+DOMAIN-SUFFIX,mnc200.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-201
+# Operators: Aurens Co.,Ltd. | Aurens Co., Ltd.
+DOMAIN-SUFFIX,mnc201.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc201.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-202
+# Operators: Sony Wireless Communications Inc. | SonyWireless Communications Inc.
+DOMAIN-SUFFIX,mnc202.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc202.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-203
+# Operators: GujoCity | Gujo City
+DOMAIN-SUFFIX,mnc203.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc203.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-204
+# Operators: Wicom Inc.
+DOMAIN-SUFFIX,mnc204.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc204.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-205
+# Operators: KATCH NETWORK INC. | Katch Network Inc.
+DOMAIN-SUFFIX,mnc205.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc205.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-206
+# Operators: MITSUBISHI ELECTRIC CORPORATION | Mitsubishi ElectricCorp.
+DOMAIN-SUFFIX,mnc206.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc206.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-207
+# Operators: Mitsui Knowledge Industry Co., Ltd. | Mitsui Knowledge IndustryCo., Ltd.
+DOMAIN-SUFFIX,mnc207.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc207.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-208
+# Operators: CHUDENKO CORPORATION | Chudenko Corp.
+DOMAIN-SUFFIX,mnc208.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc208.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-209
+# Operators: Cable Television TOYAMA Inc. | Cable Television Toyama Inc.
+DOMAIN-SUFFIX,mnc209.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc209.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-212
+# Operators: I-TEC Solutions Co., Ltd.
+DOMAIN-SUFFIX,mnc212.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc212.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-213
+# Operators: Hokkaido Telecommunication Network Co., Inc.
+DOMAIN-SUFFIX,mnc213.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc213.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-214
+# Operators: Vroove Inc.
+DOMAIN-SUFFIX,mnc214.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc214.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-215
+# Operators: KYOCERA Mirai Envision Co., Ltd.
+DOMAIN-SUFFIX,mnc215.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc215.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-216
+# Operators: Eureka Wireless K.K.
+DOMAIN-SUFFIX,mnc216.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc216.mcc441.pub.3gppnetwork.org

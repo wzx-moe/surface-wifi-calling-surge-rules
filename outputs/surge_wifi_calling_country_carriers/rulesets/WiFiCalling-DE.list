@@ -1,0 +1,135 @@
+# Germany
+# Source: https://mcc-mnc-lookup.com/country/de/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 262-01
+# Operators: Telekom Deutschland GmbH | Telekom ; Telekom Deutschland GmbH | Telekom.de
+DOMAIN-SUFFIX,mnc001.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-02
+# Operators: Vodafone GmbH | Vodafone ; Vodafone GmbH | vodafone.de
+DOMAIN-SUFFIX,mnc002.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-04
+# Operators: Vodafone GmbH | Vodafone
+DOMAIN-SUFFIX,mnc004.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-06
+# Operators: Telekom Deutschland GmbH | Telekom
+DOMAIN-SUFFIX,mnc006.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-07
+# Operators: Telefónica Germany GmbH & Co. OHG | O2 ; Telefónica Germany GmbH & Co. OHG | o2 - de
+DOMAIN-SUFFIX,mnc007.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-08
+# Operators: Telefónica Germany GmbH & Co. OHG | O2
+DOMAIN-SUFFIX,mnc008.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-09
+# Operators: Vodafone GmbH | Vodafone
+DOMAIN-SUFFIX,mnc009.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-10
+# Operators: DB Netz AG | DBNetz AG
+DOMAIN-SUFFIX,mnc010.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-11
+# Operators: Telefónica Germany GmbH & Co. OHG | O2
+DOMAIN-SUFFIX,mnc011.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-13
+# Operators: Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) | BAAINBw
+DOMAIN-SUFFIX,mnc013.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-14
+# Operators: Lebara Limited | LebaraLimited
+DOMAIN-SUFFIX,mnc014.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-15
+# Operators: AirData AG | Airdata
+DOMAIN-SUFFIX,mnc015.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-18
+# Operators: NetCologne Gesellschaft für Telekommunikation mbH | —
+DOMAIN-SUFFIX,mnc018.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-19
+# Operators: Inquam Deutschland GmbH | 450connect
+DOMAIN-SUFFIX,mnc019.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-22
+# Operators: Sipgate Wireless GmbH | sipgate
+DOMAIN-SUFFIX,mnc022.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-24
+# Operators: TelcoVillage GmbH
+DOMAIN-SUFFIX,mnc024.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-25
+# Operators: MTEL Deutschland GmbH | MTEL
+DOMAIN-SUFFIX,mnc025.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-26
+# Operators: Simsalasim Germany GmbH | Simsalasim.de
+DOMAIN-SUFFIX,mnc026.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-42
+# Operators: Vodafone GmbH | —
+DOMAIN-SUFFIX,mnc042.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc042.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-43
+# Operators: Vodafone GmbH | —
+DOMAIN-SUFFIX,mnc043.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc043.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-70
+# Operators: BDBOS
+DOMAIN-SUFFIX,mnc070.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-72
+# Operators: Ericsson GmbH | EricssonGmbH
+DOMAIN-SUFFIX,mnc072.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-76
+# Operators: BDBOS
+DOMAIN-SUFFIX,mnc076.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc076.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-78
+# Operators: Telekom Deutschland GmbH | Telekom
+DOMAIN-SUFFIX,mnc078.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc078.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-868
+# Operators: BDBOS
+DOMAIN-SUFFIX,mnc868.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc868.mcc262.pub.3gppnetwork.org
+
+# MCC-MNC: 262-869
+# Operators: TKÜV-Netzanbindungen
+DOMAIN-SUFFIX,mnc869.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc869.mcc262.pub.3gppnetwork.org

@@ -1,0 +1,195 @@
+# Netherlands
+# Source: https://mcc-mnc-lookup.com/country/nl/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 204-00
+# Operators: Intovoice B.V.
+DOMAIN-SUFFIX,mnc000.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-02
+# Operators: T-Mobile Netherlands B.V. | Odido
+DOMAIN-SUFFIX,mnc002.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-03
+# Operators: Voiceworks B.V. | Enreach
+DOMAIN-SUFFIX,mnc003.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-04
+# Operators: Vodafone Libertel B.V. | Vodafone ; Vodafone Libertel B.V. | vodafone NL
+DOMAIN-SUFFIX,mnc004.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-06
+# Operators: Private Mobility Nederland B.V.
+DOMAIN-SUFFIX,mnc006.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-07
+# Operators: Tata Communications MOVE B.V. | Teleena
+DOMAIN-SUFFIX,mnc007.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-08
+# Operators: KPN B.V. | KPN ; KPN B.V. | NL KPN
+DOMAIN-SUFFIX,mnc008.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-09
+# Operators: Lycamobile Netherlands Limited | Lycamobile
+DOMAIN-SUFFIX,mnc009.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-10
+# Operators: KPN B.V. | KPN
+DOMAIN-SUFFIX,mnc010.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-11
+# Operators: Greenet Netwerk B.V. | Greenet Netwerk B.V
+DOMAIN-SUFFIX,mnc011.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-12
+# Operators: KPN B.V. | NL Telfort
+DOMAIN-SUFFIX,mnc012.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-13
+# Operators: Unica Installatietechniek B.V.
+DOMAIN-SUFFIX,mnc013.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-14
+# Operators: Venus & Mercury Telecom
+DOMAIN-SUFFIX,mnc014.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-15
+# Operators: Ziggo B.V. | Ziggo
+DOMAIN-SUFFIX,mnc015.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-16
+# Operators: T-Mobile Netherlands B.V. | Odido
+DOMAIN-SUFFIX,mnc016.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-17
+# Operators: Lebara Ltd
+DOMAIN-SUFFIX,mnc017.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-18
+# Operators: Ziggo Services B.V. | Ziggo
+DOMAIN-SUFFIX,mnc018.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-19
+# Operators: Mixe Communication Solutions B.V.
+DOMAIN-SUFFIX,mnc019.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-20
+# Operators: T-Mobile Netherlands B.V. | Odido
+DOMAIN-SUFFIX,mnc020.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-21
+# Operators: ProRail B.V. | ProRailB.V.
+DOMAIN-SUFFIX,mnc021.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-22
+# Operators: Ministerie van Defensie
+DOMAIN-SUFFIX,mnc022.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-23
+# Operators: KORE Wireless Nederland B.V. | KORE WirelessNederland B.V.
+DOMAIN-SUFFIX,mnc023.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-24
+# Operators: PM Factory B.V.
+DOMAIN-SUFFIX,mnc024.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-25
+# Operators: CapX Nederland | CapX B.V.
+DOMAIN-SUFFIX,mnc025.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-26
+# Operators: SpeakUp B.V.
+DOMAIN-SUFFIX,mnc026.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-27
+# Operators: L-Mobi Mobile B.V. | L-mobi
+DOMAIN-SUFFIX,mnc027.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-28
+# Operators: Lancelot B.V.
+DOMAIN-SUFFIX,mnc028.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-29
+# Operators: Tismi B.V.
+DOMAIN-SUFFIX,mnc029.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-30
+# Operators: ASpider Solutions Nederland B.V.
+DOMAIN-SUFFIX,mnc030.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-32
+# Operators: Cubic Telecom Limited
+DOMAIN-SUFFIX,mnc032.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-33
+# Operators: Truphone B.V. | TruphoneB.V.
+DOMAIN-SUFFIX,mnc033.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-61
+# Operators: Alcadis B.V.
+DOMAIN-SUFFIX,mnc061.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc061.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-62
+# Operators: RGTN Wholesale Netherlands B.V. | RGTN
+DOMAIN-SUFFIX,mnc062.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc062.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-63
+# Operators: Messagebird BV
+DOMAIN-SUFFIX,mnc063.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc063.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-64
+# Operators: Zetacom B.V.
+DOMAIN-SUFFIX,mnc064.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc064.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-66
+# Operators: Utility Connect B.V.
+DOMAIN-SUFFIX,mnc066.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc066.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-69
+# Operators: KPN B.V. | KPN Mobile The Netherlands B.V.
+DOMAIN-SUFFIX,mnc069.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc069.mcc204.pub.3gppnetwork.org
+
+# MCC-MNC: 204-91
+# Operators: Enexis Netbeheer B.V.
+DOMAIN-SUFFIX,mnc091.mcc204.3gppnetwork.org
+DOMAIN-SUFFIX,mnc091.mcc204.pub.3gppnetwork.org

@@ -1,0 +1,315 @@
+# France
+# Source: https://mcc-mnc-lookup.com/country/fr/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 208-01
+# Operators: Orange ; Orange | Orange F
+DOMAIN-SUFFIX,mnc001.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-02
+# Operators: Orange ; Orange | F-Contact
+DOMAIN-SUFFIX,mnc002.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-03
+# Operators: MobiquiThings | —
+DOMAIN-SUFFIX,mnc003.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-04
+# Operators: Sisteer | Nexera
+DOMAIN-SUFFIX,mnc004.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-05
+# Operators: Globalstar Europe | GlobalstarEurope
+DOMAIN-SUFFIX,mnc005.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-06
+# Operators: Globalstar Europe | GlobalstarEurope
+DOMAIN-SUFFIX,mnc006.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-07
+# Operators: Globalstar Europe | GlobalstarEurope
+DOMAIN-SUFFIX,mnc007.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-08
+# Operators: Société Française du Radiotéléphone | —
+DOMAIN-SUFFIX,mnc008.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-09
+# Operators: Société Française du Radiotéléphone | F SFR
+DOMAIN-SUFFIX,mnc009.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-11
+# Operators: Société Française du Radiotéléphone | SFR FEMTO
+DOMAIN-SUFFIX,mnc011.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-12
+# Operators: Truphone France | 1Global Operations France
+DOMAIN-SUFFIX,mnc012.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-13
+# Operators: Société Française du Radiotéléphone | F - Contact
+DOMAIN-SUFFIX,mnc013.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-14
+# Operators: RFF | —
+DOMAIN-SUFFIX,mnc014.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-15
+# Operators: Free Mobile | Free
+DOMAIN-SUFFIX,mnc015.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-16
+# Operators: Free Mobile | Free
+DOMAIN-SUFFIX,mnc016.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-17
+# Operators: Legos | —
+DOMAIN-SUFFIX,mnc017.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-19
+# Operators: Haute-Garonne numérique | Haute-Garonnenumérique
+DOMAIN-SUFFIX,mnc019.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-21
+# Operators: Bouygues Telecom | Bouygues
+DOMAIN-SUFFIX,mnc021.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-22
+# Operators: Transatel | Transatel Mobile
+DOMAIN-SUFFIX,mnc022.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-23
+# Operators: Syndicat mixte ouvert Charente Numérique | Syndicat mixte ouvertCharenteNumérique
+DOMAIN-SUFFIX,mnc023.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-24
+# Operators: MobiquiThings | —
+DOMAIN-SUFFIX,mnc024.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-25
+# Operators: Lycamobile | LycaMobile
+DOMAIN-SUFFIX,mnc025.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-26
+# Operators: Bouygues Telecom Business - Distribution | NRJ Mobile
+DOMAIN-SUFFIX,mnc026.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-27
+# Operators: Coriolis Telecom
+DOMAIN-SUFFIX,mnc027.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-28
+# Operators: Airmob Infra Full | AIF
+DOMAIN-SUFFIX,mnc028.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-29
+# Operators: Cubic télécom France
+DOMAIN-SUFFIX,mnc029.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-30
+# Operators: Syma | Syma Mobile
+DOMAIN-SUFFIX,mnc030.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-31
+# Operators: Vectone Mobile
+DOMAIN-SUFFIX,mnc031.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-32
+# Operators: Orange
+DOMAIN-SUFFIX,mnc032.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-33
+# Operators: Syndicat mixte La Fibre64 | —
+DOMAIN-SUFFIX,mnc033.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-34
+# Operators: Cellhire (France) | Cellhire France
+DOMAIN-SUFFIX,mnc034.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-35
+# Operators: Free mobile | Free
+DOMAIN-SUFFIX,mnc035.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-36
+# Operators: Free mobile | Free
+DOMAIN-SUFFIX,mnc036.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-37
+# Operators: IP Directions
+DOMAIN-SUFFIX,mnc037.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-38
+# Operators: Lebara France Limited | LebaraFrance Ltd
+DOMAIN-SUFFIX,mnc038.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-39
+# Operators: Netwo
+DOMAIN-SUFFIX,mnc039.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-500
+# Operators: EDF
+DOMAIN-SUFFIX,mnc500.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc500.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-501
+# Operators: Butachimie | —
+DOMAIN-SUFFIX,mnc501.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc501.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-502
+# Operators: EDF | —
+DOMAIN-SUFFIX,mnc502.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc502.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-700
+# Operators: Weaccess group
+DOMAIN-SUFFIX,mnc700.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-701
+# Operators: GIP Vendée numérique
+DOMAIN-SUFFIX,mnc701.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc701.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-702
+# Operators: 17-Numerique
+DOMAIN-SUFFIX,mnc702.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc702.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-703
+# Operators: Nivertel
+DOMAIN-SUFFIX,mnc703.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc703.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-704
+# Operators: Axione Limousin
+DOMAIN-SUFFIX,mnc704.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc704.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-705
+# Operators: Hautes-Pyrénées Numérique
+DOMAIN-SUFFIX,mnc705.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc705.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-706
+# Operators: Tours Métropole Numérique
+DOMAIN-SUFFIX,mnc706.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc706.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-707
+# Operators: Sartel THD
+DOMAIN-SUFFIX,mnc707.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc707.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-708
+# Operators: Melis@ territoires ruraux
+DOMAIN-SUFFIX,mnc708.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc708.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-709
+# Operators: Quimper communauté télécom
+DOMAIN-SUFFIX,mnc709.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc709.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-710
+# Operators: Losange
+DOMAIN-SUFFIX,mnc710.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc710.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-711
+# Operators: Nomotech
+DOMAIN-SUFFIX,mnc711.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc711.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-712
+# Operators: Syndicat Audois d&#x27;énergies et du Numérique
+DOMAIN-SUFFIX,mnc712.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc712.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-713
+# Operators: SD NUM SAS
+DOMAIN-SUFFIX,mnc713.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc713.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-714
+# Operators: Département de l&#x27;Isère
+DOMAIN-SUFFIX,mnc714.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc714.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-86
+# Operators: SEM@FOR77
+DOMAIN-SUFFIX,mnc086.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc086.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-87
+# Operators: AIRBUS DEFENCE AND SPACE SAS | Airbusdefence and space SAS
+DOMAIN-SUFFIX,mnc087.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc087.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-88
+# Operators: Bouygues Telecom | F - Contact
+DOMAIN-SUFFIX,mnc088.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-89
+# Operators: Hub One
+DOMAIN-SUFFIX,mnc089.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc089.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-91
+# Operators: Orange | Orange S.A.
+DOMAIN-SUFFIX,mnc091.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc091.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-94
+# Operators: Halys
+DOMAIN-SUFFIX,mnc094.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc094.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-96
+# Operators: Région Bourgogne-Franche-Comté | RégionBourgogne-Franche-Comté
+DOMAIN-SUFFIX,mnc096.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc096.mcc208.pub.3gppnetwork.org
+
+# MCC-MNC: 208-97
+# Operators: Thales communications & Security | ThalesCommunications & Security SAS
+DOMAIN-SUFFIX,mnc097.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc097.mcc208.pub.3gppnetwork.org

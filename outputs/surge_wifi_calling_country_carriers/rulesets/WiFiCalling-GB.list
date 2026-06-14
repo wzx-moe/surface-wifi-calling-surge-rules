@@ -1,0 +1,335 @@
+# United Kingdom
+# Source: https://mcc-mnc-lookup.com/country/gb/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 234-00
+# Operators: British Telecom | —
+DOMAIN-SUFFIX,mnc000.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-01
+# Operators: Vectone Mobile Limited | Vectone Mobile
+DOMAIN-SUFFIX,mnc001.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-02
+# Operators: Telefonica UK Limited | O2 (UK)
+DOMAIN-SUFFIX,mnc002.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-03
+# Operators: Jersey Airtel Limited | Airtel-Vodafone
+DOMAIN-SUFFIX,mnc003.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-05
+# Operators: Spitfire Network Services Limited
+DOMAIN-SUFFIX,mnc005.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-08
+# Operators: BT OnePhone Limited | BT OnePhone
+DOMAIN-SUFFIX,mnc008.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-09
+# Operators: Tismi BV
+DOMAIN-SUFFIX,mnc009.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-10
+# Operators: Telefonica UK Limited | O2 - UK
+DOMAIN-SUFFIX,mnc010.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-11
+# Operators: Telefonica UK Limited | O2 (UK)
+DOMAIN-SUFFIX,mnc011.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-12
+# Operators: Network Rail Infrastructure Limited | Railtrack
+DOMAIN-SUFFIX,mnc012.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-13
+# Operators: Network Rail Infrastructure Limited | Railtrack
+DOMAIN-SUFFIX,mnc013.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-14
+# Operators: LINK MOBILITY UK LTD | HSL Messaging Limited
+DOMAIN-SUFFIX,mnc014.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-15
+# Operators: Vodafone Limited | vodafone UK
+DOMAIN-SUFFIX,mnc015.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-16
+# Operators: TalkTalk Communications Limited | Talk Talk
+DOMAIN-SUFFIX,mnc016.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-19
+# Operators: TeleWare Group PLC | PMN
+DOMAIN-SUFFIX,mnc019.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-20
+# Operators: Hutchison 3G UK Limited | 3 UK
+DOMAIN-SUFFIX,mnc020.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-22
+# Operators: Telesign Mobile Limited
+DOMAIN-SUFFIX,mnc022.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-23
+# Operators: Icron Network Limited
+DOMAIN-SUFFIX,mnc023.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-24
+# Operators: Stour Marine Limited | Greenfone
+DOMAIN-SUFFIX,mnc024.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-25
+# Operators: Truphone Limited | Truphone
+DOMAIN-SUFFIX,mnc025.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-26
+# Operators: Lycamobile UK Limited | Lycamobile
+DOMAIN-SUFFIX,mnc026.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-27
+# Operators: Tata Communications Move UK Ltd | Teleena
+DOMAIN-SUFFIX,mnc027.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-28
+# Operators: Marathon Telecom Limited
+DOMAIN-SUFFIX,mnc028.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-29
+# Operators: (AQ) LIMITED | aql
+DOMAIN-SUFFIX,mnc029.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-30
+# Operators: EE Limited ( TM) | EE
+DOMAIN-SUFFIX,mnc030.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-31
+# Operators: EE Limited ( TM) | EE
+DOMAIN-SUFFIX,mnc031.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-32
+# Operators: EE Limited ( TM) | EE
+DOMAIN-SUFFIX,mnc032.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-33
+# Operators: EE Limited (Orange) | EE
+DOMAIN-SUFFIX,mnc033.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-34
+# Operators: EE Limited (Orange) | EE
+DOMAIN-SUFFIX,mnc034.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-36
+# Operators: Sure (Isle of Man) Limited | Sure Mobile
+DOMAIN-SUFFIX,mnc036.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-37
+# Operators: Synectiv Ltd
+DOMAIN-SUFFIX,mnc037.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-38
+# Operators: Virgin Mobile Telecoms Limited | Virgin Mobile
+DOMAIN-SUFFIX,mnc038.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-39
+# Operators: Gamma Telecom Holdings Ltd | Gamma Telecom Holdings Ltd.
+DOMAIN-SUFFIX,mnc039.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-40
+# Operators: Mass Response Service GmbH | spusu
+DOMAIN-SUFFIX,mnc040.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-50
+# Operators: JT (Jersey) Limited | JT
+DOMAIN-SUFFIX,mnc050.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-51
+# Operators: UK Broadband Limited | Relish
+DOMAIN-SUFFIX,mnc051.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-52
+# Operators: Shyam Telecom UK Ltd
+DOMAIN-SUFFIX,mnc052.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc052.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-53
+# Operators: Tango Networks UK Ltd | Tango Extend
+DOMAIN-SUFFIX,mnc053.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc053.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-54
+# Operators: The Carphone Warehouse Limited | iD Mobile
+DOMAIN-SUFFIX,mnc054.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc054.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-55
+# Operators: Sure (Guernsey) Limited | Sure
+DOMAIN-SUFFIX,mnc055.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc055.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-56
+# Operators: The National Cyber Security Centre | National Cyber Security Centre
+DOMAIN-SUFFIX,mnc056.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-57
+# Operators: Sky UK Limited | Sky Mobile
+DOMAIN-SUFFIX,mnc057.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc057.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-58
+# Operators: MANX TELECOM TRADING LIMITED | Pronto GSM
+DOMAIN-SUFFIX,mnc058.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc058.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-71
+# Operators: Home Office
+DOMAIN-SUFFIX,mnc071.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc071.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-72
+# Operators: Hanhaa Limited | Hanhaa Mobile
+DOMAIN-SUFFIX,mnc072.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-73
+# Operators: BlueWave Communications | Bluewave Communications Ltd.
+DOMAIN-SUFFIX,mnc073.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc073.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-76
+# Operators: British Telecom | —
+DOMAIN-SUFFIX,mnc076.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc076.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-77
+# Operators: Vodafone Limited | Vodafone UK
+DOMAIN-SUFFIX,mnc077.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-78
+# Operators: Airwave Solutions Ltd | Airwave
+DOMAIN-SUFFIX,mnc078.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc078.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-79
+# Operators: UK Telecoms Lab (UKTL) | UKTL
+DOMAIN-SUFFIX,mnc079.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc079.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-86
+# Operators: EE Limited ( TM) | EE Limited
+DOMAIN-SUFFIX,mnc086.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc086.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-87
+# Operators: LEBARA MOBILE LIMITED | Lebara
+DOMAIN-SUFFIX,mnc087.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc087.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 234-88
+# Operators: Telet Research (N.I.) Limited | telet
+DOMAIN-SUFFIX,mnc088.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc234.pub.3gppnetwork.org
+
+# MCC-MNC: 235-00
+# Operators: Vectone Mobile Limited | —
+DOMAIN-SUFFIX,mnc000.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-01
+# Operators: EE Limited ( TM) | EE
+DOMAIN-SUFFIX,mnc001.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-02
+# Operators: EE Limited ( TM) | EE
+DOMAIN-SUFFIX,mnc002.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-03
+# Operators: UK Broadband Limited | Relish
+DOMAIN-SUFFIX,mnc003.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-04
+# Operators: University Of Strathclyde | University of Strathclyde
+DOMAIN-SUFFIX,mnc004.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-06
+# Operators: University Of Strathclyde | University of Strathclyde
+DOMAIN-SUFFIX,mnc006.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-07
+# Operators: University Of Strathclyde | University of Strathclyde
+DOMAIN-SUFFIX,mnc007.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-08
+# Operators: Spitfire Network Services Limited
+DOMAIN-SUFFIX,mnc008.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-77
+# Operators: British Telecom | —
+DOMAIN-SUFFIX,mnc077.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-88
+# Operators: Telet Research (N.I.) Limited | telet
+DOMAIN-SUFFIX,mnc088.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-91
+# Operators: Vodafone Limited | Vodafone UK
+DOMAIN-SUFFIX,mnc091.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc091.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-94
+# Operators: Hutchison 3G UK Limited | Hutchison 3G UK Ltd
+DOMAIN-SUFFIX,mnc094.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc094.mcc235.pub.3gppnetwork.org
+
+# MCC-MNC: 235-95
+# Operators: Network Rail Infrastructure Limited | Network RailInfrastructure Limited
+DOMAIN-SUFFIX,mnc095.mcc235.3gppnetwork.org
+DOMAIN-SUFFIX,mnc095.mcc235.pub.3gppnetwork.org

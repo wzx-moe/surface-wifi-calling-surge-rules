@@ -1,0 +1,2305 @@
+# United States
+# Source: https://mcc-mnc-lookup.com/country/us/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 310-010
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc010.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-012
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc012.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-013
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc013.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-014
+# Operators: TEST IMSI HNI | —
+DOMAIN-SUFFIX,mnc014.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-016
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc016.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-020
+# Operators: Union Telephone Company | Union Wireless ; Union Telephone Company | US - Union Telephone
+DOMAIN-SUFFIX,mnc020.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-030
+# Operators: mobi ; mobi | AT&T
+DOMAIN-SUFFIX,mnc030.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-040
+# Operators: Mobi
+DOMAIN-SUFFIX,mnc040.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-050
+# Operators: Alaska Wireless Networks | GCI
+DOMAIN-SUFFIX,mnc050.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-060
+# Operators: Karrier One
+DOMAIN-SUFFIX,mnc060.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-070
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc070.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-080
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc080.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-090
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc090.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-100
+# Operators: New Mexico RSA 4 East Limited Partnership | Plateau Wireless
+DOMAIN-SUFFIX,mnc100.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-110
+# Operators: PTI Pacifica, Inc. | IT&E Wireless
+DOMAIN-SUFFIX,mnc110.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc110.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-120
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc120.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc120.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-130
+# Operators: Carolina West Wireless
+DOMAIN-SUFFIX,mnc130.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-140
+# Operators: GTA Wireless LLC | GTA
+DOMAIN-SUFFIX,mnc140.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc140.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-150
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc150.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc150.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-160
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc160.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-170
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc170.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc170.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-180
+# Operators: West Central Wireless | West Central
+DOMAIN-SUFFIX,mnc180.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc180.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-190
+# Operators: Alaska Wireless Networks | USA Dutch Harbor
+DOMAIN-SUFFIX,mnc190.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc190.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-200
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc200.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-210
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc210.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-220
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc220.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc220.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-230
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc230.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc230.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-240
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc240.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-250
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc250.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc250.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-260
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc260.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-270
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc270.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-280
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc280.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc280.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-310
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc310.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc310.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-320
+# Operators: Smith Bagley, Inc. dba CellularOne | USA - CellularOne
+DOMAIN-SUFFIX,mnc320.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc320.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-330
+# Operators: Wireless Partners LLC | Wireless Partners, LLC
+DOMAIN-SUFFIX,mnc330.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc330.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-340
+# Operators: Limitless Mobile, LLC | Limitless Mobile
+DOMAIN-SUFFIX,mnc340.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc340.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-350
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc350.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc350.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-370
+# Operators: Docomo Pacific Inc | DOCOMO PACIFIC
+DOMAIN-SUFFIX,mnc370.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc370.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-380
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc380.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-390
+# Operators: TX-11 Acquisition LLC | Cellular One of East Texas
+DOMAIN-SUFFIX,mnc390.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-410
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc410.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc410.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-420
+# Operators: World Mobile Networks, Inc | USA World Mobile
+DOMAIN-SUFFIX,mnc420.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-430
+# Operators: GCI Communications Corp | GCI
+DOMAIN-SUFFIX,mnc430.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc430.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-440
+# Operators: Numerex Corp | Numerex
+DOMAIN-SUFFIX,mnc440.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc440.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-450
+# Operators: North East Cellular Inc. | Viaero Wireless
+DOMAIN-SUFFIX,mnc450.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc450.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-470
+# Operators: Docomo Pacific Inc | DOCOMO PACIFIC
+DOMAIN-SUFFIX,mnc470.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc470.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-480
+# Operators: PTI Pacifica, Inc. | IT&E Wireless
+DOMAIN-SUFFIX,mnc480.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc480.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-490
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc490.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-500
+# Operators: Public Service Cellular, Inc. | Alltel
+DOMAIN-SUFFIX,mnc500.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc500.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-510
+# Operators: Nsight | Cellcom
+DOMAIN-SUFFIX,mnc510.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc510.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-520
+# Operators: Transactions Network Services (TNS) | TNS
+DOMAIN-SUFFIX,mnc520.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc520.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-530
+# Operators: T-Mobile
+DOMAIN-SUFFIX,mnc530.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc530.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-550
+# Operators: Syniverse Technologies | SyniverseTechnologies
+DOMAIN-SUFFIX,mnc550.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc550.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-570
+# Operators: Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LLC dba CellularOne | Broadpoint, LLC
+DOMAIN-SUFFIX,mnc570.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-580
+# Operators: Inland Cellular Telephone Company | Inland Cellular
+DOMAIN-SUFFIX,mnc580.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc580.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-590
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc590.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc590.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-591
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc591.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc591.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-592
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc592.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc592.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-593
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc593.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc593.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-594
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc594.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc594.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-595
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc595.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc595.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-596
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc596.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc596.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-597
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc597.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc597.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-598
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc598.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc598.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-599
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc599.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc599.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-600
+# Operators: NewCell dba Cellcom | Cellcom
+DOMAIN-SUFFIX,mnc600.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-620
+# Operators: Nsighttel Wireless, LLC | Cellcom
+DOMAIN-SUFFIX,mnc620.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-630
+# Operators: Choice Wireless | USA AmeriLink
+DOMAIN-SUFFIX,mnc630.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc630.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-640
+# Operators: Numerex Corp | Numerex
+DOMAIN-SUFFIX,mnc640.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc640.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-650
+# Operators: JASPER TECHNOLOGIES INC. | Jasper
+DOMAIN-SUFFIX,mnc650.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc650.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-660
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc660.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc660.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-670
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc670.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc670.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-680
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc680.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc680.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-690
+# Operators: Limitless Mobile, LLC | Limitless Mobile
+DOMAIN-SUFFIX,mnc690.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-700
+# Operators: Cross Valiant Cellular Partnership | Bigfoot Cellular
+DOMAIN-SUFFIX,mnc700.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-710
+# Operators: Arctic Slope Telephone Association Cooperative | ASTAC
+DOMAIN-SUFFIX,mnc710.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc710.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-720
+# Operators: Syniverse Technologies | SyniverseTechnologies
+DOMAIN-SUFFIX,mnc720.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc720.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-740
+# Operators: Viaero Wireless | Viaero
+DOMAIN-SUFFIX,mnc740.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc740.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-750
+# Operators: East Kentucky Network LLC dba Appalachian Wireless | Appalachian Wireless
+DOMAIN-SUFFIX,mnc750.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc750.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-760
+# Operators: Lynch 3G Communications Corporation
+DOMAIN-SUFFIX,mnc760.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-770
+# Operators: T-Mobile
+DOMAIN-SUFFIX,mnc770.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc770.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-790
+# Operators: PinPoint Communications Inc. | BLAZE
+DOMAIN-SUFFIX,mnc790.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc790.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-800
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc800.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc800.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-810
+# Operators: Pacific Lightwave Inc.
+DOMAIN-SUFFIX,mnc810.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-820
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc820.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc820.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-830
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc830.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc830.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-840
+# Operators: Telecom North America Mobile Inc | telna Mobile
+DOMAIN-SUFFIX,mnc840.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc840.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-850
+# Operators: Aeris Communications, Inc. | Aeris
+DOMAIN-SUFFIX,mnc850.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc850.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-880
+# Operators: Advantage Cellular Systems, Inc. | DTC Wireless
+DOMAIN-SUFFIX,mnc880.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc880.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-890
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc890.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc890.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-891
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc891.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc891.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-892
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc892.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc892.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-893
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc893.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc893.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-894
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc894.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc894.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-895
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc895.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc895.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-896
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc896.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc896.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-897
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc897.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc897.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-898
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc898.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc898.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-899
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc899.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc899.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-910
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc910.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc910.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-920
+# Operators: James Valley Wireless LLC | James Valley Wireless, LLC
+DOMAIN-SUFFIX,mnc920.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc920.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-930
+# Operators: Copper Valley Wireless
+DOMAIN-SUFFIX,mnc930.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc930.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-940
+# Operators: Tyntec Limited | TyntecInc.
+DOMAIN-SUFFIX,mnc940.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc940.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-950
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc950.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc950.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-960
+# Operators: UBET Wireless | STRATA
+DOMAIN-SUFFIX,mnc960.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc960.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-970
+# Operators: Globalstar USA | Globalstar
+DOMAIN-SUFFIX,mnc970.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc970.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 310-990
+# Operators: Evolve Cellular Inc. | Worldcall
+DOMAIN-SUFFIX,mnc990.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc990.mcc310.pub.3gppnetwork.org
+
+# MCC-MNC: 311-030
+# Operators: Indigo Wireless, Inc. | —
+DOMAIN-SUFFIX,mnc030.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-040
+# Operators: Commnet Wireless LLC | Choice Wireless ; Commnet Wireless LLC | USA - Commnet
+DOMAIN-SUFFIX,mnc040.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-050
+# Operators: Thumb Cellular Limited Partnership | Thumb Cellular LP
+DOMAIN-SUFFIX,mnc050.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-060
+# Operators: Space Data Corporation
+DOMAIN-SUFFIX,mnc060.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-070
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc070.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-080
+# Operators: Pine Telephone Company dba Pine Cellular | Pine Cellular
+DOMAIN-SUFFIX,mnc080.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-090
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc090.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-100
+# Operators: Nex-Tech Wireless LLC | Nex-Tech Wireless
+DOMAIN-SUFFIX,mnc100.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-110
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc110.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc110.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-120
+# Operators: PTI Pacifica, Inc. | IT&E Wireless
+DOMAIN-SUFFIX,mnc120.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc120.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-140
+# Operators: Cross Telephone Company | Bravado Wireless
+DOMAIN-SUFFIX,mnc140.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc140.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-170
+# Operators: Tampnet (formerly Broadpoint, LLC (former PetroCom, LLC) c/o MTPCS, LL | Tampnet
+DOMAIN-SUFFIX,mnc170.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc170.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-180
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc180.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc180.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-190
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc190.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc190.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-200
+# Operators: Dish Wireless
+DOMAIN-SUFFIX,mnc200.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-210
+# Operators: Telnyx LLC
+DOMAIN-SUFFIX,mnc210.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-225
+# Operators: U.S. Cellular | —
+DOMAIN-SUFFIX,mnc225.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc225.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-228
+# Operators: U.S. Cellular | —
+DOMAIN-SUFFIX,mnc228.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc228.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-229
+# Operators: U.S. Cellular | —
+DOMAIN-SUFFIX,mnc229.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc229.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-230
+# Operators: Cellular South Inc. | C Spire
+DOMAIN-SUFFIX,mnc230.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc230.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-240
+# Operators: Cordova Wireless Communications Inc | USACWCI
+DOMAIN-SUFFIX,mnc240.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc240.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-260
+# Operators: T-Mobile
+DOMAIN-SUFFIX,mnc260.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc260.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-270
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc270.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-271
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc271.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc271.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-272
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc272.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc272.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-273
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc273.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc273.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-274
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc274.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc274.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-275
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc275.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc275.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-276
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc276.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc276.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-277
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc277.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc277.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-278
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc278.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc278.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-279
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc279.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc279.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-280
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc280.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc280.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-281
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc281.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc281.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-282
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc282.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc282.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-283
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc283.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc283.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-284
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc284.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc284.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-285
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc285.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc285.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-286
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc286.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc286.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-287
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc287.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc287.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-288
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc288.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc288.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-289
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc289.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc289.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-320
+# Operators: Commnet Wireless LLC | Choice Wireless
+DOMAIN-SUFFIX,mnc320.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc320.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-330
+# Operators: Bug Tussel Wireless LLC | Bug Tussel Wireless
+DOMAIN-SUFFIX,mnc330.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc330.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-340
+# Operators: Illinois Valley Cellular
+DOMAIN-SUFFIX,mnc340.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc340.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-350
+# Operators: Sagebrush Cellular Inc dba Nemont | Nemont
+DOMAIN-SUFFIX,mnc350.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc350.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-360
+# Operators: Stelera Wireless LLC | Stelera Wireless
+DOMAIN-SUFFIX,mnc360.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-370
+# Operators: GCI Communications Corp | GCI
+DOMAIN-SUFFIX,mnc370.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc370.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-380
+# Operators: New Dimension Wireless Ltd | New Dimension Wireless Ltd.
+DOMAIN-SUFFIX,mnc380.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-390
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc390.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-400
+# Operators: TEST IMSI HNI | —
+DOMAIN-SUFFIX,mnc400.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc400.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-420
+# Operators: Northwest Cell | NorthwestCell
+DOMAIN-SUFFIX,mnc420.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-430
+# Operators: RSA 1 Limited Partnership dba Cellular 29 Plus | —
+DOMAIN-SUFFIX,mnc430.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc430.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-440
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc440.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc440.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-450
+# Operators: Panhandle Telecommunication Systems Inc. | PTCI
+DOMAIN-SUFFIX,mnc450.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc450.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-470
+# Operators: Vitelcom Cellular D/B/A Innovative Wireless | Viya
+DOMAIN-SUFFIX,mnc470.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc470.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-480
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc480.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc480.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-481
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc481.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc481.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-482
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc482.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc482.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-483
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc483.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc483.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-484
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc484.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc484.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-485
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc485.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc485.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-486
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc486.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc486.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-487
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc487.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc487.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-488
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc488.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc488.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-489
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc489.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc489.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-490
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc490.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-500
+# Operators: Mobi
+DOMAIN-SUFFIX,mnc500.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc500.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-510
+# Operators: Ligado Networks
+DOMAIN-SUFFIX,mnc510.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc510.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-530
+# Operators: WorldCell Solutions LLC | USANW
+DOMAIN-SUFFIX,mnc530.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc530.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-540
+# Operators: Coeur Rochester, Inc
+DOMAIN-SUFFIX,mnc540.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc540.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-550
+# Operators: Commnet Wireless, LLC | Choice Wireless
+DOMAIN-SUFFIX,mnc550.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc550.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-560
+# Operators: OTZ Communications Inc | USA OTZ
+DOMAIN-SUFFIX,mnc560.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc560.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-570
+# Operators: Mediacom
+DOMAIN-SUFFIX,mnc570.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-580
+# Operators: U.S. Cellular | U.S.Cellular
+DOMAIN-SUFFIX,mnc580.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc580.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-588
+# Operators: U.S. Cellular | —
+DOMAIN-SUFFIX,mnc588.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc588.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-589
+# Operators: U.S. Cellular | —
+DOMAIN-SUFFIX,mnc589.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc589.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-590
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc590.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc590.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-600
+# Operators: Limitless Mobile, LLC | Limitless Mobile
+DOMAIN-SUFFIX,mnc600.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-620
+# Operators: TerreStar Networks Inc. | TerreStar Networks, Inc.
+DOMAIN-SUFFIX,mnc620.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-630
+# Operators: Cellular South Inc. | C Spire
+DOMAIN-SUFFIX,mnc630.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc630.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-640
+# Operators: Standing Rock Telecommunications | Rock Wireless
+DOMAIN-SUFFIX,mnc640.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc640.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-650
+# Operators: United Wireless Inc | United Wireless USA
+DOMAIN-SUFFIX,mnc650.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc650.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-660
+# Operators: Metro PCS Wireless Inc | Metro PCS
+DOMAIN-SUFFIX,mnc660.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc660.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-670
+# Operators: Pine Belt Cellular Inc dba Pine Belt Wireless | Pine Belt Wireless
+DOMAIN-SUFFIX,mnc670.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc670.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-680
+# Operators: GreenFly LLC
+DOMAIN-SUFFIX,mnc680.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc680.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-690
+# Operators: TeleBeeper of New Mexico Inc | TeleBEEPER of New Mexico
+DOMAIN-SUFFIX,mnc690.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-720
+# Operators: Maine PCS LLC | MainePCS LLC
+DOMAIN-SUFFIX,mnc720.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc720.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-740
+# Operators: Telalaska Cellular
+DOMAIN-SUFFIX,mnc740.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc740.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-760
+# Operators: Reclaimed 06/21/2016 | —
+DOMAIN-SUFFIX,mnc760.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-770
+# Operators: Altiostar Networks, Inc.
+DOMAIN-SUFFIX,mnc770.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc770.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-780
+# Operators: The American Samoa Telecommunications Authority | ASTCA
+DOMAIN-SUFFIX,mnc780.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc780.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-790
+# Operators: Coleman County Telephone Cooperative, Inc.
+DOMAIN-SUFFIX,mnc790.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc790.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-800
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc800.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc800.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-810
+# Operators: Verizon Wireless
+DOMAIN-SUFFIX,mnc810.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-820
+# Operators: Ribbon Communications
+DOMAIN-SUFFIX,mnc820.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc820.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-830
+# Operators: Thumb Cellular LLC | Thumb Cellular LP
+DOMAIN-SUFFIX,mnc830.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc830.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-840
+# Operators: Nsight | Cellcom
+DOMAIN-SUFFIX,mnc840.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc840.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-850
+# Operators: Nsight | Cellcom
+DOMAIN-SUFFIX,mnc850.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc850.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-860
+# Operators: Uintah Basin Electronic Telecommunications | STRATA
+DOMAIN-SUFFIX,mnc860.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc860.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-870
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc870.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc870.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-880
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc880.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc880.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-882
+# Operators: T-Mobile
+DOMAIN-SUFFIX,mnc882.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc882.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-890
+# Operators: Globecomm Network Services Corporation
+DOMAIN-SUFFIX,mnc890.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc890.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-900
+# Operators: Gigsky Inc. | GigSky
+DOMAIN-SUFFIX,mnc900.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc900.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-940
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc940.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc940.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-970
+# Operators: Big River Broadband LLC | Big River Broadband
+DOMAIN-SUFFIX,mnc970.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc970.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 311-990
+# Operators: VTel Wireless | VTW US
+DOMAIN-SUFFIX,mnc990.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc990.mcc311.pub.3gppnetwork.org
+
+# MCC-MNC: 312-020
+# Operators: Infrastructure Networks LLC | Infrastructure Networks, LLC
+DOMAIN-SUFFIX,mnc020.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-030
+# Operators: Cross Wireless | Bravado Wireless
+DOMAIN-SUFFIX,mnc030.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-040
+# Operators: Custer Telephone Cooperative Inc | Custer Telephone Co-op(CTCI)
+DOMAIN-SUFFIX,mnc040.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-080
+# Operators: South Georgia Regional Information Technology Authority | SyncSouth
+DOMAIN-SUFFIX,mnc080.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-090
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc090.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-100
+# Operators: ClearSky Technologies Inc | ClearSky Technologies, Inc.
+DOMAIN-SUFFIX,mnc100.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-120
+# Operators: East Kentucky Network LLC dba Appalachian Wireless | Appalachian Wireless
+DOMAIN-SUFFIX,mnc120.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc120.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-130
+# Operators: East Kentucky Network LLC dba Appalachian Wireless | Appalachian Wireless
+DOMAIN-SUFFIX,mnc130.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-150
+# Operators: Northwest Cell | NorthwestCell
+DOMAIN-SUFFIX,mnc150.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc150.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-160
+# Operators: RSA1 Limited Partnership dba Chat Mobility | Chat Mobility
+DOMAIN-SUFFIX,mnc160.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-180
+# Operators: Limitless Mobile, LLC | Limitless Mobile
+DOMAIN-SUFFIX,mnc180.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc180.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-190
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc190.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc190.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-210
+# Operators: ASPENTA, LLC | Aspenta International, Inc.
+DOMAIN-SUFFIX,mnc210.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-240
+# Operators: Sprint
+DOMAIN-SUFFIX,mnc240.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc240.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-250
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc250.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc250.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-260
+# Operators: WorldCell Solutions LLC | USACL
+DOMAIN-SUFFIX,mnc260.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc260.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-280
+# Operators: Cellular Network Partnership dba Pioneer Cellular | Pioneer Cellular
+DOMAIN-SUFFIX,mnc280.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc280.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-290
+# Operators: Uintah Basin Electronic Telecommunications | Strata Networks USA
+DOMAIN-SUFFIX,mnc290.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-300
+# Operators: Telecom North America Mobile Inc. | telna Mobile
+DOMAIN-SUFFIX,mnc300.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc300.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-310
+# Operators: Clear Stream Communications, LLC
+DOMAIN-SUFFIX,mnc310.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc310.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-320
+# Operators: S and R Communications LLC | RTC Communications LLC
+DOMAIN-SUFFIX,mnc320.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc320.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-330
+# Operators: Nemont Communications, Inc. | Nemont
+DOMAIN-SUFFIX,mnc330.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc330.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-350
+# Operators: Triangle Communication System Inc.
+DOMAIN-SUFFIX,mnc350.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc350.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-360
+# Operators: Wes-Tex Telecommunications, LTD | Wes-Tex Telecommunications, Ltd.
+DOMAIN-SUFFIX,mnc360.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-370
+# Operators: Commnet Wireless | Choice Wireless
+DOMAIN-SUFFIX,mnc370.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc370.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-380
+# Operators: Copper Valley Wireless
+DOMAIN-SUFFIX,mnc380.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-390
+# Operators: FTC Communications LLC | FTC Wireless
+DOMAIN-SUFFIX,mnc390.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-400
+# Operators: Mid-Rivers Telephone Cooperative | Mid-Rivers Wireless
+DOMAIN-SUFFIX,mnc400.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc400.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-410
+# Operators: Eltopia Communications, LLC
+DOMAIN-SUFFIX,mnc410.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc410.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-420
+# Operators: Nex-Tech Wireless, LLC | Nex-Tech Wireless USA
+DOMAIN-SUFFIX,mnc420.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-430
+# Operators: Silver Star Communications | Silverstar
+DOMAIN-SUFFIX,mnc430.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc430.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-450
+# Operators: Cable & Communications Corporation
+DOMAIN-SUFFIX,mnc450.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc450.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-460
+# Operators: KPU Telecommunications Division | —
+DOMAIN-SUFFIX,mnc460.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc460.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-470
+# Operators: Carolina West Wireless, Inc. | Carolina West Wireless
+DOMAIN-SUFFIX,mnc470.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc470.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-480
+# Operators: Sagebrush Cellular, Inc. | Nemont
+DOMAIN-SUFFIX,mnc480.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc480.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-490
+# Operators: TrustComm, Inc | TrustComm, Inc.
+DOMAIN-SUFFIX,mnc490.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-510
+# Operators: Wue | WUE Inc.
+DOMAIN-SUFFIX,mnc510.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc510.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-530
+# Operators: T-Mobile USA | T-Mobile
+DOMAIN-SUFFIX,mnc530.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc530.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-580
+# Operators: Google LLC | GoogleLLC
+DOMAIN-SUFFIX,mnc580.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc580.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-590
+# Operators: Northern Michigan University | NMU
+DOMAIN-SUFFIX,mnc590.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc590.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-600
+# Operators: Sagebrush Cellular, Inc. | Nemont
+DOMAIN-SUFFIX,mnc600.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-610
+# Operators: ShawnTech Communications
+DOMAIN-SUFFIX,mnc610.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc610.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-630
+# Operators: NetGenuity, Inc. | NetGenuity
+DOMAIN-SUFFIX,mnc630.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc630.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-650
+# Operators: Brightlink
+DOMAIN-SUFFIX,mnc650.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc650.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-670
+# Operators: AT&T Mobility | FirstNet
+DOMAIN-SUFFIX,mnc670.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc670.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-680
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc680.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc680.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-700
+# Operators: Wireless Partners,LLC | Wireless Partners, LLC
+DOMAIN-SUFFIX,mnc700.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-710
+# Operators: Great North Woods Wireless LLC
+DOMAIN-SUFFIX,mnc710.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc710.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-720
+# Operators: Southern Communications Services, Inc. D/B/A SouthernLINC Wireless | Southern Linc
+DOMAIN-SUFFIX,mnc720.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc720.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-730
+# Operators: Triangle Communication System Inc.
+DOMAIN-SUFFIX,mnc730.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc730.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-750
+# Operators: Artemis | Artemis Networks LLC
+DOMAIN-SUFFIX,mnc750.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc750.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-770
+# Operators: Verizon Wireless | Verizon
+DOMAIN-SUFFIX,mnc770.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc770.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-780
+# Operators: RedZone Wireless LLC | Redzone Wireless
+DOMAIN-SUFFIX,mnc780.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc780.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-790
+# Operators: Gila Electronics
+DOMAIN-SUFFIX,mnc790.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc790.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-800
+# Operators: Cirrus Core Networks
+DOMAIN-SUFFIX,mnc800.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc800.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-820
+# Operators: Santel Communications Cooperative, Inc.
+DOMAIN-SUFFIX,mnc820.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc820.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-830
+# Operators: Kings County Office of Education
+DOMAIN-SUFFIX,mnc830.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc830.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-840
+# Operators: South Georgia Regional Information Technology | South Georgia Regional Information Technology Authority
+DOMAIN-SUFFIX,mnc840.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc840.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-850
+# Operators: Onvoy Spectrum, LLC
+DOMAIN-SUFFIX,mnc850.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc850.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-860
+# Operators: Flat Wireless, LLC | ClearTalk
+DOMAIN-SUFFIX,mnc860.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc860.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-870
+# Operators: GigSky Mobile, LLC
+DOMAIN-SUFFIX,mnc870.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc870.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-880
+# Operators: Albemarle County Public Schools
+DOMAIN-SUFFIX,mnc880.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc880.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-890
+# Operators: Circle Gx
+DOMAIN-SUFFIX,mnc890.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc890.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-900
+# Operators: Flat West Wireless, LLC | ClearTalk
+DOMAIN-SUFFIX,mnc900.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc900.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-910
+# Operators: East Kentucky Network LLC dba Appalachian Wireless | Appalachian Wireless
+DOMAIN-SUFFIX,mnc910.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc910.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-920
+# Operators: Northeast Wireless Networks | Northeast Wireless Networks LLC
+DOMAIN-SUFFIX,mnc920.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc920.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-930
+# Operators: Hewlett-Packard Communication Services, LLC | HNI
+DOMAIN-SUFFIX,mnc930.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc930.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-940
+# Operators: Webformix
+DOMAIN-SUFFIX,mnc940.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc940.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-950
+# Operators: Custer Telephone Cooperative, Inc | Custer Telephone Co-op(CTCI)
+DOMAIN-SUFFIX,mnc950.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc950.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-960
+# Operators: M&A Technology, Inc.
+DOMAIN-SUFFIX,mnc960.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc960.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-970
+# Operators: IOSAZ Intellectual Property LLC
+DOMAIN-SUFFIX,mnc970.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc970.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 312-980
+# Operators: Mark Twain Communications Company
+DOMAIN-SUFFIX,mnc980.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc980.mcc312.pub.3gppnetwork.org
+
+# MCC-MNC: 313-000
+# Operators: Tennessee Wireless | —
+DOMAIN-SUFFIX,mnc000.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-010
+# Operators: Cross Wireless LLC dba Bravado Wireless | Bravado Wireless
+DOMAIN-SUFFIX,mnc010.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-020
+# Operators: CTC Telecom, INC. dba CTC Wireless | CTC Wireless
+DOMAIN-SUFFIX,mnc020.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-030
+# Operators: AT&T Mobility
+DOMAIN-SUFFIX,mnc030.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-040
+# Operators: Nucla-Naturita Telephone Company | NNTC Wireless
+DOMAIN-SUFFIX,mnc040.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-050
+# Operators: Manti Tele Communications Company, Inc. dba Breakaway Wireless | Breakaway Wireless
+DOMAIN-SUFFIX,mnc050.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-060
+# Operators: Country Wireless
+DOMAIN-SUFFIX,mnc060.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-061
+# Operators: Country Wireless
+DOMAIN-SUFFIX,mnc061.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc061.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-070
+# Operators: Midwest Network Solutions Hub LLC ; Midwest Network Solutions Hub LLC | MNSHub
+DOMAIN-SUFFIX,mnc070.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-090
+# Operators: Vivint Wireless, Inc | Vivint Wireless, Inc.
+DOMAIN-SUFFIX,mnc090.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-100
+# Operators: AT&T FirstNet | FirstNet
+DOMAIN-SUFFIX,mnc100.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-110
+# Operators: AT&T FirstNet | FirstNet
+DOMAIN-SUFFIX,mnc110.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc110.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-120
+# Operators: AT&T FirstNet | ASM ASTCA
+DOMAIN-SUFFIX,mnc120.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc120.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-130
+# Operators: AT&T FirstNet | FirstNet
+DOMAIN-SUFFIX,mnc130.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-140
+# Operators: AT&T FirstNet | FirstNet
+DOMAIN-SUFFIX,mnc140.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc140.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-150
+# Operators: RESERVED FOR PUBLIC SAFETY | FirstNet
+DOMAIN-SUFFIX,mnc150.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc150.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-160
+# Operators: RESERVED FOR PUBLIC SAFETY | FirstNet
+DOMAIN-SUFFIX,mnc160.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-170
+# Operators: RESERVED FOR PUBLIC SAFETY | FirstNet
+DOMAIN-SUFFIX,mnc170.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc170.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-180
+# Operators: RESERVED FOR PUBLIC SAFETY | FirstNet
+DOMAIN-SUFFIX,mnc180.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc180.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-190
+# Operators: RESERVED FOR PUBLIC SAFETY | FirstNet
+DOMAIN-SUFFIX,mnc190.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc190.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-200
+# Operators: Mercury Network Corporation
+DOMAIN-SUFFIX,mnc200.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-210
+# Operators: AT&T Mobility | AT&T
+DOMAIN-SUFFIX,mnc210.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-220
+# Operators: Custer Telephone Cooperative,Inc. | Custer Telephone Co-op(CTCI)
+DOMAIN-SUFFIX,mnc220.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc220.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-230
+# Operators: Velocity Communications Inc | Velocity Communications Inc.
+DOMAIN-SUFFIX,mnc230.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc230.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-240
+# Operators: Fundamental Holdings, Corp | Peak Internet
+DOMAIN-SUFFIX,mnc240.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc240.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-250
+# Operators: Imperial County Office of Education
+DOMAIN-SUFFIX,mnc250.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc250.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-260
+# Operators: Expeto Wireless Inc.
+DOMAIN-SUFFIX,mnc260.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc260.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-280
+# Operators: King Street Wireless, LP
+DOMAIN-SUFFIX,mnc280.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc280.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-290
+# Operators: Gulf Coast Broadband LLC
+DOMAIN-SUFFIX,mnc290.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-300
+# Operators: Southern California Edison | —
+DOMAIN-SUFFIX,mnc300.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc300.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-310
+# Operators: CAL.NET, INC | CAL.NET, Inc.
+DOMAIN-SUFFIX,mnc310.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc310.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-320
+# Operators: Paladin Wireless
+DOMAIN-SUFFIX,mnc320.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc320.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-330
+# Operators: CenturyTel Broadband Services LLC
+DOMAIN-SUFFIX,mnc330.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc330.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-340
+# Operators: Dish Network | Dish
+DOMAIN-SUFFIX,mnc340.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc340.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-350
+# Operators: Dish Network | Dish
+DOMAIN-SUFFIX,mnc350.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc350.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-360
+# Operators: Dish Network | Dish
+DOMAIN-SUFFIX,mnc360.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-370
+# Operators: Red Truck Wireless, LLC
+DOMAIN-SUFFIX,mnc370.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc370.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-380
+# Operators: OptimERA Inc. | OptimERA
+DOMAIN-SUFFIX,mnc380.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-390
+# Operators: Altice USA Wireless, Inc. | Altice USAWireless, Inc.
+DOMAIN-SUFFIX,mnc390.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-400
+# Operators: Texoma Communications, LLC
+DOMAIN-SUFFIX,mnc400.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc400.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-410
+# Operators: Anterix Inc. | —
+DOMAIN-SUFFIX,mnc410.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc410.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-420
+# Operators: Hudson Valley Wireless
+DOMAIN-SUFFIX,mnc420.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-440
+# Operators: Arvig Enterprises INC | Arvig Enterprises, Inc.
+DOMAIN-SUFFIX,mnc440.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc440.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-450
+# Operators: Spectrum Wireless Holdings, LLC | Spectrum Mobile
+DOMAIN-SUFFIX,mnc450.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc450.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-460
+# Operators: Mobi
+DOMAIN-SUFFIX,mnc460.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc460.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-470
+# Operators: San Diego Gas & Electric Company | San Diego Gas & ElectricCompany
+DOMAIN-SUFFIX,mnc470.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc470.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-480
+# Operators: Ready Wireless, LLC
+DOMAIN-SUFFIX,mnc480.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc480.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-490
+# Operators: Puloli, Inc.
+DOMAIN-SUFFIX,mnc490.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-500
+# Operators: Shelcomm, Inc | Shelcomm, Inc.
+DOMAIN-SUFFIX,mnc500.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc500.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-510
+# Operators: Puerto Rico Telephone Company | Puerto Rico Telecom Company
+DOMAIN-SUFFIX,mnc510.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc510.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-520
+# Operators: Florida Broadband, Inc | Florida Broadband, Inc.
+DOMAIN-SUFFIX,mnc520.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc520.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-540
+# Operators: Nokia Innovations US LLC
+DOMAIN-SUFFIX,mnc540.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc540.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-550
+# Operators: Mile High Networks LLC
+DOMAIN-SUFFIX,mnc550.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc550.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-560
+# Operators: Boldyn Networks Transit US LLC | —
+DOMAIN-SUFFIX,mnc560.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc560.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-580
+# Operators: Telecall Telecommuncations Corp. | Telecall Telecommunications Corp.
+DOMAIN-SUFFIX,mnc580.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc580.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-590
+# Operators: Southern Communications Services, Inc. D/B/A Southern Linc | Southern LINC
+DOMAIN-SUFFIX,mnc590.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc590.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-610
+# Operators: Point Broadband Fiber Holding, LLC | —
+DOMAIN-SUFFIX,mnc610.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc610.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-620
+# Operators: Omniprophis Corporation | —
+DOMAIN-SUFFIX,mnc620.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-630
+# Operators: LICT Corporation
+DOMAIN-SUFFIX,mnc630.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc630.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-640
+# Operators: Geoverse | Geoverse LLC
+DOMAIN-SUFFIX,mnc640.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc640.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-650
+# Operators: Chevron USA INC | Chevron USA, Inc.
+DOMAIN-SUFFIX,mnc650.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc650.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-660
+# Operators: Hudson Valley Wireless
+DOMAIN-SUFFIX,mnc660.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc660.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-670
+# Operators: Hudson Valley Wireless
+DOMAIN-SUFFIX,mnc670.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc670.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-680
+# Operators: Hudson Valley Wireless
+DOMAIN-SUFFIX,mnc680.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc680.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-690
+# Operators: Shenandoah Cable Television, LLC
+DOMAIN-SUFFIX,mnc690.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-700
+# Operators: Ameren Services Company
+DOMAIN-SUFFIX,mnc700.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-710
+# Operators: Extenet Systems | Extent Systems
+DOMAIN-SUFFIX,mnc710.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc710.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-720
+# Operators: 1st Point Communications, LLC
+DOMAIN-SUFFIX,mnc720.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc720.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-730
+# Operators: TruAccess Networks
+DOMAIN-SUFFIX,mnc730.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc730.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-740
+# Operators: RTO Wireless | RTO Wireless, LLC
+DOMAIN-SUFFIX,mnc740.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc740.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-750
+# Operators: CellTex Networks, LLC | ZipLink
+DOMAIN-SUFFIX,mnc750.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc750.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-760
+# Operators: Hologram | Hologram, Inc.
+DOMAIN-SUFFIX,mnc760.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-770
+# Operators: Tango Networks | Tango Extend
+DOMAIN-SUFFIX,mnc770.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc770.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-780
+# Operators: Windstream Services LLC | Windstream Holdings
+DOMAIN-SUFFIX,mnc780.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc780.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-790
+# Operators: Liberty Cablevision of Puerto Rico LLC | Liberty
+DOMAIN-SUFFIX,mnc790.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc790.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-810
+# Operators: W.A.T.C.H. TV Co. dba Watch Communications | Watch Communications
+DOMAIN-SUFFIX,mnc810.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-820
+# Operators: Inland Cellular Telephone Company
+DOMAIN-SUFFIX,mnc820.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc820.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-830
+# Operators: 360 communications INC | 360 Communications
+DOMAIN-SUFFIX,mnc830.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc830.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-840
+# Operators: Celblox Acquisitions | CellBlox Acquisitions
+DOMAIN-SUFFIX,mnc840.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc840.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-850
+# Operators: Softcom Internet Communications, Inc. | Softcom Internet Communications, Inc
+DOMAIN-SUFFIX,mnc850.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc850.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-860
+# Operators: AMG Technology Investment Group dba Nextlink Internet | Nextlink
+DOMAIN-SUFFIX,mnc860.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc860.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-870
+# Operators: Elektrafi LLC | ElektraFi LLC
+DOMAIN-SUFFIX,mnc870.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc870.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-880
+# Operators: Shuttle Wireless Solutions Inc. | Shuttle Wireless
+DOMAIN-SUFFIX,mnc880.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc880.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-890
+# Operators: Tulare County Office of Education | TCOE
+DOMAIN-SUFFIX,mnc890.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc890.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-900
+# Operators: All Tribal Networks | Tribal Networks
+DOMAIN-SUFFIX,mnc900.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc900.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-910
+# Operators: San Diego Gas and Electric | San Diego Gas & Electric
+DOMAIN-SUFFIX,mnc910.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc910.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-920
+# Operators: JCI US INC | JCI
+DOMAIN-SUFFIX,mnc920.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc920.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-930
+# Operators: Standing Rock Telecom | Rock Wireless
+DOMAIN-SUFFIX,mnc930.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc930.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-940
+# Operators: Motorola Solutions, Inc | Motorola Solutions
+DOMAIN-SUFFIX,mnc940.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc940.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-950
+# Operators: Cheyenne and Arapaho Development Group
+DOMAIN-SUFFIX,mnc950.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc950.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-960
+# Operators: Townes 5G, LLC
+DOMAIN-SUFFIX,mnc960.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc960.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-970
+# Operators: Tychron Corporation | Tychron
+DOMAIN-SUFFIX,mnc970.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc970.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 313-990
+# Operators: Ericsson US | EricssonUS
+DOMAIN-SUFFIX,mnc990.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc990.mcc313.pub.3gppnetwork.org
+
+# MCC-MNC: 314-010
+# Operators: Boingo Wireless Inc | —
+DOMAIN-SUFFIX,mnc010.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-020
+# Operators: Spectrum Wireless Holdings, LLC
+DOMAIN-SUFFIX,mnc020.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-030
+# Operators: Baicells Technologies North America Inc.
+DOMAIN-SUFFIX,mnc030.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-060
+# Operators: Texas A&M University System – RELLIS Campus | Texas A&M University
+DOMAIN-SUFFIX,mnc060.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-070
+# Operators: Texas A&M University System – RELLIS Campus | Texas A&M University
+DOMAIN-SUFFIX,mnc070.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-080
+# Operators: Texas A&M University System – RELLIS Campus | Texas A&M University
+DOMAIN-SUFFIX,mnc080.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-090
+# Operators: Southern Communications Services, Inc. D/B/A Southern Linc | Southern LINC
+DOMAIN-SUFFIX,mnc090.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-100
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc100.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-110
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc110.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc110.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-120
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc120.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc120.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-130
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc130.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-140
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc140.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc140.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-150
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc150.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc150.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-160
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc160.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-170
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc170.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc170.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-180
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc180.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc180.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-190
+# Operators: RESERVED FOR PUBLIC SAFETY | —
+DOMAIN-SUFFIX,mnc190.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc190.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-200
+# Operators: XF Wireless Investments | XF Wireless Investments, LLC
+DOMAIN-SUFFIX,mnc200.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-210
+# Operators: Telecom Resource Center
+DOMAIN-SUFFIX,mnc210.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-220
+# Operators: Secrus Technologies | Securus Technologies
+DOMAIN-SUFFIX,mnc220.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc220.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-230
+# Operators: Trace-Tek | Trace-Tek LLC
+DOMAIN-SUFFIX,mnc230.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc230.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-240
+# Operators: XF Wireless Investments | XF Wireless Investments, LLC
+DOMAIN-SUFFIX,mnc240.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc240.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-260
+# Operators: AT&T Mobility
+DOMAIN-SUFFIX,mnc260.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc260.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-270
+# Operators: AT&T Mobility
+DOMAIN-SUFFIX,mnc270.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-280
+# Operators: Pollen Mobile LLC
+DOMAIN-SUFFIX,mnc280.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc280.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-290
+# Operators: Wave
+DOMAIN-SUFFIX,mnc290.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-310
+# Operators: Terranet
+DOMAIN-SUFFIX,mnc310.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc310.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-320
+# Operators: Agri-Valley Communications, Inc
+DOMAIN-SUFFIX,mnc320.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc320.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-330
+# Operators: Nova Labs Inc. | Nova Labs Inc
+DOMAIN-SUFFIX,mnc330.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc330.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-340
+# Operators: E-MARCONI LLC | e/marconi
+DOMAIN-SUFFIX,mnc340.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc340.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-350
+# Operators: Evergy
+DOMAIN-SUFFIX,mnc350.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc350.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-360
+# Operators: Oceus Networks, LLC
+DOMAIN-SUFFIX,mnc360.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-370
+# Operators: Texas A&M University – ITEC | ITEC
+DOMAIN-SUFFIX,mnc370.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc370.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-380
+# Operators: Circle Computer Resources, Inc. | CCR
+DOMAIN-SUFFIX,mnc380.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-390
+# Operators: AT&T | AT&T Mobility
+DOMAIN-SUFFIX,mnc390.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-400
+# Operators: Cellular South Inc. dba C Spire | C Spire
+DOMAIN-SUFFIX,mnc400.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc400.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-410
+# Operators: Peeringhub Inc
+DOMAIN-SUFFIX,mnc410.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc410.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-420
+# Operators: Cox Communications, Inc | Cox Communications
+DOMAIN-SUFFIX,mnc420.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-430
+# Operators: Highway9 Networks, Inc. | Highway9 Networks, Inc
+DOMAIN-SUFFIX,mnc430.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc430.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-440
+# Operators: Tecore Global Services, LLC | TGS
+DOMAIN-SUFFIX,mnc440.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc440.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-450
+# Operators: NUWAVE Communications, Inc.
+DOMAIN-SUFFIX,mnc450.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc450.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-460
+# Operators: Texas A&M University
+DOMAIN-SUFFIX,mnc460.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc460.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-470
+# Operators: Manhattan Telecommunications Corporation LLC | MetTel
+DOMAIN-SUFFIX,mnc470.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc470.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-480
+# Operators: Xcel Energy Services Inc. | Xcel EnergyServices Inc.
+DOMAIN-SUFFIX,mnc480.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc480.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-490
+# Operators: Utah Education and Telehealth Network (UETN) | UETN
+DOMAIN-SUFFIX,mnc490.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-500
+# Operators: Aetheros Inc | Aetheros Inc.
+DOMAIN-SUFFIX,mnc500.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc500.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-510
+# Operators: SI Wireless LLC
+DOMAIN-SUFFIX,mnc510.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc510.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-520
+# Operators: Oklahoma Gas & Electric Company (OG&E) | OG+E
+DOMAIN-SUFFIX,mnc520.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc520.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-530
+# Operators: Agile Networks
+DOMAIN-SUFFIX,mnc530.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc530.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-540
+# Operators: RGTN USA, Inc. | RGTN
+DOMAIN-SUFFIX,mnc540.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc540.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-550
+# Operators: REALLY COMMUNICATIONS | REALLY
+DOMAIN-SUFFIX,mnc550.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc550.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-560
+# Operators: Private Tech, Inc., dba Cape | Cape
+DOMAIN-SUFFIX,mnc560.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc560.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-570
+# Operators: Newmont Corporation | NewmontCorporation
+DOMAIN-SUFFIX,mnc570.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-580
+# Operators: Lower Colorado River Authority
+DOMAIN-SUFFIX,mnc580.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc580.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-590
+# Operators: Lynk Global, Inc. | Lynk
+DOMAIN-SUFFIX,mnc590.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc590.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-600
+# Operators: XNET Inc | XNET Inc.
+DOMAIN-SUFFIX,mnc600.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-610
+# Operators: IMSI.AI
+DOMAIN-SUFFIX,mnc610.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc610.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-620
+# Operators: Memphis Light, Gas, and Water | Memphis Light, Gas and Water
+DOMAIN-SUFFIX,mnc620.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-630
+# Operators: Private Tech, Inc., dba Cape | Cape
+DOMAIN-SUFFIX,mnc630.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc630.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-640
+# Operators: Private Tech, Inc., dba Cape | Cape
+DOMAIN-SUFFIX,mnc640.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc640.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-650
+# Operators: Private Tech, Inc., dba Cape | Cape
+DOMAIN-SUFFIX,mnc650.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc650.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-660
+# Operators: Private Tech, Inc., dba Cape | Cape
+DOMAIN-SUFFIX,mnc660.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc660.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-670
+# Operators: Wi-DAS LLC
+DOMAIN-SUFFIX,mnc670.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc670.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-680
+# Operators: Comcast OTR1, LLC | Xfinity
+DOMAIN-SUFFIX,mnc680.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc680.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-690
+# Operators: Agri-Valley Communications, Inc | Agri-Valley Communications, Inc.
+DOMAIN-SUFFIX,mnc690.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-700
+# Operators: Tampa Electric Company
+DOMAIN-SUFFIX,mnc700.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-710
+# Operators: Tribal Ready, PBC | US Tribal Ready
+DOMAIN-SUFFIX,mnc710.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc710.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-720
+# Operators: OXIO, Inc.
+DOMAIN-SUFFIX,mnc720.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc720.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-730
+# Operators: TextNow, Inc. | TextNow USA
+DOMAIN-SUFFIX,mnc730.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc730.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-740
+# Operators: Ringer Mobile, LLC | Ringer
+DOMAIN-SUFFIX,mnc740.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc740.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-750
+# Operators: SDF, Inc.
+DOMAIN-SUFFIX,mnc750.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc750.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-760
+# Operators: Broadband Antenna Tracking Systems, Inc. (DBA. BATS Wireless) | BATS Wireless
+DOMAIN-SUFFIX,mnc760.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-770
+# Operators: Westbold LLC
+DOMAIN-SUFFIX,mnc770.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc770.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-780
+# Operators: Saint Regis Mohawk Tribe
+DOMAIN-SUFFIX,mnc780.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc780.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-790
+# Operators: Neuner Mobile Technologies LLC
+DOMAIN-SUFFIX,mnc790.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc790.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-800
+# Operators: Boost Network
+DOMAIN-SUFFIX,mnc800.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc800.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 314-810
+# Operators: ORCID - The Open RAN Center for Integration and Deployment | ORCID
+DOMAIN-SUFFIX,mnc810.mcc314.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc314.pub.3gppnetwork.org
+
+# MCC-MNC: 316-010
+# Operators: Sprint | —
+DOMAIN-SUFFIX,mnc010.mcc316.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc316.pub.3gppnetwork.org
+
+# MCC-MNC: 316-011
+# Operators: Southern Communications Services Inc. | Southern LINC
+DOMAIN-SUFFIX,mnc011.mcc316.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc316.pub.3gppnetwork.org
+
+# MCC-MNC: 316-700
+# Operators: Mile High Networks LLC
+DOMAIN-SUFFIX,mnc700.mcc316.3gppnetwork.org
+DOMAIN-SUFFIX,mnc700.mcc316.pub.3gppnetwork.org

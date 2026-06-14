@@ -1,0 +1,145 @@
+# Brazil
+# Source: https://mcc-mnc-lookup.com/country/br/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 724-00
+# Operators: NEXTEL | Claro BRA
+DOMAIN-SUFFIX,mnc000.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-01
+# Operators: SISTEER DO BRASIL TELECOMUNICAÇÔES (MVNO) | SISTEER DO BRASIL TELECOMUNICAÇÔES
+DOMAIN-SUFFIX,mnc001.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-02
+# Operators: TIM REGIÂO I | TIM BRA
+DOMAIN-SUFFIX,mnc002.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-03
+# Operators: TIM REGIÂO III | TIM BRA
+DOMAIN-SUFFIX,mnc003.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-04
+# Operators: TIM REGIÂO III | TIM BRA
+DOMAIN-SUFFIX,mnc004.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-05
+# Operators: CLARO | Claro ; CLARO | Claro BRA
+DOMAIN-SUFFIX,mnc005.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-06
+# Operators: Telefônica Brasil S.A. | Vivo ; Telefônica Brasil S.A. | VIVO
+DOMAIN-SUFFIX,mnc006.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-10
+# Operators: Telefônica Brasil S.A. | VIVO
+DOMAIN-SUFFIX,mnc010.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-11
+# Operators: Telefônica Brasil S.A. | VIVO
+DOMAIN-SUFFIX,mnc011.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-15
+# Operators: SERCOMTEL | Sercomtel
+DOMAIN-SUFFIX,mnc015.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-16
+# Operators: BRT CELULAR | —
+DOMAIN-SUFFIX,mnc016.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-17
+# Operators: SURF TELECOM S.A. | —
+DOMAIN-SUFFIX,mnc017.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-18
+# Operators: DATORA (MVNO) | datora
+DOMAIN-SUFFIX,mnc018.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-21
+# Operators: LIGUE
+DOMAIN-SUFFIX,mnc021.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-23
+# Operators: Telefônica Brasil S.A. | VIVO
+DOMAIN-SUFFIX,mnc023.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-24
+# Operators: AMAZONIA CELULAR | Amazonia Celular
+DOMAIN-SUFFIX,mnc024.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-30
+# Operators: TNL PCS Oi | Oi
+DOMAIN-SUFFIX,mnc030.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-31
+# Operators: TNL PCS Oi | Oi
+DOMAIN-SUFFIX,mnc031.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-32
+# Operators: CTBC CELULAR R III | Algar Telecom
+DOMAIN-SUFFIX,mnc032.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-33
+# Operators: CTBC CELULAR R II | Algar Telecom
+DOMAIN-SUFFIX,mnc033.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-34
+# Operators: CTBC CELULAR R I | Algar Telecom
+DOMAIN-SUFFIX,mnc034.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-35
+# Operators: TELCOM | Telcom Telecomunicações
+DOMAIN-SUFFIX,mnc035.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-36
+# Operators: OPTIONS | Options Telecomunicações
+DOMAIN-SUFFIX,mnc036.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-37
+# Operators: UNICEL | aeiou
+DOMAIN-SUFFIX,mnc037.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-38
+# Operators: CLARO | Claro
+DOMAIN-SUFFIX,mnc038.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-39
+# Operators: NEXTEL (SMP) | —
+DOMAIN-SUFFIX,mnc039.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-54
+# Operators: TIM S.A. | —
+DOMAIN-SUFFIX,mnc054.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc054.mcc724.pub.3gppnetwork.org
+
+# MCC-MNC: 724-99
+# Operators: LOCAL (STFC) | Local
+DOMAIN-SUFFIX,mnc099.mcc724.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc724.pub.3gppnetwork.org

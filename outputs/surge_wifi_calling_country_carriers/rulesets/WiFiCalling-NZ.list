@@ -1,0 +1,65 @@
+# New Zealand
+# Source: https://mcc-mnc-lookup.com/country/nz/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 530-01
+# Operators: One New Zealand Group Limited | One NZ
+DOMAIN-SUFFIX,mnc001.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-03
+# Operators: Woosh Wireless - CDMA Network | Woosh
+DOMAIN-SUFFIX,mnc003.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-04
+# Operators: One New Zealand Group Limited | —
+DOMAIN-SUFFIX,mnc004.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-05
+# Operators: Telecom New Zealand - UMTS Ntework | Spark ; Telecom New Zealand - UMTS Ntework | Spark NZ
+DOMAIN-SUFFIX,mnc005.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-06
+# Operators: FX Networks Ltd | FX Networks
+DOMAIN-SUFFIX,mnc006.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-07
+# Operators: Dense Air New Zealand Ltd | Dense Air New Zealand
+DOMAIN-SUFFIX,mnc007.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-11
+# Operators: Interim Māori Spectrum Commission
+DOMAIN-SUFFIX,mnc011.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-12
+# Operators: Broadband & Internet New Zealand Limited | BAINZ
+DOMAIN-SUFFIX,mnc012.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-13
+# Operators: One New Zealand Group Limited | One NZ SpaceX
+DOMAIN-SUFFIX,mnc013.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-14
+# Operators: 2degrees
+DOMAIN-SUFFIX,mnc014.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-15
+# Operators: Spark NZT | Spark
+DOMAIN-SUFFIX,mnc015.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc530.pub.3gppnetwork.org
+
+# MCC-MNC: 530-24
+# Operators: NZ Communications - UMTS Network | 2degrees
+DOMAIN-SUFFIX,mnc024.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc530.pub.3gppnetwork.org

@@ -1,0 +1,863 @@
+# India
+# Source: https://mcc-mnc-lookup.com/country/in/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 404-00
+# Operators: Dishnet Wireless Ltd, Madhya Pradesh | —
+DOMAIN-SUFFIX,mnc000.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-01
+# Operators: Aircell Digilink India Ltd., Haryana | Vi India
+DOMAIN-SUFFIX,mnc001.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-02
+# Operators: Bharti Airtel Ltd., Punjab | AirTel ; Bharti Airtel Ltd., Punjab | IND airtel
+DOMAIN-SUFFIX,mnc002.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-03
+# Operators: Bharti Airtel Ltd., H.P. | IND airtel
+DOMAIN-SUFFIX,mnc003.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-04
+# Operators: Idea Cellular Ltd., Delhi | —
+DOMAIN-SUFFIX,mnc004.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-05
+# Operators: Fascel Ltd., Gujarat | Vi India
+DOMAIN-SUFFIX,mnc005.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-06
+# Operators: Bharti Airtel Ltd., Karnataka | —
+DOMAIN-SUFFIX,mnc006.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-07
+# Operators: Idea Cellular Ltd., Andhra Pradesh | Vi India
+DOMAIN-SUFFIX,mnc007.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-09
+# Operators: Reliance Telecom Ltd., Assam | —
+DOMAIN-SUFFIX,mnc009.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-10
+# Operators: Bharti Airtel Ltd., Delhi | IND airtel
+DOMAIN-SUFFIX,mnc010.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-11
+# Operators: Hutchison Essar Mobile Services Ltd, Delhi | Vi India
+DOMAIN-SUFFIX,mnc011.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-12
+# Operators: Idea Mobile Communications Ltd., Haryana | —
+DOMAIN-SUFFIX,mnc012.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-13
+# Operators: Hutchison Essar South Ltd., Andhra Pradesh | Vi India
+DOMAIN-SUFFIX,mnc013.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-14
+# Operators: Spice Communications PVT Ltd., Punjab | Vi India
+DOMAIN-SUFFIX,mnc014.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-15
+# Operators: Aircell Digilink India Ltd., UP (East) | Vi India
+DOMAIN-SUFFIX,mnc015.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-16
+# Operators: Bharti Airtel Ltd, North East | IND airtel
+DOMAIN-SUFFIX,mnc016.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-17
+# Operators: Dishnet Wireless Ltd, West Bengal | AIRCEL
+DOMAIN-SUFFIX,mnc017.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-18
+# Operators: Reliance Telecom Ltd., H.P. | —
+DOMAIN-SUFFIX,mnc018.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-19
+# Operators: Idea Mobile Communications Ltd., Kerala | Vi India
+DOMAIN-SUFFIX,mnc019.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-20
+# Operators: Hutchison Essar Ltd, Mumbai | Vi India
+DOMAIN-SUFFIX,mnc020.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-21
+# Operators: BPL Mobile Communications Ltd., Mumbai | —
+DOMAIN-SUFFIX,mnc021.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-22
+# Operators: Idea Cellular Ltd., Maharashtra | Vi India
+DOMAIN-SUFFIX,mnc022.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-23
+# Operators: Idea Cellular Ltd, Maharashtra | —
+DOMAIN-SUFFIX,mnc023.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-24
+# Operators: Idea Cellular Ltd., Gujarat | Vi India
+DOMAIN-SUFFIX,mnc024.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-25
+# Operators: Dishnet Wireless Ltd, Bihar | —
+DOMAIN-SUFFIX,mnc025.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-27
+# Operators: Hutchison Essar Cellular Ltd., Maharashtra | Vi India
+DOMAIN-SUFFIX,mnc027.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-29
+# Operators: Dishnet Wireless Ltd, Assam | —
+DOMAIN-SUFFIX,mnc029.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-30
+# Operators: Hutchison Telecom East Ltd, Kolkata | Vi India
+DOMAIN-SUFFIX,mnc030.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-31
+# Operators: Bharti Airtel Ltd., Kolkata | IND airtel
+DOMAIN-SUFFIX,mnc031.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-33
+# Operators: Dishnet Wireless Ltd, North East | AIRCEL
+DOMAIN-SUFFIX,mnc033.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-34
+# Operators: BSNL, Haryana | CellOne
+DOMAIN-SUFFIX,mnc034.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-35
+# Operators: Dishnet Wireless Ltd, Himachal Pradesh | Aircel
+DOMAIN-SUFFIX,mnc035.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-36
+# Operators: Reliance Telecom Ltd., Bihar | —
+DOMAIN-SUFFIX,mnc036.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-37
+# Operators: Dishnet Wireless Ltd, J&K | —
+DOMAIN-SUFFIX,mnc037.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-38
+# Operators: BSNL, Assam | CellOne
+DOMAIN-SUFFIX,mnc038.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-40
+# Operators: Bharti Airtel Ltd., Chennai | IND airtel
+DOMAIN-SUFFIX,mnc040.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-41
+# Operators: Aircell Cellular Ltd, Chennai | Aircel
+DOMAIN-SUFFIX,mnc041.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc041.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-42
+# Operators: Aircel Ltd., Tamil Nadu | Aircel
+DOMAIN-SUFFIX,mnc042.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc042.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-43
+# Operators: Hutchison Essar Cellular Ltd., Tamil Nadu | Vi India
+DOMAIN-SUFFIX,mnc043.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc043.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-44
+# Operators: Spice Communications PVT Ltd., Karnataka | Vi India
+DOMAIN-SUFFIX,mnc044.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc044.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-46
+# Operators: Hutchison Essar Cellular Ltd., Kerala | —
+DOMAIN-SUFFIX,mnc046.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc046.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-48
+# Operators: Dishnet Wireless Ltd, UP (West) | —
+DOMAIN-SUFFIX,mnc048.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc048.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-49
+# Operators: Bharti Airtel Ltd., Andra Pradesh | IND airtel
+DOMAIN-SUFFIX,mnc049.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc049.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-50
+# Operators: Reliance Telecom Ltd., North East | Reliance
+DOMAIN-SUFFIX,mnc050.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-51
+# Operators: BSNL, H.P. | CellOne
+DOMAIN-SUFFIX,mnc051.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-52
+# Operators: Reliance Telecom Ltd., Orissa | —
+DOMAIN-SUFFIX,mnc052.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc052.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-53
+# Operators: BSNL, Punjab | CellOne
+DOMAIN-SUFFIX,mnc053.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc053.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-54
+# Operators: BSNL, UP (West) | CellOne
+DOMAIN-SUFFIX,mnc054.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc054.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-55
+# Operators: BSNL, UP (East) | CellOne
+DOMAIN-SUFFIX,mnc055.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc055.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-56
+# Operators: Idea Mobile Communications Ltd., UP (West) | Vi India
+DOMAIN-SUFFIX,mnc056.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-57
+# Operators: BSNL, Gujarat | CellOne
+DOMAIN-SUFFIX,mnc057.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc057.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-58
+# Operators: BSNL, Madhya Pradesh | CellOne
+DOMAIN-SUFFIX,mnc058.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc058.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-59
+# Operators: BSNL, Rajasthan | CellOne
+DOMAIN-SUFFIX,mnc059.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc059.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-60
+# Operators: Aircell Digilink India Ltd., Rajasthan | Vi India
+DOMAIN-SUFFIX,mnc060.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-61
+# Operators: Dishnet Wireless Ltd, Punjab | —
+DOMAIN-SUFFIX,mnc061.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc061.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-62
+# Operators: BSNL, J&K | CellOne
+DOMAIN-SUFFIX,mnc062.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc062.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-63
+# Operators: Dishnet Wireless Ltd, Haryana | —
+DOMAIN-SUFFIX,mnc063.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc063.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-64
+# Operators: BSNL, Chennai | CellOne
+DOMAIN-SUFFIX,mnc064.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc064.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-65
+# Operators: Dishnet Wireless Ltd, UP (East) | BSNL MOBILE
+DOMAIN-SUFFIX,mnc065.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc065.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-66
+# Operators: BSNL, Maharashtra | CellOne
+DOMAIN-SUFFIX,mnc066.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc066.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-67
+# Operators: Reliance Telecom Ltd., Madhya Pradesh | Reliance
+DOMAIN-SUFFIX,mnc067.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc067.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-68
+# Operators: MTNL, Delhi | MTNL
+DOMAIN-SUFFIX,mnc068.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc068.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-69
+# Operators: MTNL, Mumbai | MTNL
+DOMAIN-SUFFIX,mnc069.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc069.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-70
+# Operators: Bharti Hexacom Ltd, Rajasthan | IND airtel
+DOMAIN-SUFFIX,mnc070.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-71
+# Operators: BSNL, Karnataka | CellOne
+DOMAIN-SUFFIX,mnc071.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc071.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-72
+# Operators: BSNL, Kerala | CellOne
+DOMAIN-SUFFIX,mnc072.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-73
+# Operators: BSNL, Andhra Pradesh | CellOne
+DOMAIN-SUFFIX,mnc073.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc073.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-74
+# Operators: BSNL, West Bengal | CellOne
+DOMAIN-SUFFIX,mnc074.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-75
+# Operators: BSNL, Bihar | CellOne
+DOMAIN-SUFFIX,mnc075.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc075.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-76
+# Operators: BSNL, Orissa | CellOne
+DOMAIN-SUFFIX,mnc076.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc076.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-77
+# Operators: BSNL, North East | CellOne
+DOMAIN-SUFFIX,mnc077.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-78
+# Operators: BTA Cellcom Ltd., Madhya Pradesh | Vi India
+DOMAIN-SUFFIX,mnc078.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc078.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-79
+# Operators: BSNL, Andaman & Nicobar | CellOne
+DOMAIN-SUFFIX,mnc079.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc079.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-80
+# Operators: BSNL, Tamil Nadu | CellOne
+DOMAIN-SUFFIX,mnc080.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-81
+# Operators: BSNL, Kolkata | CellOne
+DOMAIN-SUFFIX,mnc081.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc081.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-82
+# Operators: Idea Telecommunications Ltd, H.P. | Vi India
+DOMAIN-SUFFIX,mnc082.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc082.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-83
+# Operators: Reliable Internet Services Ltd., Kolkata | —
+DOMAIN-SUFFIX,mnc083.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc083.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-84
+# Operators: Hutchison Essar South Ltd., Chennai | Vi India
+DOMAIN-SUFFIX,mnc084.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc084.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-85
+# Operators: Reliance Telecom Ltd., W.B. & A.N. | —
+DOMAIN-SUFFIX,mnc085.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc085.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-86
+# Operators: Hutchison Essar South Ltd., Karnataka | Vi India
+DOMAIN-SUFFIX,mnc086.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc086.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-87
+# Operators: Idea Telecommunications Ltd, Rajasthan | —
+DOMAIN-SUFFIX,mnc087.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc087.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-88
+# Operators: Hutchison Essar South Ltd, Punjab | —
+DOMAIN-SUFFIX,mnc088.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-89
+# Operators: Idea Telecommunications Ltd, UP (East) | —
+DOMAIN-SUFFIX,mnc089.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc089.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-90
+# Operators: Bharti Airtel Ltd., Maharashtra | IND airtel
+DOMAIN-SUFFIX,mnc090.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-91
+# Operators: Dishnet Wireless Ltd, Kolkata | AIRCEL
+DOMAIN-SUFFIX,mnc091.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc091.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-92
+# Operators: Bharti Airtel Ltd., Mumbai | IND airtel
+DOMAIN-SUFFIX,mnc092.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc092.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-93
+# Operators: Bharti Airtel Ltd., Madhya Pradesh | IND airtel
+DOMAIN-SUFFIX,mnc093.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc093.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-94
+# Operators: Bharti Airtel Ltd., Tamil Nadu | IND airtel
+DOMAIN-SUFFIX,mnc094.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc094.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-95
+# Operators: Bharti Airtel Ltd., Kerala | IND airtel
+DOMAIN-SUFFIX,mnc095.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc095.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-96
+# Operators: Bharti Airtel Ltd., Haryana | IND airtel
+DOMAIN-SUFFIX,mnc096.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc096.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-97
+# Operators: Bharti Airtel Ltd., UP (West) | IND airtel
+DOMAIN-SUFFIX,mnc097.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc097.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-98
+# Operators: Bharti Airtel Ltd., Gujarat | IND airtel
+DOMAIN-SUFFIX,mnc098.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc098.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 404-99
+# Operators: Dishnet Wireless Ltd, Kerala | —
+DOMAIN-SUFFIX,mnc099.mcc404.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc404.pub.3gppnetwork.org
+
+# MCC-MNC: 405-000
+# Operators: Shyam Telelink Ltd, Rajasthan | —
+DOMAIN-SUFFIX,mnc000.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-005
+# Operators: Reliance Communications Ltd/GSM, Delhi | —
+DOMAIN-SUFFIX,mnc005.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-006
+# Operators: Reliance Communications Ltd/GSM, Gujarat | —
+DOMAIN-SUFFIX,mnc006.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-007
+# Operators: Reliance Communications Ltd/GSM, Haryana | —
+DOMAIN-SUFFIX,mnc007.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-009
+# Operators: Reliance Communications Ltd/GSM, J&K | —
+DOMAIN-SUFFIX,mnc009.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-010
+# Operators: Reliance Communications Ltd,/GSM Karnataka | —
+DOMAIN-SUFFIX,mnc010.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-011
+# Operators: Reliance Communications Ltd/GSM, Kerala | —
+DOMAIN-SUFFIX,mnc011.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-012
+# Operators: Reliance Infocomm Ltd, Andhra Pradesh | Reliance
+DOMAIN-SUFFIX,mnc012.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-013
+# Operators: Reliance Communications Ltd/GSM, Maharashtra | —
+DOMAIN-SUFFIX,mnc013.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-014
+# Operators: Reliance Communications Ltd/GSM, Madhya Pradesh | —
+DOMAIN-SUFFIX,mnc014.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-018
+# Operators: Reliance Communications Ltd/GSM, Punjab | —
+DOMAIN-SUFFIX,mnc018.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-020
+# Operators: Reliance Communications Ltd/GSM, Tamilnadu | —
+DOMAIN-SUFFIX,mnc020.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-021
+# Operators: Reliance Communications Ltd/GSM, UP (East) | —
+DOMAIN-SUFFIX,mnc021.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-022
+# Operators: Reliance Communications Ltd/GSM, UP (West) | —
+DOMAIN-SUFFIX,mnc022.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-025
+# Operators: Tata Teleservices Ltd/GSM, Andhra Pradesh | TATA DOCOMO
+DOMAIN-SUFFIX,mnc025.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-027
+# Operators: Tata Teleservices Ltd,/GSM Bihar | —
+DOMAIN-SUFFIX,mnc027.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-029
+# Operators: Tata Teleservices Ltd/GSM, Delhi | —
+DOMAIN-SUFFIX,mnc029.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-030
+# Operators: Tata Teleservices Ltd/GSM, Gujarat | —
+DOMAIN-SUFFIX,mnc030.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-031
+# Operators: Tata Teleservices Ltd/GSM, Haryana | —
+DOMAIN-SUFFIX,mnc031.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-032
+# Operators: Tata Teleservices Ltd/GSM, Himachal Pradesh | TATA DOCOMO
+DOMAIN-SUFFIX,mnc032.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-033
+# Operators: Reliance Infocomm Ltd, Bihar | —
+DOMAIN-SUFFIX,mnc033.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-034
+# Operators: Tata Teleservices Ltd/GSM, Kamataka | —
+DOMAIN-SUFFIX,mnc034.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-035
+# Operators: Tata Teleservices Ltd/GSM, Kerala | —
+DOMAIN-SUFFIX,mnc035.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-036
+# Operators: Tata Teleservices Ltd/GSM, Kolkata | —
+DOMAIN-SUFFIX,mnc036.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-037
+# Operators: Tata Teleservices Ltd/GSM, Maharashtra | TATA DOCOMO
+DOMAIN-SUFFIX,mnc037.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-038
+# Operators: Tata Teleservices Ltd/GSM, Madhya Pradesh | TATA DOCOMO
+DOMAIN-SUFFIX,mnc038.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-039
+# Operators: Tata Teleservices Ltd/GSM, Mumbai | —
+DOMAIN-SUFFIX,mnc039.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-040
+# Operators: Reliance Infocomm Ltd, Chennai | —
+DOMAIN-SUFFIX,mnc040.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-041
+# Operators: Tata Teleservices Ltd/GSM, Orissa | —
+DOMAIN-SUFFIX,mnc041.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc041.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-042
+# Operators: Tata Teleservices Ltd/GSM, Punjab | —
+DOMAIN-SUFFIX,mnc042.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc042.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-043
+# Operators: Tata Teleservices Ltd/GSM, Rajasthan | TATA DOCOMO
+DOMAIN-SUFFIX,mnc043.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc043.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-044
+# Operators: Tata Teleservices Ltd/GSM, Tamilnadu | —
+DOMAIN-SUFFIX,mnc044.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc044.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-045
+# Operators: Tata Teleservices Ltd/GSM, UP (East) | TATA DOCOMO
+DOMAIN-SUFFIX,mnc045.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc045.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-046
+# Operators: Tata Teleservices Ltd/GSM, UP (West) | —
+DOMAIN-SUFFIX,mnc046.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc046.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-047
+# Operators: Tata Teleservices Ltd/GSM, West Bengal | TATA DOCOMO
+DOMAIN-SUFFIX,mnc047.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc047.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-08
+# Operators: Reliance Infocomm Ltd, Himachal Pradesh | Reliance
+DOMAIN-SUFFIX,mnc008.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-12
+# Operators: Reliance Infocomm Ltd, Kolkata | Reliance
+
+# MCC-MNC: 405-15
+# Operators: Reliance Infocomm Ltd, Mumbai | —
+DOMAIN-SUFFIX,mnc015.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-17
+# Operators: Reliance Infocomm Ltd, Orissa | —
+DOMAIN-SUFFIX,mnc017.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-23
+# Operators: Reliance Infocomm Ltd, West bengal | Reliance
+DOMAIN-SUFFIX,mnc023.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-28
+# Operators: Tata Teleservices Ltd, Chennai | TATA DOCOMO
+DOMAIN-SUFFIX,mnc028.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-52
+# Operators: Bharti Airtel Ltd, Bihar | IND airtel
+DOMAIN-SUFFIX,mnc052.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc052.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-53
+# Operators: Bharti Airtel Ltd, Orissa | IND airtel
+DOMAIN-SUFFIX,mnc053.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc053.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-54
+# Operators: Bharti Airtel Ltd, UP (East) | IND airtel
+DOMAIN-SUFFIX,mnc054.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc054.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-55
+# Operators: Bharti Airtel Ltd, J&K | IND airtel
+DOMAIN-SUFFIX,mnc055.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc055.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-56
+# Operators: Bharti Airtel Ltd, Assam | IND airtel
+DOMAIN-SUFFIX,mnc056.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-66
+# Operators: Hutchison Essar South Ltd, UP (West) | Vi India
+DOMAIN-SUFFIX,mnc066.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc066.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-67
+# Operators: Hutchison Essar South Ltd, Orissa | Vi India
+DOMAIN-SUFFIX,mnc067.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc067.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-68
+# Operators: Vodaphone/Hutchison, Madhya Pradesh | —
+DOMAIN-SUFFIX,mnc068.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc068.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-70
+# Operators: Aditya Birla Telecom Ltd, Bihar | Vi India
+DOMAIN-SUFFIX,mnc070.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-71
+# Operators: Essar Spacetel Ltd, Himachal Pradesh | —
+DOMAIN-SUFFIX,mnc071.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc071.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-72
+# Operators: Essar Spacetel Ltd, North East | —
+DOMAIN-SUFFIX,mnc072.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-73
+# Operators: Essar Spacetel Ltd, Assam | —
+DOMAIN-SUFFIX,mnc073.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc073.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-74
+# Operators: Essar Spacetel Ltd, J&K | —
+DOMAIN-SUFFIX,mnc074.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-750
+# Operators: Vodafone Essar Spacetel Ltd, J&K | —
+DOMAIN-SUFFIX,mnc750.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc750.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-751
+# Operators: Vodafone Essar Spacetel Ltd, Assam | Vi India
+DOMAIN-SUFFIX,mnc751.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc751.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-752
+# Operators: Vodafone Essar Spacetel Ltd, Bihar | —
+DOMAIN-SUFFIX,mnc752.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc752.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-753
+# Operators: Vodafone Essar Spacetel Ltd, Orissa | Vi India
+DOMAIN-SUFFIX,mnc753.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc753.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-754
+# Operators: Vodafone Essar Spacetel Ltd, Himachal Pradesh | Vi India
+DOMAIN-SUFFIX,mnc754.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc754.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-755
+# Operators: Vodafone Essar Spacetel Ltd, North East | Vi India
+DOMAIN-SUFFIX,mnc755.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc755.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-76
+# Operators: Essar Spacetel Ltd, Orissa | —
+DOMAIN-SUFFIX,mnc076.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc076.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-77
+# Operators: Essar Spacetel Ltd, Maharashtra | —
+DOMAIN-SUFFIX,mnc077.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-799
+# Operators: Idea Cellular Ltd, MUMBAI | Vi India
+DOMAIN-SUFFIX,mnc799.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc799.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-800
+# Operators: Aircell Ltd, Delhi | —
+DOMAIN-SUFFIX,mnc800.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc800.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-801
+# Operators: Aircell Ltd, Andhra Pradesh | AIRCEL
+DOMAIN-SUFFIX,mnc801.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc801.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-802
+# Operators: Aircell Ltd, Gujarat | AIRCEL
+DOMAIN-SUFFIX,mnc802.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc802.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-803
+# Operators: Aircell Ltd, Kamataka | AIRCEL
+DOMAIN-SUFFIX,mnc803.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc803.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-804
+# Operators: Aircell Ltd, Maharashtra | AIRCEL
+DOMAIN-SUFFIX,mnc804.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc804.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-805
+# Operators: Aircell Ltd, Mumbai | AIRCEL
+DOMAIN-SUFFIX,mnc805.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc805.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-806
+# Operators: Aircell Ltd, Rajasthan | AIRCEL
+DOMAIN-SUFFIX,mnc806.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc806.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-807
+# Operators: Dishnet Wireless Ltd, Haryana | AIRCEL
+DOMAIN-SUFFIX,mnc807.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc807.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-808
+# Operators: Dishnet Wireless Ltd, Madhya Pradesh | AIRCEL
+DOMAIN-SUFFIX,mnc808.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc808.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-809
+# Operators: Dishnet Wireless Ltd, Kerala | AIRCEL
+DOMAIN-SUFFIX,mnc809.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc809.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-81
+# Operators: Aircell Ltd, Delhi | AIRCELL
+DOMAIN-SUFFIX,mnc081.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc081.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-82
+# Operators: Aircell Ltd, Andhra Pradesh | AIRCELL
+DOMAIN-SUFFIX,mnc082.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc082.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-83
+# Operators: Aircell Ltd, Gujarat | AIRCELL
+DOMAIN-SUFFIX,mnc083.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc083.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-84
+# Operators: Aircell Ltd, Maharashtra | —
+DOMAIN-SUFFIX,mnc084.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc084.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-85
+# Operators: Aircell Ltd, Mumbai | —
+DOMAIN-SUFFIX,mnc085.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc085.mcc405.pub.3gppnetwork.org
+
+# MCC-MNC: 405-86
+# Operators: Aircell Ltd, Rajasthan | —
+DOMAIN-SUFFIX,mnc086.mcc405.3gppnetwork.org
+DOMAIN-SUFFIX,mnc086.mcc405.pub.3gppnetwork.org

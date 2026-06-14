@@ -1,0 +1,85 @@
+# Singapore
+# Source: https://mcc-mnc-lookup.com/country/sg/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 525-01
+# Operators: Singtel ST GSM900 | SingTel ; Singtel ST GSM900 | Singtel
+DOMAIN-SUFFIX,mnc001.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-02
+# Operators: Singtel ST GSM1800 | SingTel-G18 ; Singtel ST GSM1800 | Singtel
+DOMAIN-SUFFIX,mnc002.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-03
+# Operators: M1 | SGP-M1
+DOMAIN-SUFFIX,mnc003.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-04
+# Operators: Grid Communications Limited | Grid
+DOMAIN-SUFFIX,mnc004.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-05
+# Operators: StarHub
+DOMAIN-SUFFIX,mnc005.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-06
+# Operators: StarHub Mobile Pte Ltd | StarHub
+DOMAIN-SUFFIX,mnc006.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-07
+# Operators: StarHub Mobile Pte Ltd | StarHub
+DOMAIN-SUFFIX,mnc007.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-08
+# Operators: StarHub
+DOMAIN-SUFFIX,mnc008.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-09
+# Operators: Liberty Wireless Pte Ltd | Circles.Life
+DOMAIN-SUFFIX,mnc009.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-11
+# Operators: M1 Limited | M1
+DOMAIN-SUFFIX,mnc011.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-200
+# Operators: 5G Test Bed
+DOMAIN-SUFFIX,mnc200.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-201
+# Operators: 5G EP Twin Networks
+DOMAIN-SUFFIX,mnc201.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc201.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-202
+# Operators: 5G EP Twin Networks
+DOMAIN-SUFFIX,mnc202.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc202.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-203
+# Operators: 5G EP Twin Networks
+DOMAIN-SUFFIX,mnc203.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc203.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-204
+# Operators: 5G EP Twin Networks
+DOMAIN-SUFFIX,mnc204.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc204.mcc525.pub.3gppnetwork.org
+
+# MCC-MNC: 525-205
+# Operators: 5G EP Testbed | 5G EP Test Bed
+DOMAIN-SUFFIX,mnc205.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc205.mcc525.pub.3gppnetwork.org

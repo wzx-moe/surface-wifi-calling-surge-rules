@@ -1,0 +1,70 @@
+# Ukraine
+# Source: https://mcc-mnc-lookup.com/country/ua/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 255-01
+# Operators: "VF UKRAINE" PrJSC | Vodafone ; "VF UKRAINE" PrJSC | VODAFONE
+DOMAIN-SUFFIX,mnc001.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-02
+# Operators: "Kyivstar" PrJSC | Kyivstar ; "Kyivstar" PrJSC | Beeline UA
+DOMAIN-SUFFIX,mnc002.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-03
+# Operators: "Kyivstar" PrJSC | Kyivstar ; "Kyivstar" PrJSC | UA-KYIVSTAR
+DOMAIN-SUFFIX,mnc003.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-06
+# Operators: "lifecell" LLC | lifecell
+DOMAIN-SUFFIX,mnc006.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-07
+# Operators: "TriMob" LLC | 3Mob;Lycamobile ; "TriMob" LLC | TriMob
+DOMAIN-SUFFIX,mnc007.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-08
+# Operators: "Ukrtelecom" JSC | JSCUkrtelecom
+DOMAIN-SUFFIX,mnc008.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-09
+# Operators: "Farlep-Invest", PrJSC | PRJSC "Farlep-Invest"
+DOMAIN-SUFFIX,mnc009.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-10
+# Operators: "Atlantis Telecom", LLC | Atlantis Telecom LLC
+DOMAIN-SUFFIX,mnc010.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-11
+# Operators: "T.R. Communications" Limited Liability Company | T.R. Communications LLC
+DOMAIN-SUFFIX,mnc011.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-21
+# Operators: "Telesystems of Ukraine" PrJSC | PEOPLEnet
+DOMAIN-SUFFIX,mnc021.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-701
+# Operators: Public enterprise "Ukrspetszvyazok" | —
+DOMAIN-SUFFIX,mnc701.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc701.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-702
+# Operators: Limited Liability Company "J&W"
+DOMAIN-SUFFIX,mnc702.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc702.mcc255.pub.3gppnetwork.org
+
+# MCC-MNC: 255-707
+# Operators: "Kyivstar" PrJSC | Kyivstar
+DOMAIN-SUFFIX,mnc707.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc707.mcc255.pub.3gppnetwork.org

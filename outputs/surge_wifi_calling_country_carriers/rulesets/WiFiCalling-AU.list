@@ -1,0 +1,215 @@
+# Australia
+# Source: https://mcc-mnc-lookup.com/country/au/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 505-02
+# Operators: Optus Mobile Pty. Ltd. | YES OPTUS
+DOMAIN-SUFFIX,mnc002.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-04
+# Operators: Department of Defence
+DOMAIN-SUFFIX,mnc004.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-06
+# Operators: Hutchison 3G Australia Pty. Ltd. | 3
+DOMAIN-SUFFIX,mnc006.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-10
+# Operators: Norfolk Telecom | norfolk telecom
+DOMAIN-SUFFIX,mnc010.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-12
+# Operators: Vodafone Hutchison Australia Pty Ltd | 3
+DOMAIN-SUFFIX,mnc012.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-13
+# Operators: Railcorp | RailCorp
+DOMAIN-SUFFIX,mnc013.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-16
+# Operators: Victorian Rail Track | VicTrack
+DOMAIN-SUFFIX,mnc016.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-19
+# Operators: Lycamobile Pty Ltd | Lycamobile
+DOMAIN-SUFFIX,mnc019.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-21
+# Operators: Queensland Rail Limited | Queensland Rail
+DOMAIN-SUFFIX,mnc021.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-24
+# Operators: Advanced Communications Technologies Pty. Ltd. | Advanced Communications Technologies
+DOMAIN-SUFFIX,mnc024.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-25
+# Operators: Pilbara Iron Company Services Pty Ltd | Pilbara Iron
+DOMAIN-SUFFIX,mnc025.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-31
+# Operators: BHP Billiton | BHP
+DOMAIN-SUFFIX,mnc031.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-32
+# Operators: Thales Australia
+DOMAIN-SUFFIX,mnc032.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-34
+# Operators: Santos Ltd | Santos
+DOMAIN-SUFFIX,mnc034.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc034.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-36
+# Operators: Optus Mobile Pty. Ltd. | —
+DOMAIN-SUFFIX,mnc036.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-37
+# Operators: Yancoal Australia Ltd | Yancoal
+DOMAIN-SUFFIX,mnc037.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc037.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-40
+# Operators: CITIC PACIFIC MINING | CITIC Pacific Mining
+DOMAIN-SUFFIX,mnc040.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-41
+# Operators: Aqura Technologies Pty | Aqura Technologies
+DOMAIN-SUFFIX,mnc041.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc041.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-42
+# Operators: Groote Eylandt Mining Company Pty Ltd | GEMCO
+DOMAIN-SUFFIX,mnc042.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc042.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-43
+# Operators: Arrow Energy Pty Ltd | Arrow Energy
+DOMAIN-SUFFIX,mnc043.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc043.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-44
+# Operators: ROY HILL IRON ORE PTY LTD | Roy Hill
+DOMAIN-SUFFIX,mnc044.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc044.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-45
+# Operators: CLERMONT COAL OPERATIONS PTY Limited | ClermontCoal Operations
+DOMAIN-SUFFIX,mnc045.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc045.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-46
+# Operators: ANGLOGOLD ASHANTI AUSTRALIA LTD | AngloGold AshantiAustralia Ltd
+DOMAIN-SUFFIX,mnc046.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc046.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-48
+# Operators: Titan ICT Pty Ltd | Titan ICT
+DOMAIN-SUFFIX,mnc048.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc048.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-49
+# Operators: Field Solutions Group Pty Ltd | Field Solutions Group
+DOMAIN-SUFFIX,mnc049.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc049.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-50
+# Operators: Pivotel Group Pty Limited | Pivotel
+DOMAIN-SUFFIX,mnc050.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-52
+# Operators: Optitel Pty Ltd | OptiTel Australia
+DOMAIN-SUFFIX,mnc052.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc052.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-53
+# Operators: Shell Australia Pty Ltd | Shell Australia
+DOMAIN-SUFFIX,mnc053.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc053.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-54
+# Operators: SimCorner Pty Ltd
+DOMAIN-SUFFIX,mnc054.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc054.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-55
+# Operators: New South Wales Government Telecommunications Authority
+DOMAIN-SUFFIX,mnc055.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc055.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-56
+# Operators: Nokia Solutions and Networks Pty Ltd | —
+DOMAIN-SUFFIX,mnc056.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-57
+# Operators: CiFi Pty Ltd | —
+DOMAIN-SUFFIX,mnc057.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc057.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-58
+# Operators: Wi-Sky (NSW) Pty Ltd | Wi-Sky
+DOMAIN-SUFFIX,mnc058.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc058.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-59
+# Operators: Starlink Internet Services Pte Ltd | Starlink
+DOMAIN-SUFFIX,mnc059.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc059.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-60
+# Operators: Starlink Internet Services Pte Ltd | Starlink
+DOMAIN-SUFFIX,mnc060.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-61
+# Operators: Commtel Network Solutions Pty Ltd | CommTel NS
+DOMAIN-SUFFIX,mnc061.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc061.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-62
+# Operators: NBNCo Limited | NBN
+DOMAIN-SUFFIX,mnc062.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc062.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-63
+# Operators: March IT Pty Ltd | MarchNet
+DOMAIN-SUFFIX,mnc063.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc063.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-64
+# Operators: Roam Aussie Pty Ltd | —
+DOMAIN-SUFFIX,mnc064.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc064.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-68
+# Operators: NBNCo Limited | NBN
+DOMAIN-SUFFIX,mnc068.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc068.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-88
+# Operators: Pivotel Group Pty Limited | Pivotel Group
+DOMAIN-SUFFIX,mnc088.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc505.pub.3gppnetwork.org
+
+# MCC-MNC: 505-99
+# Operators: Telstra Limited | —
+DOMAIN-SUFFIX,mnc099.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc505.pub.3gppnetwork.org

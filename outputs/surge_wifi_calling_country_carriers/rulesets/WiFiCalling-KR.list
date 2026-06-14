@@ -1,0 +1,50 @@
+# South Korea
+# Source: https://mcc-mnc-lookup.com/country/kr/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 450-01
+# Operators: Globalstar Asia Pacific / Satellite network | GlobalstarAsia Pacific
+DOMAIN-SUFFIX,mnc001.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-02
+# Operators: KT / 5G test bed | —
+DOMAIN-SUFFIX,mnc002.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-04
+# Operators: KT / IoT network | —
+DOMAIN-SUFFIX,mnc004.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-05
+# Operators: SK Telecom / 3G, 4G network | SKTelecom ; SK Telecom / 3G, 4G network | KOR SK Telecom
+DOMAIN-SUFFIX,mnc005.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-06
+# Operators: LGU+ / 3G, 4G network | KOR LG Uplus
+DOMAIN-SUFFIX,mnc006.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-07
+# Operators: KT Powertel / 3G network | —
+DOMAIN-SUFFIX,mnc007.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-08
+# Operators: KT / 3G, 4G network | KT
+DOMAIN-SUFFIX,mnc008.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-11
+# Operators: SK Telecom / 3G, 4G network | Tplus
+DOMAIN-SUFFIX,mnc011.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc450.pub.3gppnetwork.org
+
+# MCC-MNC: 450-12
+# Operators: SK Telecom / IoT network | SKTelecom
+DOMAIN-SUFFIX,mnc012.mcc450.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc450.pub.3gppnetwork.org

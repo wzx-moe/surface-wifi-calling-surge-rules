@@ -1,0 +1,95 @@
+# Mexico
+# Source: https://mcc-mnc-lookup.com/country/mx/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 334-001
+# Operators: COMUNICACIONES DIGITALES DEL NORTE, S.A. DE C.V. | Comunicaciones Digitales Del Norte, S.A. de C.V.
+DOMAIN-SUFFIX,mnc001.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-020
+# Operators: RADIOMÓVIL DIPSA, S.A. DE C.V. | TELCEL
+DOMAIN-SUFFIX,mnc020.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-030
+# Operators: PEGASO PCS, S.A. DE C.V. | Movistar
+DOMAIN-SUFFIX,mnc030.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-066
+# Operators: TELÉFONOS DE MÉXICO, S.A.B. DE C.V. | Telefonos de México, S.A.B. de C.V.
+DOMAIN-SUFFIX,mnc066.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc066.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-070
+# Operators: AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V. | AT&T
+DOMAIN-SUFFIX,mnc070.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc070.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-080
+# Operators: AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V. | —
+DOMAIN-SUFFIX,mnc080.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-110
+# Operators: MAXCOM TELECOMUNICACIONES, S.A.B. DE C.V. | Maxcom Telecomunicaciones, S.A.B. de C.V.
+DOMAIN-SUFFIX,mnc110.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc110.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-120
+# Operators: QUICKLY PHONE, S.A. DE C.V. | Quickly Phone, S.A. de C.V.
+DOMAIN-SUFFIX,mnc120.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc120.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-140
+# Operators: ALTÁN REDES, S.A.P.I. DE C.V. | Red Compartida
+DOMAIN-SUFFIX,mnc140.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc140.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-150
+# Operators: ULTRAVISIÓN, S.A. DE C.V. | Ultranet
+DOMAIN-SUFFIX,mnc150.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc150.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-170
+# Operators: OXIO MOBILE, S.A. DE C.V. | OXIO Mobile, S.A. de C.V.
+DOMAIN-SUFFIX,mnc170.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc170.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-180
+# Operators: FREEDOMPOP MÉXICO, S.A. DE C.V. | FreedomPop
+DOMAIN-SUFFIX,mnc180.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc180.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-190
+# Operators: VIASAT TECNOLOGÍA, S.A. DE C.V. | Viasat
+DOMAIN-SUFFIX,mnc190.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc190.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-200
+# Operators: VIRGIN MOBILE MÉXICO, S. DE R.L. DE C.V. | Virgin Mobile
+DOMAIN-SUFFIX,mnc200.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc200.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-210
+# Operators: YONDER MEDIA MOBILE MÉXICO, S. DE R.L. DE C.V. | YO Mobile
+DOMAIN-SUFFIX,mnc210.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-220
+# Operators: MEGA CABLE, S.A. DE C.V | Megamóvil
+DOMAIN-SUFFIX,mnc220.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc220.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-230
+# Operators: VINOC, S.A.P.I. DE C.V. | VINOC
+DOMAIN-SUFFIX,mnc230.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc230.mcc334.pub.3gppnetwork.org
+
+# MCC-MNC: 334-240
+# Operators: PEGASO PCS, S.A. DE C.V. | Movistar
+DOMAIN-SUFFIX,mnc240.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc240.mcc334.pub.3gppnetwork.org

@@ -1,0 +1,255 @@
+# Hong Kong
+# Source: https://mcc-mnc-lookup.com/country/hk/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 454-00
+# Operators: Hong Kong Telecommunications (HKT) Limited | 1O1O / One2Free / New World Mobility / SUNMobile ; Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc000.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-01
+# Operators: CITIC Telecom International Limited | CITIC Telecom 1616
+DOMAIN-SUFFIX,mnc001.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-02
+# Operators: Hong Kong Telecommunications (HKT) Limited | CSL Limited ; Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc002.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-03
+# Operators: Hutchison Telephone Company Limited | 3
+DOMAIN-SUFFIX,mnc003.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-04
+# Operators: Hutchison Telephone Company Limited | 3(2G) ; Hutchison Telephone Company Limited | 3
+DOMAIN-SUFFIX,mnc004.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-05
+# Operators: Hutchison Telephone Company Limited | 3(CDMA)
+DOMAIN-SUFFIX,mnc005.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-06
+# Operators: SmarTone Mobile Communications Limited | SmarTone ; SmarTone Mobile Communications Limited | SmarTone HK
+DOMAIN-SUFFIX,mnc006.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-07
+# Operators: China Unicom (Hong Kong) Operations Limited | China Unicom
+DOMAIN-SUFFIX,mnc007.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-10
+# Operators: Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc010.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-11
+# Operators: China-Hongkong Telecom Limited | China-Hong Kong Telecom
+DOMAIN-SUFFIX,mnc011.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-12
+# Operators: China Mobile Hong Kong Company Limited | China Mobile HK
+DOMAIN-SUFFIX,mnc012.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-13
+# Operators: China Mobile Hong Kong Company Limited | China Mobile HK
+DOMAIN-SUFFIX,mnc013.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc013.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-14
+# Operators: Hutchison Telephone Company Limited | Hutchison Telecom
+DOMAIN-SUFFIX,mnc014.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-15
+# Operators: SmarTone Mobile Communications Limited | SmarTone HK
+DOMAIN-SUFFIX,mnc015.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-16
+# Operators: Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc016.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-17
+# Operators: SmarTone Mobile Communications Limited | SmarTone HK
+DOMAIN-SUFFIX,mnc017.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-18
+# Operators: Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc018.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-19
+# Operators: Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc019.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc019.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-20
+# Operators: Hong Kong Telecommunications (HKT) Limited | CSL
+DOMAIN-SUFFIX,mnc020.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-24
+# Operators: Multibyte Info Technology Limited | Multibyte Info Technology Ltd
+DOMAIN-SUFFIX,mnc024.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc024.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-25
+# Operators: Government use | Hong Kong Government
+DOMAIN-SUFFIX,mnc025.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-26
+# Operators: Government use | Hong Kong Government
+DOMAIN-SUFFIX,mnc026.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-27
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc027.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-28
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc028.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-290
+# Operators: Government use | Hong Kong Government
+DOMAIN-SUFFIX,mnc290.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-291
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc291.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc291.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-292
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc292.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc292.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-293
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc293.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc293.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-294
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc294.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc294.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-295
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc295.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc295.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-296
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc296.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc296.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-297
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc297.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc297.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-298
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc298.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc298.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-299
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc299.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc299.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-30
+# Operators: China Mobile Hong Kong Company Limited | CMCC HK
+DOMAIN-SUFFIX,mnc030.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-31
+# Operators: China Telecom Global Limited | CTExcel
+DOMAIN-SUFFIX,mnc031.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc031.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-35
+# Operators: Webbing Hong Kong Limited | Webbing Hong Kong Ltd
+DOMAIN-SUFFIX,mnc035.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-380
+# Operators: Government use | Hong Kong Government
+DOMAIN-SUFFIX,mnc380.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-382
+# Operators: South China Telecommunications (H.K.) Limited
+DOMAIN-SUFFIX,mnc382.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc382.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-383
+# Operators: China Mobile Hong Kong Company Limited
+DOMAIN-SUFFIX,mnc383.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc383.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-390
+# Operators: Government use | Hong Kong Government
+DOMAIN-SUFFIX,mnc390.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-391
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc391.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc391.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-392
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc392.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc392.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-393
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc393.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc393.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-394
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc394.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc394.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-395
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc395.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc395.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-396
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc396.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc396.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-397
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc397.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc397.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-398
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc398.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc398.mcc454.pub.3gppnetwork.org
+
+# MCC-MNC: 454-399
+# Operators: Government use | —
+DOMAIN-SUFFIX,mnc399.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc399.mcc454.pub.3gppnetwork.org

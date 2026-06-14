@@ -1,0 +1,360 @@
+# Canada
+# Source: https://mcc-mnc-lookup.com/country/ca/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# MCC-MNC: 302-060
+# Operators: Karrier One Inc.
+DOMAIN-SUFFIX,mnc060.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-100
+# Operators: Data on Tap Inc. | dotmobile
+DOMAIN-SUFFIX,mnc100.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-140
+# Operators: Fibernetics Corporation | Fibernetics
+DOMAIN-SUFFIX,mnc140.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc140.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-150
+# Operators: Cogeco Connexion Inc. | Cogeco
+DOMAIN-SUFFIX,mnc150.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc150.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-220
+# Operators: Telus Mobility | TELUS
+DOMAIN-SUFFIX,mnc220.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc220.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-221
+# Operators: Telus Mobility | Telus
+DOMAIN-SUFFIX,mnc221.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc221.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-222
+# Operators: Telus Mobility | Telus
+DOMAIN-SUFFIX,mnc222.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc222.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-230
+# Operators: ISP Telecom
+DOMAIN-SUFFIX,mnc230.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc230.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-250
+# Operators: Bell Mobility
+DOMAIN-SUFFIX,mnc250.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc250.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-270
+# Operators: Bragg Communications | Eastlink
+DOMAIN-SUFFIX,mnc270.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-300
+# Operators: ECOTEL inc. | ECOTEL
+DOMAIN-SUFFIX,mnc300.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc300.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-301
+# Operators: ECOTEL inc. | ECOTEL
+DOMAIN-SUFFIX,mnc301.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc301.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-320
+# Operators: Dave Wireless | —
+DOMAIN-SUFFIX,mnc320.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc320.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-330
+# Operators: OpenMobile Inc. | OPENMOBILE
+DOMAIN-SUFFIX,mnc330.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc330.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-340
+# Operators: Execulink | Execulink Telecom
+DOMAIN-SUFFIX,mnc340.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc340.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-350
+# Operators: Naskapi Imuun Inc. | NaskapiImuun Inc.
+DOMAIN-SUFFIX,mnc350.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc350.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-351
+# Operators: MPVWIFI Inc. | MPVWifi Inc.
+DOMAIN-SUFFIX,mnc351.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc351.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-353
+# Operators: SpeedFI Inc.
+DOMAIN-SUFFIX,mnc353.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc353.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-354
+# Operators: Every-Day Computers Inc.
+DOMAIN-SUFFIX,mnc354.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc354.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-360
+# Operators: Telus Mobility | MiKe
+DOMAIN-SUFFIX,mnc360.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-370
+# Operators: Microcell | Fido
+DOMAIN-SUFFIX,mnc370.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc370.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-380
+# Operators: Dryden Mobility | KNET
+DOMAIN-SUFFIX,mnc380.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc380.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-390
+# Operators: Dryden Mobility | DMTS
+DOMAIN-SUFFIX,mnc390.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc390.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-480
+# Operators: SSi Connexions Inc. | SSi
+DOMAIN-SUFFIX,mnc480.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc480.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-500
+# Operators: Videotron Ltd | Videotron
+DOMAIN-SUFFIX,mnc500.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc500.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-510
+# Operators: Videotron Ltd | Videotron
+DOMAIN-SUFFIX,mnc510.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc510.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-530
+# Operators: Keewatinook Okimacinac | Keewaytinook Mobile
+DOMAIN-SUFFIX,mnc530.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc530.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-550
+# Operators: Star Solutions International Inc.
+DOMAIN-SUFFIX,mnc550.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc550.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-560
+# Operators: Lynx Mobility
+DOMAIN-SUFFIX,mnc560.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc560.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-570
+# Operators: Ligado Networks Corp. | Ligado NetworksCorp.
+DOMAIN-SUFFIX,mnc570.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-590
+# Operators: Quadro Communication | Quadro Mobility
+DOMAIN-SUFFIX,mnc590.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc590.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-600
+# Operators: Iristel Inc. | Iristel
+DOMAIN-SUFFIX,mnc600.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-610
+# Operators: Bell Mobility | Bell
+DOMAIN-SUFFIX,mnc610.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc610.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-620
+# Operators: Ice Wireless | Ice Wireless Inc
+DOMAIN-SUFFIX,mnc620.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-630
+# Operators: Aliant Mobility
+DOMAIN-SUFFIX,mnc630.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc630.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-640
+# Operators: Bell Mobility | Bell
+DOMAIN-SUFFIX,mnc640.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc640.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-650
+# Operators: Tbaytel | TBaytel
+DOMAIN-SUFFIX,mnc650.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc650.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-660
+# Operators: MTS Mobility | —
+DOMAIN-SUFFIX,mnc660.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc660.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-670
+# Operators: CityTel Mobility
+DOMAIN-SUFFIX,mnc670.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc670.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-680
+# Operators: Sask Tel Mobility | SaskTel
+DOMAIN-SUFFIX,mnc680.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc680.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-681
+# Operators: SaskTel Mobility | SaskTel
+DOMAIN-SUFFIX,mnc681.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc681.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-690
+# Operators: Bell Mobility | Bell
+DOMAIN-SUFFIX,mnc690.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-710
+# Operators: Globalstar
+DOMAIN-SUFFIX,mnc710.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc710.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-720
+# Operators: Rogers Wireless
+DOMAIN-SUFFIX,mnc720.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc720.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-721
+# Operators: Rogers Communications Canada Inc. (Wireless) | Rogers Wireless
+DOMAIN-SUFFIX,mnc721.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc721.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-722
+# Operators: Rogers Communications Canada Inc. (Wireless) | Rogers Wireless
+DOMAIN-SUFFIX,mnc722.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc722.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-723
+# Operators: Rogers Communications Canada Inc. (Wireless) | Rogers Wireless
+DOMAIN-SUFFIX,mnc723.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc723.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-724
+# Operators: Rogers Communications Canada Inc. (Wireless) | Rogers Wireless
+DOMAIN-SUFFIX,mnc724.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc724.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-725
+# Operators: Rogers Communications Canada Inc. (Wireless) | Rogers Wireless
+DOMAIN-SUFFIX,mnc725.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc725.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-730
+# Operators: TerreStar Solutions
+DOMAIN-SUFFIX,mnc730.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc730.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-731
+# Operators: Terrestar Solutions Inc. | TerreStar Solutions
+DOMAIN-SUFFIX,mnc731.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc731.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-740
+# Operators: Rogers Communications Canada Inc. | Rogers Wireless
+DOMAIN-SUFFIX,mnc740.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc740.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-741
+# Operators: Rogers Communications Canada Inc. | Rogers Wireless
+DOMAIN-SUFFIX,mnc741.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc741.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-760
+# Operators: Public Mobile Inc | Public Mobile
+DOMAIN-SUFFIX,mnc760.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-770
+# Operators: TNW Wireless Inc. | TNW Wireless
+DOMAIN-SUFFIX,mnc770.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc770.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-780
+# Operators: Sask Tel Mobility | SaskTel
+DOMAIN-SUFFIX,mnc780.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc780.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-781
+# Operators: SaskTel Mobility | SaskTel
+DOMAIN-SUFFIX,mnc781.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc781.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-821
+# Operators: Rogers Communications Canada Inc. (Wireless) | Rogers Wireless
+DOMAIN-SUFFIX,mnc821.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc821.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-848
+# Operators: Vocom International Telecommunications, Inc
+DOMAIN-SUFFIX,mnc848.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc848.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-860
+# Operators: Telus Mobility | Telus
+DOMAIN-SUFFIX,mnc860.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc860.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-880
+# Operators: Telus/Bell shared | FastRoam
+DOMAIN-SUFFIX,mnc880.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc880.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-910
+# Operators: Halton Regional Police | Halton Regional Police Service
+DOMAIN-SUFFIX,mnc910.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc910.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-911
+# Operators: Halton Regional Police Service
+DOMAIN-SUFFIX,mnc911.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc911.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-940
+# Operators: Wightman Telecom | Wightman
+DOMAIN-SUFFIX,mnc940.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc940.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-970
+# Operators: Canadian Pacific Railway Company | Canadian Pacific Kansas CityRailway
+DOMAIN-SUFFIX,mnc970.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc970.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-971
+# Operators: Canadian National Railway
+DOMAIN-SUFFIX,mnc971.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc971.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-972
+# Operators: Hydro-Québec
+DOMAIN-SUFFIX,mnc972.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc972.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-975
+# Operators: BC Hydro
+DOMAIN-SUFFIX,mnc975.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc975.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-990
+# Operators: Test | —
+DOMAIN-SUFFIX,mnc990.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc990.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-992
+# Operators: AltaLink Management Ltd | —
+DOMAIN-SUFFIX,mnc992.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc992.mcc302.pub.3gppnetwork.org
+
+# MCC-MNC: 302-998
+# Operators: Institut de Recherche d’Hydro-Québec (experimental) | Institut de Recherche d’Hydro-Québec
+DOMAIN-SUFFIX,mnc998.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc998.mcc302.pub.3gppnetwork.org
