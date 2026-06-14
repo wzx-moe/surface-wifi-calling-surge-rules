@@ -1,0 +1,18 @@
+# Africa fallback
+# Major carriers are marked "待确认"; this list is intentionally broad for maintainability.
+GEOIP,ZA
+GEOIP,NG
+GEOIP,KE
+GEOIP,MA
+GEOIP,TN
+GEOIP,DZ
+GEOIP,GH
+GEOIP,ET
+GEOIP,UG
+GEOIP,TZ
+GEOIP,CI
+GEOIP,SN
+GEOIP,MZ
+GEOIP,MU
+GEOIP,NA
+GEOIP,BW

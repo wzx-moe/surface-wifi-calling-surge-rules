@@ -1,0 +1,11 @@
+# Southeast Asia fallback
+# Major carriers: Singapore, Malaysia, Thailand, Indonesia, Philippines, Vietnam, Cambodia, Laos, Myanmar (待确认)
+GEOIP,MY
+GEOIP,TH
+GEOIP,ID
+GEOIP,PH
+GEOIP,VN
+GEOIP,KH
+GEOIP,LA
+GEOIP,MM
+GEOIP,BN
