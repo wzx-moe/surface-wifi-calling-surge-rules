@@ -1,8 +1,0 @@
-# South Asia fallback
-# Major carriers are marked "待确认" for carrier-level IMS/Wi-Fi Calling domains.
-GEOIP,PK
-GEOIP,BD
-GEOIP,LK
-GEOIP,NP
-GEOIP,BT
-GEOIP,MV
