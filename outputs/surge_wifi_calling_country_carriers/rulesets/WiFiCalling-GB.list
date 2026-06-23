@@ -4,6 +4,12 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Carrier-specific eSIM / SM-DP+ hosts
+# EE
+DOMAIN,ee.pr.go-esim.com
+# 1GLOBAL / Truphone
+DOMAIN,rsp.truphone.com
+
 # MCC-MNC: 234-00
 # Operators: British Telecom | —
 DOMAIN-SUFFIX,mnc000.mcc234.3gppnetwork.org
