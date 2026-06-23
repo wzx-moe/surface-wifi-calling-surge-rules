@@ -4,6 +4,10 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Carrier-specific eSIM / SM-DP+ hosts
+# Bell
+DOMAIN,bmc.prod.ondemandconnectivity.com
+
 # MCC-MNC: 302-060
 # Operators: Karrier One Inc.
 DOMAIN-SUFFIX,mnc060.mcc302.3gppnetwork.org
