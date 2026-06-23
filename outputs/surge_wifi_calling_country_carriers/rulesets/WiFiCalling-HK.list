@@ -4,6 +4,11 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Carrier-specific eSIM / SM-DP+ hosts
+# Hong Kong CSL / ClubSIM
+DOMAIN,csl.prod.ondemandconnectivity.com
+DOMAIN,hhk.prod.ondemandconnectivity.com
+
 # MCC-MNC: 454-00
 # Operators: Hong Kong Telecommunications (HKT) Limited | 1O1O / One2Free / New World Mobility / SUNMobile ; Hong Kong Telecommunications (HKT) Limited | CSL
 DOMAIN-SUFFIX,mnc000.mcc454.3gppnetwork.org
