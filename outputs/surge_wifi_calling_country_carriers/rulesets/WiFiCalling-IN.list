@@ -4,6 +4,12 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Carrier-specific eSIM / SM-DP+ hosts
+# Jio
+DOMAIN,smdprd.jio.com
+# Airtel (publicly observed in activation strings and support traces)
+DOMAIN,smdp.airtel.in
+
 # MCC-MNC: 404-00
 # Operators: Dishnet Wireless Ltd, Madhya Pradesh | —
 DOMAIN-SUFFIX,mnc000.mcc404.3gppnetwork.org
