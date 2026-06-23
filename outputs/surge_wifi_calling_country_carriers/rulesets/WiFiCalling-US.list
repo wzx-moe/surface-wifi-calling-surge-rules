@@ -4,6 +4,17 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Carrier-specific eSIM / SM-DP+ hosts
+# Verizon
+DOMAIN,2.vzw.otgeuicc.com
+DOMAIN,gsma2.vzw.otgeuicc.com
+# AT&T
+DOMAIN,cust-001-v4-prod-atl2.gdsb.net
+# Metro by T-Mobile
+DOMAIN,t-mobile.gdsb.net
+# Ultra Mobile
+DOMAIN,cust-005-v4-prod-atl2.gdsb.net
+
 # MCC-MNC: 310-010
 # Operators: Verizon Wireless | Verizon
 DOMAIN-SUFFIX,mnc010.mcc310.3gppnetwork.org
