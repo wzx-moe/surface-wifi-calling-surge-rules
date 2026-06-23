@@ -4,6 +4,10 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Carrier-specific eSIM / SM-DP+ hosts
+# Vodafone Germany
+DOMAIN,man-gto.prod.ondemandconnectivity.com
+
 # MCC-MNC: 262-01
 # Operators: Telekom Deutschland GmbH | Telekom ; Telekom Deutschland GmbH | Telekom.de
 DOMAIN-SUFFIX,mnc001.mcc262.3gppnetwork.org
