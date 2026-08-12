@@ -4,6 +4,10 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,UA))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,UA))
+
 # MCC-MNC: 255-01
 # Operators: "VF UKRAINE" PrJSC | Vodafone ; "VF UKRAINE" PrJSC | VODAFONE
 DOMAIN-SUFFIX,mnc001.mcc255.3gppnetwork.org
