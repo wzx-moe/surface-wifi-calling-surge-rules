@@ -4,16 +4,32 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,US))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,US))
+
 # Carrier-specific eSIM / SM-DP+ hosts
 # Verizon
 DOMAIN,2.vzw.otgeuicc.com
 DOMAIN,gsma2.vzw.otgeuicc.com
 # AT&T
 DOMAIN,cust-001-v4-prod-atl2.gdsb.net
+# AT&T Wi-Fi Calling / entitlement / visual voicemail (official support list)
+DOMAIN,epdg.epc.att.net
+DOMAIN,epdg.epc.att-idns.net
+DOMAIN,sentitlement2.mobile.att.net
+DOMAIN,vvm.mobile.att.net
+# Liberty Latin America Wi-Fi Calling ePDG (observed 3GPP CNAME target)
+DOMAIN,epdg.mobilecore.llagroup.com
 # Metro by T-Mobile
 DOMAIN,t-mobile.gdsb.net
 # Ultra Mobile
 DOMAIN,cust-005-v4-prod-atl2.gdsb.net
+
+# T-Mobile Wi-Fi Calling / authentication / visual voicemail (official support list)
+DOMAIN,crl.t-mobile.com
+IP-CIDR,208.54.0.0/16,no-resolve
+IP-CIDR,66.94.0.0/19,no-resolve
 
 # MCC-MNC: 310-010
 # Operators: Verizon Wireless | Verizon
