@@ -4,6 +4,15 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,TW))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,TW))
+
+# MCC-MNC: 466-92
+# Operators: Chunghwa Telecom
+DOMAIN-SUFFIX,mnc092.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc092.mcc466.pub.3gppnetwork.org
+
 # MCC-MNC: 466-01
 # Operators: Far EasTone
 DOMAIN-SUFFIX,mnc001.mcc466.3gppnetwork.org
@@ -15,7 +24,7 @@ DOMAIN-SUFFIX,mnc005.mcc466.3gppnetwork.org
 DOMAIN-SUFFIX,mnc005.mcc466.pub.3gppnetwork.org
 
 # MCC-MNC: 466-09
-# Operators: Chunghwa Telecom
+# Operators: Vmax Telecom
 DOMAIN-SUFFIX,mnc009.mcc466.3gppnetwork.org
 DOMAIN-SUFFIX,mnc009.mcc466.pub.3gppnetwork.org
 
@@ -33,3 +42,63 @@ DOMAIN-SUFFIX,mnc090.mcc466.pub.3gppnetwork.org
 # Operators: Taiwan Mobile
 DOMAIN-SUFFIX,mnc097.mcc466.3gppnetwork.org
 DOMAIN-SUFFIX,mnc097.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-002
+# Operators: Far EasTone Telecommunications
+DOMAIN-SUFFIX,mnc002.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-003
+# Operators: Far EasTone Telecommunications
+DOMAIN-SUFFIX,mnc003.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-006
+# Operators: Far EasTone Telecommunications
+DOMAIN-SUFFIX,mnc006.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-007
+# Operators: Far EasTone Telecommunications
+DOMAIN-SUFFIX,mnc007.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-010
+# Operators: Global Mobile Corp.
+DOMAIN-SUFFIX,mnc010.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-011
+# Operators: LDTA / Chunghwa Telecom
+DOMAIN-SUFFIX,mnc011.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-056
+# Operators: First International Telecom
+DOMAIN-SUFFIX,mnc056.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-068
+# Operators: Tatung InfoComm
+DOMAIN-SUFFIX,mnc068.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc068.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-088
+# Operators: Far EasTone Telecommunications
+DOMAIN-SUFFIX,mnc088.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-089
+# Operators: Taiwan Star Telecom
+DOMAIN-SUFFIX,mnc089.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc089.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-093
+# Operators: Mobitai Communications
+DOMAIN-SUFFIX,mnc093.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc093.mcc466.pub.3gppnetwork.org
+
+# MCC-MNC: 466-099
+# Operators: TransAsia Telecoms
+DOMAIN-SUFFIX,mnc099.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc466.pub.3gppnetwork.org
