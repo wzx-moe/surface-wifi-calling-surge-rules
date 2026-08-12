@@ -4,11 +4,18 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,GB))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,GB))
+
 # Carrier-specific eSIM / SM-DP+ hosts
 # EE
 DOMAIN,ee.pr.go-esim.com
 # 1GLOBAL / Truphone
 DOMAIN,rsp.truphone.com
+
+# Carrier-specific Wi-Fi Calling ePDG (observed 3GPP CNAME target)
+DOMAIN,epdg.vodafone.co.uk
 
 # MCC-MNC: 234-00
 # Operators: British Telecom | —
