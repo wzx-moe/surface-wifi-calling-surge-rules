@@ -4,6 +4,13 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,JP))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,JP))
+
+# Carrier-specific Wi-Fi Calling ePDG (observed 3GPP CNAME target)
+DOMAIN,epdg.kddi.ne.jp
+
 # MCC-MNC: 440-00
 # Operators: SoftBank Corp. | Y!Mobile
 DOMAIN-SUFFIX,mnc000.mcc440.3gppnetwork.org
@@ -263,3 +270,28 @@ DOMAIN-SUFFIX,mnc215.mcc441.pub.3gppnetwork.org
 # Operators: Eureka Wireless K.K.
 DOMAIN-SUFFIX,mnc216.mcc441.3gppnetwork.org
 DOMAIN-SUFFIX,mnc216.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-217
+# Operators: NTT DOCOMO, INC.
+DOMAIN-SUFFIX,mnc217.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc217.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-218
+# Operators: KDDI Corporation
+DOMAIN-SUFFIX,mnc218.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc218.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 441-219
+# Operators: NTT DOCOMO, INC.
+DOMAIN-SUFFIX,mnc219.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc219.mcc441.pub.3gppnetwork.org
+
+# MCC-MNC: 440-027
+# Operators: Rakuten Mobile, Inc.
+DOMAIN-SUFFIX,mnc027.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc440.pub.3gppnetwork.org
+
+# MCC-MNC: 440-028
+# Operators: OPTAGE Inc.
+DOMAIN-SUFFIX,mnc028.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc440.pub.3gppnetwork.org
