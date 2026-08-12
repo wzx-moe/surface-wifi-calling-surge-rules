@@ -4,6 +4,10 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,NZ))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,NZ))
+
 # MCC-MNC: 530-01
 # Operators: One New Zealand Group Limited | One NZ
 DOMAIN-SUFFIX,mnc001.mcc530.3gppnetwork.org
