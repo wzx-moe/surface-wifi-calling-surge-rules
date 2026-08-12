@@ -3,6 +3,8 @@
 # Source files: country carrier rulesets
 
 # === WiFiCalling-AU ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,AU))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,AU))
 DOMAIN-SUFFIX,mnc002.mcc505.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc505.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc004.mcc505.3gppnetwork.org
@@ -89,6 +91,8 @@ DOMAIN-SUFFIX,mnc099.mcc505.3gppnetwork.org
 DOMAIN-SUFFIX,mnc099.mcc505.pub.3gppnetwork.org
 
 # === WiFiCalling-BR ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,BR))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,BR))
 DOMAIN-SUFFIX,mnc000.mcc724.3gppnetwork.org
 DOMAIN-SUFFIX,mnc000.mcc724.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc724.3gppnetwork.org
@@ -147,6 +151,9 @@ DOMAIN-SUFFIX,mnc099.mcc724.3gppnetwork.org
 DOMAIN-SUFFIX,mnc099.mcc724.pub.3gppnetwork.org
 
 # === WiFiCalling-CA ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,CA))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,CA))
+DOMAIN,bmc.prod.ondemandconnectivity.com
 DOMAIN-SUFFIX,mnc060.mcc302.3gppnetwork.org
 DOMAIN-SUFFIX,mnc060.mcc302.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc100.mcc302.3gppnetwork.org
@@ -291,6 +298,10 @@ DOMAIN-SUFFIX,mnc998.mcc302.3gppnetwork.org
 DOMAIN-SUFFIX,mnc998.mcc302.pub.3gppnetwork.org
 
 # === WiFiCalling-DE ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,DE))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,DE))
+DOMAIN,man-gto.prod.ondemandconnectivity.com
+DOMAIN,epdg.epc.drz1.vodafone-ip.de
 DOMAIN-SUFFIX,mnc001.mcc262.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc262.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc262.3gppnetwork.org
@@ -345,6 +356,8 @@ DOMAIN-SUFFIX,mnc869.mcc262.3gppnetwork.org
 DOMAIN-SUFFIX,mnc869.mcc262.pub.3gppnetwork.org
 
 # === WiFiCalling-ES ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,ES))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,ES))
 DOMAIN-SUFFIX,mnc001.mcc214.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc214.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc214.3gppnetwork.org
@@ -423,6 +436,8 @@ DOMAIN-SUFFIX,mnc709.mcc214.3gppnetwork.org
 DOMAIN-SUFFIX,mnc709.mcc214.pub.3gppnetwork.org
 
 # === WiFiCalling-FR ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,FR))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,FR))
 DOMAIN-SUFFIX,mnc001.mcc208.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc208.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc208.3gppnetwork.org
@@ -549,6 +564,11 @@ DOMAIN-SUFFIX,mnc097.mcc208.3gppnetwork.org
 DOMAIN-SUFFIX,mnc097.mcc208.pub.3gppnetwork.org
 
 # === WiFiCalling-GB ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,GB))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,GB))
+DOMAIN,ee.pr.go-esim.com
+DOMAIN,rsp.truphone.com
+DOMAIN,epdg.vodafone.co.uk
 DOMAIN-SUFFIX,mnc000.mcc234.3gppnetwork.org
 DOMAIN-SUFFIX,mnc000.mcc234.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc234.3gppnetwork.org
@@ -683,6 +703,10 @@ DOMAIN-SUFFIX,mnc095.mcc235.3gppnetwork.org
 DOMAIN-SUFFIX,mnc095.mcc235.pub.3gppnetwork.org
 
 # === WiFiCalling-HK ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,HK))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,HK))
+DOMAIN,csl.prod.ondemandconnectivity.com
+DOMAIN,hhk.prod.ondemandconnectivity.com
 DOMAIN-SUFFIX,mnc000.mcc454.3gppnetwork.org
 DOMAIN-SUFFIX,mnc000.mcc454.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc454.3gppnetwork.org
@@ -785,6 +809,10 @@ DOMAIN-SUFFIX,mnc399.mcc454.3gppnetwork.org
 DOMAIN-SUFFIX,mnc399.mcc454.pub.3gppnetwork.org
 
 # === WiFiCalling-IN ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,IN))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,IN))
+DOMAIN,smdprd.jio.com
+DOMAIN,smdp.airtel.in
 DOMAIN-SUFFIX,mnc000.mcc404.3gppnetwork.org
 DOMAIN-SUFFIX,mnc000.mcc404.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc404.3gppnetwork.org
@@ -1129,6 +1157,8 @@ DOMAIN-SUFFIX,mnc086.mcc405.3gppnetwork.org
 DOMAIN-SUFFIX,mnc086.mcc405.pub.3gppnetwork.org
 
 # === WiFiCalling-IT ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,IT))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,IT))
 DOMAIN-SUFFIX,mnc001.mcc222.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc222.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc222.3gppnetwork.org
@@ -1145,6 +1175,9 @@ DOMAIN-SUFFIX,mnc099.mcc222.3gppnetwork.org
 DOMAIN-SUFFIX,mnc099.mcc222.pub.3gppnetwork.org
 
 # === WiFiCalling-JP ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,JP))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,JP))
+DOMAIN,epdg.kddi.ne.jp
 DOMAIN-SUFFIX,mnc000.mcc440.3gppnetwork.org
 DOMAIN-SUFFIX,mnc000.mcc440.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc440.3gppnetwork.org
@@ -1249,8 +1282,20 @@ DOMAIN-SUFFIX,mnc215.mcc441.3gppnetwork.org
 DOMAIN-SUFFIX,mnc215.mcc441.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc216.mcc441.3gppnetwork.org
 DOMAIN-SUFFIX,mnc216.mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc217.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc217.mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc218.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc218.mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc219.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc219.mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc440.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc440.pub.3gppnetwork.org
 
 # === WiFiCalling-KR ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,KR))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,KR))
 DOMAIN-SUFFIX,mnc001.mcc450.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc450.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc450.3gppnetwork.org
@@ -1271,6 +1316,8 @@ DOMAIN-SUFFIX,mnc012.mcc450.3gppnetwork.org
 DOMAIN-SUFFIX,mnc012.mcc450.pub.3gppnetwork.org
 
 # === WiFiCalling-MX ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,MX))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,MX))
 DOMAIN-SUFFIX,mnc001.mcc334.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc334.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc020.mcc334.3gppnetwork.org
@@ -1309,6 +1356,8 @@ DOMAIN-SUFFIX,mnc240.mcc334.3gppnetwork.org
 DOMAIN-SUFFIX,mnc240.mcc334.pub.3gppnetwork.org
 
 # === WiFiCalling-NL ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,NL))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,NL))
 DOMAIN-SUFFIX,mnc000.mcc204.3gppnetwork.org
 DOMAIN-SUFFIX,mnc000.mcc204.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc204.3gppnetwork.org
@@ -1387,6 +1436,8 @@ DOMAIN-SUFFIX,mnc091.mcc204.3gppnetwork.org
 DOMAIN-SUFFIX,mnc091.mcc204.pub.3gppnetwork.org
 
 # === WiFiCalling-NZ ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,NZ))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,NZ))
 DOMAIN-SUFFIX,mnc001.mcc530.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc530.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc003.mcc530.3gppnetwork.org
@@ -1413,6 +1464,8 @@ DOMAIN-SUFFIX,mnc024.mcc530.3gppnetwork.org
 DOMAIN-SUFFIX,mnc024.mcc530.pub.3gppnetwork.org
 
 # === WiFiCalling-SG ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,SG))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,SG))
 DOMAIN-SUFFIX,mnc001.mcc525.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc525.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc525.3gppnetwork.org
@@ -1447,6 +1500,10 @@ DOMAIN-SUFFIX,mnc205.mcc525.3gppnetwork.org
 DOMAIN-SUFFIX,mnc205.mcc525.pub.3gppnetwork.org
 
 # === WiFiCalling-TW ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,TW))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,TW))
+DOMAIN-SUFFIX,mnc092.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc092.mcc466.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc466.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc466.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc005.mcc466.3gppnetwork.org
@@ -1459,8 +1516,34 @@ DOMAIN-SUFFIX,mnc090.mcc466.3gppnetwork.org
 DOMAIN-SUFFIX,mnc090.mcc466.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc097.mcc466.3gppnetwork.org
 DOMAIN-SUFFIX,mnc097.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc006.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc056.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc068.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc068.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc089.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc089.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc093.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc093.mcc466.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc466.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc466.pub.3gppnetwork.org
 
 # === WiFiCalling-UA ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,UA))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,UA))
 DOMAIN-SUFFIX,mnc001.mcc255.3gppnetwork.org
 DOMAIN-SUFFIX,mnc001.mcc255.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc002.mcc255.3gppnetwork.org
@@ -1489,6 +1572,21 @@ DOMAIN-SUFFIX,mnc707.mcc255.3gppnetwork.org
 DOMAIN-SUFFIX,mnc707.mcc255.pub.3gppnetwork.org
 
 # === WiFiCalling-US ===
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,US))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,US))
+DOMAIN,2.vzw.otgeuicc.com
+DOMAIN,gsma2.vzw.otgeuicc.com
+DOMAIN,cust-001-v4-prod-atl2.gdsb.net
+DOMAIN,epdg.epc.att.net
+DOMAIN,epdg.epc.att-idns.net
+DOMAIN,sentitlement2.mobile.att.net
+DOMAIN,vvm.mobile.att.net
+DOMAIN,epdg.mobilecore.llagroup.com
+DOMAIN,t-mobile.gdsb.net
+DOMAIN,cust-005-v4-prod-atl2.gdsb.net
+DOMAIN,crl.t-mobile.com
+IP-CIDR,208.54.0.0/16,no-resolve
+IP-CIDR,66.94.0.0/19,no-resolve
 DOMAIN-SUFFIX,mnc010.mcc310.3gppnetwork.org
 DOMAIN-SUFFIX,mnc010.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mnc012.mcc310.3gppnetwork.org
