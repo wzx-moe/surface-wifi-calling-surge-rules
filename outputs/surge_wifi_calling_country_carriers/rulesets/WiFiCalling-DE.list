@@ -4,9 +4,16 @@
 # 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
 # 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
 
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,DE))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,DE))
+
 # Carrier-specific eSIM / SM-DP+ hosts
 # Vodafone Germany
 DOMAIN,man-gto.prod.ondemandconnectivity.com
+
+# Carrier-specific Wi-Fi Calling ePDG (observed 3GPP CNAME target)
+DOMAIN,epdg.epc.drz1.vodafone-ip.de
 
 # MCC-MNC: 262-01
 # Operators: Telekom Deutschland GmbH | Telekom ; Telekom Deutschland GmbH | Telekom.de
