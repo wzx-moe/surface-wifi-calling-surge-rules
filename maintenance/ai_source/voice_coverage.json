@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-11-24",
+  "official_url": "https://openai.com/chatgpt-voice.json",
+  "official_creation_time": "2026-11-16T01:33:53.175979+00:00",
+  "official_prefix_count": 411,
+  "sukka_url": "https://ruleset.skk.moe/List/ip/ai.conf",
+  "sukka_cidr_count": 409,
+  "official_merged_cidr_count": 409,
+  "sukka_merged_cidr_count": 409,
+  "same_address_union": true,
+  "missing_merged_ranges": [],
+  "extra_merged_ranges": [],
+  "sukka_other_rules": [
+    "DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
+    "IP-ASN,399358"
+  ],
+  "official_sha256": "0852b8be430cb4ae4a68ff8c0169f05bcdc5ce2ab6649cb3fc02d057a50612e7",
+  "sukka_sha256": "0a302fbee593dca126b1bbc2f8921ba3a0afbe4e6c9aefb30909550e18945f01"
+}

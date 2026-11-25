@@ -1,0 +1,7 @@
+# Place these steps after country inputs and All have been generated into the V5 staging tree.
+# The publisher should include only outputs/surge_wifi_calling_country_carriers/v5/ for Wi-Fi Calling.
+- name: Generate WiFi Calling V5 published files
+  run: python3 maintenance/wifi_rules/postprocess_wifi.py --repo . --apply
+
+- name: Verify WiFi Calling V5 published files
+  run: python3 maintenance/wifi_rules/postprocess_wifi.py --repo . --check

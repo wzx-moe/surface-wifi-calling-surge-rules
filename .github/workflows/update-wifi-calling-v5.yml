@@ -1,0 +1,50 @@
+name: Update Wi-Fi Calling V5 rules
+
+on:
+  schedule:
+    # 03:17 UTC Mondays = 11:17 Asia/Shanghai. GitHub may delay scheduled runs.
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - maintenance/wifi_rules/**
+      - maintenance/country_registry.json
+      - .github/workflows/update-wifi-calling-v5.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wifi-calling-v5-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      # Official actions/checkout v7.0.1, released 2026-07-20.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Verify Wi-Fi maintenance and ITU sync contracts
+        run: |
+          python3 --version
+          python3 maintenance/wifi_rules/test_postprocess_wifi.py --fixture .
+          python3 -m unittest discover -s maintenance/wifi_rules -p 'test_sync_itu_e212.py' -v
+      - name: Sync official ITU-T E.212B MCC/MNC and post-process V5 rules
+        run: |
+          python3 maintenance/wifi_rules/sync_itu_e212.py --repo . --apply
+          python3 maintenance/wifi_rules/postprocess_wifi.py --repo . --apply
+          python3 maintenance/wifi_rules/postprocess_wifi.py --repo . --check
+      - name: Publish only validated Wi-Fi Calling V5 artifacts
+        run: |
+          set -euo pipefail
+          git add -- outputs/surge_wifi_calling_country_carriers/v5
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update validated Wi-Fi Calling V5 rules from ITU-T E.212'
+          git push

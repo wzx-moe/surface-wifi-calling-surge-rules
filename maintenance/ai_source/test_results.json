@@ -1,0 +1,62 @@
+{
+  "tests": {
+    "checked_date": "2026-11-25",
+    "python": "3.9.6",
+    "test_count": 20,
+    "passed": true,
+    "failures": 0,
+    "errors": 0,
+    "skips": 0,
+    "tests": [
+      "test_update_rules.AdapterTests.test_current_sources_cover_official_and_legacy_requirements",
+      "test_update_rules.AdapterTests.test_equal_count_replacement_losing_domain_coverage_is_rejected",
+      "test_update_rules.AdapterTests.test_filesystem_failure_rolls_back_earlier_replacement",
+      "test_update_rules.AdapterTests.test_gradual_core_domain_loss_is_rejected",
+      "test_update_rules.AdapterTests.test_html_error_document_is_rejected",
+      "test_update_rules.AdapterTests.test_identical_sources_are_byte_stable",
+      "test_update_rules.AdapterTests.test_invalid_last_service_never_publishes_valid_first_service",
+      "test_update_rules.AdapterTests.test_known_regex_translation_covers_named_hosts_without_catching_other_azure",
+      "test_update_rules.AdapterTests.test_modified_generated_file_is_detected",
+      "test_update_rules.AdapterTests.test_new_shared_cloud_parent_is_rejected",
+      "test_update_rules.AdapterTests.test_new_valid_upstream_domain_is_published",
+      "test_update_rules.AdapterTests.test_ordered_precedence_claude_before_openai_before_antigravity",
+      "test_update_rules.AdapterTests.test_policy_injection_is_rejected",
+      "test_update_rules.AdapterTests.test_required_official_dependency_loss_is_rejected",
+      "test_update_rules.AdapterTests.test_shared_google_login_endpoints_are_excluded_and_cannot_be_recaptured",
+      "test_update_rules.AdapterTests.test_source_count_collapse_is_rejected",
+      "test_update_rules.AdapterTests.test_suffix_coverage_does_not_accept_one_sample_domain",
+      "test_update_rules.AdapterTests.test_unexpected_network_redirect_is_rejected",
+      "test_update_rules.AdapterTests.test_unknown_regex_requires_review",
+      "test_update_rules.AdapterTests.test_unreviewed_source_url_is_rejected_without_network"
+    ],
+    "native_surge_validation": false,
+    "github_actions_execution": false,
+    "workflow_yaml_and_shell_syntax": "PASS",
+    "output_rule_counts": {
+      "OpenAI": 70,
+      "Claude": 25,
+      "Antigravity": 50
+    },
+    "adapter_sha256": "812c477044854ce6779375e7daa9521b3c28c8aa37cf589ace9516bd4d257cf7",
+    "upstream_network_fetch_and_verify_current": "OFFLINE_FIXTURE_REBUILD_AND_VERIFY_PASS"
+  },
+  "commands": [
+    {
+      "args": [
+        "--source-dir",
+        "outputs/surge_ai/upstream"
+      ],
+      "returncode": 0,
+      "stdout": "{\"status\": \"PASS\", \"check_only\": false, \"changed_files\": [], \"output_rule_counts\": {\"OpenAI\": 70, \"Claude\": 25, \"Antigravity\": 50}, \"native_surge_validation\": false}",
+      "stderr": ""
+    },
+    {
+      "args": [
+        "--verify-current"
+      ],
+      "returncode": 0,
+      "stdout": "{\"status\": \"PASS\", \"check_only\": true, \"changed_files\": [], \"output_rule_counts\": {\"OpenAI\": 70, \"Claude\": 25, \"Antigravity\": 50}, \"native_surge_validation\": false}",
+      "stderr": ""
+    }
+  ]
+}

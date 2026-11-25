@@ -1,0 +1,135 @@
+{
+  "checked_date": "2026-11-24",
+  "method": "Official public GitHub repository pages, public raw files and workflow/release pages. REST API responses were HTTP 403; page display counts are rounded and are not represented as exact API statistics.",
+  "chosen": {
+    "domain_upstream": "MetaCubeX/meta-rules-dat, meta branch, geo/geosite/classical/{openai,anthropic,google-gemini}.list",
+    "reason": "Mature community-maintained service categories and recent daily successful publication, with current Claude and Antigravity coverage. A strict local format adapter is required; upstream does not claim native Surge support.",
+    "voice_upstream": "SukkaW/Surge via https://ruleset.skk.moe/List/ip/ai.conf",
+    "popularity_limit": "Stars, forks and community examples establish recognition, not active user counts, an objective quality score, or a guarantee."
+  },
+  "repositories": [
+    {
+      "repository": "MetaCubeX/meta-rules-dat",
+      "url": "https://github.com/MetaCubeX/meta-rules-dat",
+      "displayed_stars": "5.7k",
+      "displayed_forks": "823",
+      "master_commits_displayed": 336,
+      "native_surge": false,
+      "raw_counts": {
+        "openai": 25,
+        "anthropic": 21,
+        "google-gemini": 49
+      },
+      "maintenance": {
+        "successful_daily_workflows_observed": "2026-11-16 through 2026-11-23",
+        "workflow_url": "https://github.com/MetaCubeX/meta-rules-dat/actions",
+        "latest_release_title": "2026-11-23 10:55",
+        "latest_release_posted_utc": "2026-11-23T02:58:00Z",
+        "release_url": "https://github.com/MetaCubeX/meta-rules-dat/releases"
+      },
+      "compatibility": "classical OpenAI includes one DOMAIN-REGEX unsupported by Surge; plain geosite uses Clash +.domain syntax. Never point Surge directly at these raw files.",
+      "decision": "primary AI domain upstream with strict deterministic adapter"
+    },
+    {
+      "repository": "SukkaW/Surge",
+      "url": "https://github.com/SukkaW/Surge",
+      "displayed_stars": "4.7k",
+      "displayed_forks": "333",
+      "commits_displayed": 3243,
+      "native_surge": true,
+      "raw_counts": {
+        "aggregate_ai_domain": 61,
+        "voice_cidr": 409
+      },
+      "maintenance": {
+        "aggregate_ai_last_updated": "2026-11-19",
+        "voice_last_updated": "2026-11-16T06:05:14.093Z"
+      },
+      "decision": "keep mature ChatGPT voice IP source; aggregate domain AI file does not preserve independent per-service policies"
+    },
+    {
+      "repository": "blackmatrix7/ios_rule_script",
+      "url": "https://github.com/blackmatrix7/ios_rule_script",
+      "displayed_stars": "28.8k",
+      "displayed_forks": "4.1k",
+      "native_surge": true,
+      "raw_counts": {
+        "OpenAI": 35,
+        "Claude": 3,
+        "Gemini": 13
+      },
+      "maintenance": {
+        "inspected_AI_file_header_update": "2025-06-06"
+      },
+      "decision": "high recognition but inspected individual AI lists lack current coverage; large star count alone does not justify these particular files"
+    },
+    {
+      "repository": "ACL4SSR/ACL4SSR",
+      "url": "https://github.com/ACL4SSR/ACL4SSR",
+      "displayed_stars": "7.0k",
+      "displayed_forks": "2.0k",
+      "raw_counts": {
+        "OpenAI": 17,
+        "Claude": 2,
+        "Gemini": 13
+      },
+      "decision": "mature wider ecosystem, sparse inspected individual AI lists"
+    },
+    {
+      "repository": "Repcz/Tool",
+      "url": "https://github.com/Repcz/Tool",
+      "displayed_stars": "1.2k",
+      "displayed_forks": "143",
+      "commits_displayed": 332,
+      "raw_counts": {
+        "OpenAI": 17,
+        "Claude": 2,
+        "aggregate_AI": 61
+      },
+      "decision": "separate files do not improve the required completeness"
+    },
+    {
+      "repository": "VPSDance/ai-proxy-rules",
+      "url": "https://github.com/VPSDance/ai-proxy-rules",
+      "displayed_stars": "767",
+      "displayed_forks": "42",
+      "commits_displayed": 319,
+      "decision": "not used in this revision; replaced under user preference for mature upstream"
+    },
+    {
+      "repository": "erwanjun/surge-claude-rules",
+      "url": "https://github.com/erwanjun/surge-claude-rules",
+      "displayed_stars": "2",
+      "displayed_forks": "0",
+      "commits_displayed": 4,
+      "decision": "not used as any update dependency"
+    }
+  ],
+  "independent_community_examples": [
+    {
+      "url": "https://www.v2ex.com/t/1163311",
+      "date": "2025-10-04",
+      "context": "Firsthand discussion asking for separate LLM rules; a participant recommends MetaCubeX geosite."
+    },
+    {
+      "url": "https://cn.v2ex.com/t/1225972",
+      "date": "2026-07-09",
+      "context": "Participants recommend MetaCubeX and blackmatrix as rule-provider sources."
+    },
+    {
+      "url": "https://edge.v2ex.com/t/1077949",
+      "date": "2024-10-07",
+      "context": "Participant recommends Sukka routing resources."
+    }
+  ],
+  "adapter_compatibility_reference": "https://manual.nssurge.com/rules/domain.html",
+  "regex_scope_note": "Only the reviewed chatgpt-async-webps-prod regex is translated. Surge wildcard covers every valid hostname match of that regex but deliberately permits non-digits after the initial numeric suffix character; this bounded widening is documented and tested.",
+  "source_lock_note": "Raw response snapshots plus SHA256 and complete transform inputs are retained. Exact upstream git commit was not independently observed, so source-lock.json explicitly uses commit_sha:null.",
+  "checkout": {
+    "version": "v7.0.1",
+    "release_url": "https://github.com/actions/checkout/releases/tag/v7.0.1",
+    "commit_url": "https://github.com/actions/checkout/commit/3d3c42e5aac5ba805825da76410c181273ba90b1",
+    "pin": "3d3c42e5aac5ba805825da76410c181273ba90b1",
+    "setup_python": "not used; Python standard library only"
+  }
+}

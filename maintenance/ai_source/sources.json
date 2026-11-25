@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "upstream": "MetaCubeX/meta-rules-dat",
+  "branch": "meta",
+  "maximum_source_bytes": 262144,
+  "maximum_upstream_rules": 1000,
+  "minimum_count_ratio_to_last_good": 0.7,
+  "minimum_prior_rule_coverage": 0.7,
+  "maximum_count_ratio_to_last_good": 3.0,
+  "sources": {
+    "OpenAI": {
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/openai.list",
+      "file": "OpenAI.list",
+      "minimum_upstream_rules": 16,
+      "initial_upstream_count": 25,
+      "required_upstream_hosts": [
+        "openai.com",
+        "chatgpt.com",
+        "sora.com"
+      ]
+    },
+    "Claude": {
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/anthropic.list",
+      "file": "Claude.list",
+      "minimum_upstream_rules": 14,
+      "initial_upstream_count": 21,
+      "required_upstream_hosts": [
+        "api.anthropic.com",
+        "claude.ai",
+        "claude.com",
+        "probe.claudemcpcontent.com"
+      ]
+    },
+    "Antigravity": {
+      "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/google-gemini.list",
+      "file": "Antigravity.list",
+      "minimum_upstream_rules": 32,
+      "initial_upstream_count": 49,
+      "required_upstream_hosts": [
+        "antigravity.google",
+        "cloudcode-pa.googleapis.com",
+        "gemini.google.com"
+      ]
+    }
+  }
+}

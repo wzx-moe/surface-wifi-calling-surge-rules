@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "purpose": "Maintain verified additive domains/MCC namespaces and move known country UDP GeoIP fallbacks after all precise country rules. Does not replace upstream carrier rule inputs.",
+  "upstream_repository": "https://github.com/wzx-moe/surface-wifi-calling-surge-rules",
+  "provenance_registry_sha256": "151a4ad916d78e1044aa9452d56d2a98c872ebb766708ffd44dbda69d414360b",
+  "sources": {
+    "3gpp_naming": {
+      "url": "https://www.etsi.org/deliver/etsi_ts/123000_123099/123003/18.06.00_60/ts_123003v180600p.pdf",
+      "type": "primary_standard",
+      "supports": "TS 23.003 sections 19.4.2.9.2 and .3 define epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org with both codes three digits; supports hostname interpretation, not proof of any particular deployed endpoint."
+    },
+    "apple_verizon_ota": {
+      "url": "https://updates.cdn-apple.com/20260324/carrierbundles/082-54829/00C3384B-E246-4634-8D21-500C3489AF7B/Verizon_LTE_US_iPhone.ipcc",
+      "type": "primary_original_apple_carrier_bundle",
+      "sha256": "fbc8b06a78d3e14457fe9f295f8a567cd5c76d5d8f16b24f8a8de54d0257abf0",
+      "supports": "Directly downloaded Apple OTA iPhone carrier bundle contains spc.myvzw.com under CarrierEntitlements.ServerAddress and spc-pfe.myvzw.com under CarrierEntitlementsSecondaryOverlay.ServerAddress.",
+      "note": "Third-party index used only to discover the Apple CDN URL. Actual evidence extracted from original Apple-hosted ZIP/plists; no user config involved. OTA package is dated 2026-03-24, not asserted to be newest iOS bundle.",
+      "fields": [
+        "Payload/Verizon_LTE_US.bundle/carrier.plist: CarrierEntitlements.ServerAddress",
+        "Payload/Verizon_LTE_US.bundle/overrides_D23.plist: CarrierEntitlementsSecondaryOverlay.ServerAddress"
+      ]
+    },
+    "arcep_fr_mnc": {
+      "url": "https://data.arcep.fr/mobile/mesures_qualite_arcep/index.html",
+      "type": "primary_regulator_registry",
+      "supports": "French regulator lists SFR 208 10 and Bouygues Telecom 208 20."
+    },
+    "aruba_jio": {
+      "url": "https://arubanetworking.hpe.com/techdocs/CLI-Bank/Content/instant/sh-wifical-dns-patrns.htm",
+      "type": "primary_manufacturer_implementation_documentation",
+      "supports": "Built-in Wi-Fi Calling DNS pattern maps Reliance Jio to vowifi.jio.com."
+    },
+    "aruba_wifi_defaults": {
+      "url": "https://arubanetworking.hpe.com/techdocs/ArubaOS/oxygen/AOS-8%20Consolidated%20User%20Guide/voice-and-video/wi-fi-calling-configuration.html",
+      "type": "primary_manufacturer_implementation_documentation",
+      "supports": "Built-in Wi-Fi Calling DNS patterns map 3 HK to wlan.three.com.hk and Verizon to wo.vzwwo.com."
+    },
+    "itu_au_mnc": {
+      "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1280-2023-OAS-PDF-E.pdf",
+      "type": "primary_regulator_registry",
+      "supports": "Annex Australia assigns 505 01 to Telstra and 505 03 to Vodafone."
+    },
+    "itu_mx_mnc": {
+      "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1308-2025-OAS-PDF-S.pdf",
+      "type": "primary_regulator_registry",
+      "supports": "January 2025 amendment assigns Mexico 334 050 to AT&T Comercializacion Movil."
+    },
+    "apple_o2_ota": {
+      "url": "https://updates.cdn-apple.com/20260324/carrierbundles/047-95924/0218D189-983D-46B5-B47F-564AEF3AE655/O2_UK_iPhone.ipcc",
+      "type": "primary_original_apple_carrier_bundle",
+      "sha256": "2159e249cb70fc3f911990c7d61af52e3db3f4b66d3f2a684d2ad04c4babd677",
+      "supports": "O2 UK CarrierEntitlements endpoint https://ses.o2.co.uk:443; bundle also contains eSIM and physical-SIM-transfer entitlement metadata. This is not evidence of a giffgaff HTTPS entitlement requirement."
+    },
+    "itu_country_mcc": {
+      "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1117-2017-OAS-PDF-E.pdf",
+      "type": "primary_itu_country_code_register",
+      "supports": "Official E.212 country allocations for every national MCC reused here. Only MCCs already present in the corresponding original country list are generalized. Country allocation is not a destination GeoIP or service-availability guarantee.",
+      "register_date": "2017-02-01",
+      "verification": "Official ITU OB 1117 annex downloaded directly from itu.int and its allocation tables inspected on 2026-11-23; national allocations corroborated against the original country lists. The current ITU service-publications catalog still links this consolidated MCC list; subsequent amendments must be monitored."
+    },
+    "itu_shared_mcc": {
+      "url": "https://www.itu.int/net/ITU-T/inrdb/e212_901.aspx",
+      "type": "primary_current_itu_shared_code_register",
+      "supports": "Shared international MCC allocations, including 901, must not be treated as one national country. No shared international MCC occurs in the 19 baseline country lists."
+    },
+    "surge_first_match": {
+      "url": "https://manual.nssurge.com/rules/overview.html",
+      "type": "primary_surge_documentation",
+      "supports": "Rules are evaluated in order; precise country routing must precede broad GeoIP fallbacks."
+    },
+    "surge_no_resolve": {
+      "url": "https://manual.nssurge.com/rules/ip.html",
+      "type": "primary_surge_documentation",
+      "supports": "no-resolve does not suppress IP rules for a request whose destination is already an IP address."
+    }
+  },
+  "exact_additions": [
+    {
+      "country": "US",
+      "domain": "wo.vzwwo.com",
+      "rule": "DOMAIN,wo.vzwwo.com",
+      "carrier": "Verizon",
+      "role": "ePDG",
+      "source_ids": [
+        "aruba_wifi_defaults"
+      ]
+    },
+    {
+      "country": "US",
+      "domain": "spc.myvzw.com",
+      "rule": "DOMAIN,spc.myvzw.com",
+      "carrier": "Verizon",
+      "role": "carrier_entitlement",
+      "source_ids": [
+        "apple_verizon_ota"
+      ]
+    },
+    {
+      "country": "US",
+      "domain": "spc-pfe.myvzw.com",
+      "rule": "DOMAIN,spc-pfe.myvzw.com",
+      "carrier": "Verizon",
+      "role": "carrier_entitlement_secondary_overlay",
+      "source_ids": [
+        "apple_verizon_ota"
+      ]
+    },
+    {
+      "country": "HK",
+      "domain": "wlan.three.com.hk",
+      "rule": "DOMAIN,wlan.three.com.hk",
+      "carrier": "3 Hong Kong",
+      "role": "ePDG",
+      "source_ids": [
+        "aruba_wifi_defaults"
+      ]
+    },
+    {
+      "country": "HK",
+      "domain": "wlan.datapath.three.com.hk",
+      "rule": "DOMAIN,wlan.datapath.three.com.hk",
+      "carrier": "3 Hong Kong",
+      "role": "ePDG_current_CNAME_target",
+      "source_ids": [
+        "aruba_wifi_defaults"
+      ]
+    },
+    {
+      "country": "IN",
+      "domain": "vowifi.jio.com",
+      "rule": "DOMAIN,vowifi.jio.com",
+      "carrier": "Reliance Jio",
+      "role": "ePDG",
+      "source_ids": [
+        "aruba_jio"
+      ]
+    },
+    {
+      "country": "AU",
+      "domain": "epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+      "rule": "DOMAIN,epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+      "carrier": "Telstra",
+      "role": "standard_ePDG",
+      "source_ids": [
+        "3gpp_naming",
+        "itu_au_mnc"
+      ]
+    },
+    {
+      "country": "AU",
+      "domain": "epdg.epc.mnc003.mcc505.pub.3gppnetwork.org",
+      "rule": "DOMAIN,epdg.epc.mnc003.mcc505.pub.3gppnetwork.org",
+      "carrier": "Vodafone Australia",
+      "role": "standard_ePDG",
+      "source_ids": [
+        "3gpp_naming",
+        "itu_au_mnc"
+      ]
+    },
+    {
+      "country": "FR",
+      "domain": "epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+      "rule": "DOMAIN,epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+      "carrier": "SFR",
+      "role": "standard_ePDG",
+      "source_ids": [
+        "3gpp_naming",
+        "arcep_fr_mnc"
+      ]
+    },
+    {
+      "country": "FR",
+      "domain": "epdg.epc.mnc020.mcc208.pub.3gppnetwork.org",
+      "rule": "DOMAIN,epdg.epc.mnc020.mcc208.pub.3gppnetwork.org",
+      "carrier": "Bouygues Telecom",
+      "role": "standard_ePDG",
+      "source_ids": [
+        "3gpp_naming",
+        "arcep_fr_mnc"
+      ]
+    },
+    {
+      "country": "MX",
+      "domain": "epdg.epc.mnc050.mcc334.pub.3gppnetwork.org",
+      "rule": "DOMAIN,epdg.epc.mnc050.mcc334.pub.3gppnetwork.org",
+      "carrier": "AT&T Mexico",
+      "role": "standard_ePDG",
+      "source_ids": [
+        "3gpp_naming",
+        "itu_mx_mnc"
+      ]
+    },
+    {
+      "country": "IT",
+      "domain": "epdg.epc.mnc050.mcc222.pub.3gppnetwork.org",
+      "rule": "DOMAIN,epdg.epc.mnc050.mcc222.pub.3gppnetwork.org",
+      "carrier": null,
+      "role": "standard_ePDG",
+      "source_ids": [
+        "3gpp_naming"
+      ]
+    },
+    {
+      "country": "GB",
+      "domain": "ses.o2.co.uk",
+      "rule": "DOMAIN,ses.o2.co.uk",
+      "carrier": "O2 UK",
+      "role": "carrier_entitlement_and_eSIM",
+      "source_ids": [
+        "apple_o2_ota"
+      ],
+      "note": "Official O2 UK bundle endpoint. Not established as a dependency or failure cause for giffgaff; the giffgaff bundle enables Wi-Fi Calling without a separate entitlement check."
+    }
+  ],
+  "countries": [
+    {
+      "cc": "GB",
+      "policy": "VoWiFi-GB 🇬🇧",
+      "mcc": [
+        "234",
+        "235"
+      ],
+      "required_rules": [
+        "DOMAIN,ses.o2.co.uk",
+        "DOMAIN-SUFFIX,mcc234.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc235.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc235.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,GB))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,GB))"
+      ]
+    },
+    {
+      "cc": "US",
+      "policy": "VoWiFi-US 🇺🇸",
+      "mcc": [
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "316"
+      ],
+      "required_rules": [
+        "DOMAIN,wo.vzwwo.com",
+        "DOMAIN,spc.myvzw.com",
+        "DOMAIN,spc-pfe.myvzw.com",
+        "DOMAIN-SUFFIX,mcc310.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc310.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc311.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc311.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc312.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc312.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc313.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc313.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc314.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc314.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc316.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc316.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,US))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,US))"
+      ]
+    },
+    {
+      "cc": "DE",
+      "policy": "VoWiFi-DE 🇩🇪",
+      "mcc": [
+        "262"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc262.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc262.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,DE))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,DE))"
+      ]
+    },
+    {
+      "cc": "JP",
+      "policy": "VoWiFi-JP 🇯🇵",
+      "mcc": [
+        "440",
+        "441"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc440.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc440.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc441.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc441.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,JP))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,JP))"
+      ]
+    },
+    {
+      "cc": "HK",
+      "policy": "VoWiFi-HK 🇭🇰",
+      "mcc": [
+        "454"
+      ],
+      "required_rules": [
+        "DOMAIN,wlan.three.com.hk",
+        "DOMAIN,wlan.datapath.three.com.hk",
+        "DOMAIN-SUFFIX,mcc454.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc454.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,HK))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,HK))"
+      ]
+    },
+    {
+      "cc": "TW",
+      "policy": "VoWiFi-TW 🇹🇼",
+      "mcc": [
+        "466"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc466.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc466.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,TW))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,TW))"
+      ]
+    },
+    {
+      "cc": "SG",
+      "policy": "VoWiFi-SG 🇸🇬",
+      "mcc": [
+        "525"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc525.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc525.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,SG))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,SG))"
+      ]
+    },
+    {
+      "cc": "KR",
+      "policy": "VoWiFi-KR 🇰🇷",
+      "mcc": [
+        "450"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc450.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc450.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,KR))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,KR))"
+      ]
+    },
+    {
+      "cc": "FR",
+      "policy": "VoWiFi-FR 🇫🇷",
+      "mcc": [
+        "208"
+      ],
+      "required_rules": [
+        "DOMAIN,epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+        "DOMAIN,epdg.epc.mnc020.mcc208.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc208.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc208.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,FR))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,FR))"
+      ]
+    },
+    {
+      "cc": "CA",
+      "policy": "VoWiFi-CA 🇨🇦",
+      "mcc": [
+        "302"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc302.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc302.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,CA))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,CA))"
+      ]
+    },
+    {
+      "cc": "AU",
+      "policy": "VoWiFi-AU 🇦🇺",
+      "mcc": [
+        "505"
+      ],
+      "required_rules": [
+        "DOMAIN,epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+        "DOMAIN,epdg.epc.mnc003.mcc505.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc505.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc505.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,AU))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,AU))"
+      ]
+    },
+    {
+      "cc": "NL",
+      "policy": "VoWiFi-NL 🇳🇱",
+      "mcc": [
+        "204"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc204.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc204.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,NL))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,NL))"
+      ]
+    },
+    {
+      "cc": "UA",
+      "policy": "VoWiFi-UA 🇺🇦",
+      "mcc": [
+        "255"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc255.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc255.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,UA))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,UA))"
+      ]
+    },
+    {
+      "cc": "IN",
+      "policy": "VoWiFi-IN 🇮🇳",
+      "mcc": [
+        "404",
+        "405"
+      ],
+      "required_rules": [
+        "DOMAIN,vowifi.jio.com",
+        "DOMAIN-SUFFIX,mcc404.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc404.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc405.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc405.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,IN))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,IN))"
+      ]
+    },
+    {
+      "cc": "MX",
+      "policy": "VoWiFi-MX 🇲🇽",
+      "mcc": [
+        "334"
+      ],
+      "required_rules": [
+        "DOMAIN,epdg.epc.mnc050.mcc334.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc334.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc334.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,MX))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,MX))"
+      ]
+    },
+    {
+      "cc": "BR",
+      "policy": "VoWiFi-BR 🇧🇷",
+      "mcc": [
+        "724"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc724.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc724.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,BR))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,BR))"
+      ]
+    },
+    {
+      "cc": "NZ",
+      "policy": "VoWiFi-NZ 🇳🇿",
+      "mcc": [
+        "530"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc530.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc530.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,NZ))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,NZ))"
+      ]
+    },
+    {
+      "cc": "IT",
+      "policy": "VoWiFi-IT 🇮🇹",
+      "mcc": [
+        "222"
+      ],
+      "required_rules": [
+        "DOMAIN,epdg.epc.mnc050.mcc222.pub.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc222.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc222.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,IT))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,IT))"
+      ]
+    },
+    {
+      "cc": "ES",
+      "policy": "VoWiFi-ES 🇪🇸",
+      "mcc": [
+        "214"
+      ],
+      "required_rules": [
+        "DOMAIN-SUFFIX,mcc214.3gppnetwork.org",
+        "DOMAIN-SUFFIX,mcc214.pub.3gppnetwork.org"
+      ],
+      "geoip_fallback": [
+        "AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,ES))",
+        "AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,ES))"
+      ]
+    }
+  ]
+}

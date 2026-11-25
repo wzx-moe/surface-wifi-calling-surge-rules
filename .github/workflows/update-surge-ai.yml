@@ -1,0 +1,47 @@
+name: Update Surge AI rules
+
+on:
+  schedule:
+    # 22:13 UTC = 06:13 Asia/Shanghai. GitHub may delay scheduled runs.
+    - cron: '13 22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - maintenance/ai_source/**
+      - .github/workflows/update-surge-ai.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: surge-ai-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      # Official actions/checkout v7.0.1, released 2026-07-20.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Verify adapter contracts
+        run: |
+          python3 --version
+          python3 -m unittest discover -s maintenance/ai_source -p test_update_rules.py -v
+      - name: Fetch, adapt and validate current public upstream
+        run: |
+          python3 maintenance/ai_source/update_rules.py
+          python3 maintenance/ai_source/update_rules.py --verify-current
+      - name: Publish only validated AI artifacts
+        run: |
+          set -euo pipefail
+          git add -- outputs/surge_ai
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update validated Surge AI rules'
+          git push

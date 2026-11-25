@@ -1,0 +1,77 @@
+# OpenAI | Surge RULE-SET | domain routing only
+# Upstream: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/classical/openai.list
+# Source SHA256: ab4b25c0dd156f34d31c02b91f73384c5bb0f4cc508052906da3b6338c336e80
+# Adapter and exact supplements: maintenance/ai_source/
+# Updates are published only after syntax, coverage and size checks pass.
+# Native DOMAIN-WILDCARD translation is documented in source-lock.json.
+# Rule count: 70
+DOMAIN,android.chat.openai.com
+DOMAIN,auth0.openai.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,cdn.openaimerge.com
+DOMAIN,cdn.platform.openai.com
+DOMAIN,cdn.workos.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,chat.openai.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,desktop.chat.openai.com
+DOMAIN,forwarder.workos.com
+DOMAIN,frontend-apps-multi-region.workos.com
+DOMAIN,humb.apple.com
+DOMAIN,images.workoscdn.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,js.intercomcdn.com
+DOMAIN,js.stripe.com
+DOMAIN,o207216.ingest.sentry.io
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openai.qualtrics.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaiassets.blob.core.windows.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,rum.browser-intake-datadoghq.com
+DOMAIN,setup.auth.openai.com
+DOMAIN,setup.workos.com
+DOMAIN,static.cloudflareinsights.com
+DOMAIN,tcr9i.chat.openai.com
+DOMAIN,workos.imgix.net
+DOMAIN,ws.chatgpt.com
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openai.org
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-WILDCARD,chatgpt-async-webps-prod-?*-[0-9]*.webpubsub.azure.com
