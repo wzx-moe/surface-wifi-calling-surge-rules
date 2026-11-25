@@ -1,0 +1,52 @@
+# WiFi routing overlay: exact/namespace rules only; broad GeoIP fallbacks moved to legacy_geoip.
+# The original Real-IP fallback comment below is retained for source-line audit; its rules are in the legacy file.
+# Italy
+# Source: https://mcc-mnc-lookup.com/country/it/
+# Coverage mode: all observed carrier rows grouped by MCC/MNC
+# 3GPP domain pattern: ims.mnc<MNC>.mcc<MCC>.3gppnetwork.org
+# 3GPP pub domain pattern: epdg.epc.mnc<MNC>.mcc<MCC>.pub.3gppnetwork.org
+
+# Real-IP fallback for IKEv2/IPsec Wi-Fi Calling (UDP has no SNI/Host)
+
+# MCC-MNC: 222-01
+# Operators: Telecom Italia Mobile (TIM) | TIM ; Telecom Italia Mobile (TIM) | I TIM
+DOMAIN-SUFFIX,mnc001.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc222.pub.3gppnetwork.org
+
+# MCC-MNC: 222-02
+# Operators: Elsacom
+DOMAIN-SUFFIX,mnc002.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc222.pub.3gppnetwork.org
+
+# MCC-MNC: 222-10
+# Operators: Omnitel Pronto Italia (OPI) | vodafone IT
+DOMAIN-SUFFIX,mnc010.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc222.pub.3gppnetwork.org
+
+# MCC-MNC: 222-77
+# Operators: IPSE 2000
+DOMAIN-SUFFIX,mnc077.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc222.pub.3gppnetwork.org
+
+# MCC-MNC: 222-88
+# Operators: Wind | WINDTRE
+DOMAIN-SUFFIX,mnc088.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc088.mcc222.pub.3gppnetwork.org
+
+# MCC-MNC: 222-98
+# Operators: Blu
+DOMAIN-SUFFIX,mnc098.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc098.mcc222.pub.3gppnetwork.org
+
+# MCC-MNC: 222-99
+# Operators: H3G | —
+DOMAIN-SUFFIX,mnc099.mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mnc099.mcc222.pub.3gppnetwork.org
+
+# Verified additive carrier endpoints (see country_registry.json for evidence).
+DOMAIN,epdg.epc.mnc050.mcc222.pub.3gppnetwork.org
+
+# National MCC namespace coverage for new MNCs and standardized service name variants.
+# Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
+DOMAIN-SUFFIX,mcc222.3gppnetwork.org
+DOMAIN-SUFFIX,mcc222.pub.3gppnetwork.org

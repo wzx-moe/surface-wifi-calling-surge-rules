@@ -1,0 +1,5 @@
+# IT: original UDP 500/4500 GeoIP compatibility rules, moved without changing content.
+# Load only after ALL country domain, fixed-CIDR and DNS-IP mapping rules.
+# Broad compatibility match; also includes non-VoWiFi IKE/IPsec traffic in this GeoIP country.
+AND,((PROTOCOL,UDP),(DEST-PORT,500),(GEOIP,IT))
+AND,((PROTOCOL,UDP),(DEST-PORT,4500),(GEOIP,IT))

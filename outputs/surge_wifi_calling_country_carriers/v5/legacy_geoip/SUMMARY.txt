@@ -1,0 +1,22 @@
+# Compatibility fallback counts; excluded from the formal SUMMARY.
+# Moved compatibility fallback counts; excluded from formal rulesets/SUMMARY total.
+GB: rules=2
+US: rules=2
+DE: rules=2
+JP: rules=2
+HK: rules=2
+TW: rules=2
+SG: rules=2
+KR: rules=2
+FR: rules=2
+CA: rules=2
+AU: rules=2
+NL: rules=2
+UA: rules=2
+IN: rules=2
+MX: rules=2
+BR: rules=2
+NZ: rules=2
+IT: rules=2
+ES: rules=2
+TOTAL: rules=38
