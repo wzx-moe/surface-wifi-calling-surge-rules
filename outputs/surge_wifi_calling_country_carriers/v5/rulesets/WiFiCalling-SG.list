@@ -94,3 +94,13 @@ DOMAIN-SUFFIX,mnc205.mcc525.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc525.3gppnetwork.org
 DOMAIN-SUFFIX,mcc525.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 525-010 | TPG Telecom Pte Ltd
+DOMAIN-SUFFIX,mnc010.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc525.pub.3gppnetwork.org
+# MCC-MNC: 525-012 | Digital Trunked Radio Network
+DOMAIN-SUFFIX,mnc012.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc525.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

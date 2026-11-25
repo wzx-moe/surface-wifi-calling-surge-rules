@@ -79,3 +79,10 @@ DOMAIN-SUFFIX,mnc707.mcc255.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc255.3gppnetwork.org
 DOMAIN-SUFFIX,mcc255.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 255-004 | "Intertelecom" LLC
+DOMAIN-SUFFIX,mnc004.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc255.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

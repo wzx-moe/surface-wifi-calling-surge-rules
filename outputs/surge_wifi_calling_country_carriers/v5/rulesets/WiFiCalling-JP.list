@@ -304,3 +304,19 @@ DOMAIN-SUFFIX,mcc440.3gppnetwork.org
 DOMAIN-SUFFIX,mcc440.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc441.3gppnetwork.org
 DOMAIN-SUFFIX,mcc441.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 440-009 | Marubeni Network Solutions Inc.
+DOMAIN-SUFFIX,mnc009.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc440.pub.3gppnetwork.org
+# MCC-MNC: 441-001 | SoftBank Corp.
+DOMAIN-SUFFIX,mnc001.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc441.pub.3gppnetwork.org
+# MCC-MNC: 441-210 | NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION
+DOMAIN-SUFFIX,mnc210.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc441.pub.3gppnetwork.org
+# MCC-MNC: 441-211 | STARCAT CABLE NETWORK Co., LTD.
+DOMAIN-SUFFIX,mnc211.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc211.mcc441.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

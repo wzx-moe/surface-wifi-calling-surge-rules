@@ -373,3 +373,31 @@ DOMAIN-SUFFIX,mnc998.mcc302.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc302.3gppnetwork.org
 DOMAIN-SUFFIX,mcc302.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 302-130 | Xplornet Communications
+DOMAIN-SUFFIX,mnc130.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-131 | Xplornet Communications
+DOMAIN-SUFFIX,mnc131.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc131.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-151 | Cogeco Connexion Inc.
+DOMAIN-SUFFIX,mnc151.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc151.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-152 | Cogeco Connexion Inc.
+DOMAIN-SUFFIX,mnc152.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc152.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-420 | A.B.C. Allen Business Communications Ltd.
+DOMAIN-SUFFIX,mnc420.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-490 | Globalive Wireless
+DOMAIN-SUFFIX,mnc490.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-491 | Freedom Mobile Inc.
+DOMAIN-SUFFIX,mnc491.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc491.mcc302.pub.3gppnetwork.org
+# MCC-MNC: 302-996 | Powertech Labs (experimental)
+DOMAIN-SUFFIX,mnc996.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc996.mcc302.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

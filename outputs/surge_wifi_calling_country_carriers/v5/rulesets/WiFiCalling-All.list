@@ -142,6 +142,12 @@ DOMAIN-SUFFIX,mcc234.3gppnetwork.org
 DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc235.3gppnetwork.org
 DOMAIN-SUFFIX,mcc235.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc234.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc234.pub.3gppnetwork.org
 
 # US
 DOMAIN,2.vzw.otgeuicc.com
@@ -1092,6 +1098,36 @@ DOMAIN-SUFFIX,mcc314.3gppnetwork.org
 DOMAIN-SUFFIX,mcc314.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc316.3gppnetwork.org
 DOMAIN-SUFFIX,mcc316.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc460.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc460.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc930.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc930.mcc311.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc950.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc950.mcc311.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc312.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc312.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc312.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc312.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc312.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc312.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc313.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc313.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc313.pub.3gppnetwork.org
 
 # DE
 DOMAIN,man-gto.prod.ondemandconnectivity.com
@@ -1150,6 +1186,30 @@ DOMAIN-SUFFIX,mnc869.mcc262.3gppnetwork.org
 DOMAIN-SUFFIX,mnc869.mcc262.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc262.3gppnetwork.org
 DOMAIN-SUFFIX,mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc073.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc073.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc075.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc075.mcc262.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc262.pub.3gppnetwork.org
 
 # JP
 DOMAIN,epdg.kddi.ne.jp
@@ -1271,6 +1331,14 @@ DOMAIN-SUFFIX,mcc440.3gppnetwork.org
 DOMAIN-SUFFIX,mcc440.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc441.3gppnetwork.org
 DOMAIN-SUFFIX,mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc440.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc440.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc210.mcc441.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc211.mcc441.3gppnetwork.org
+DOMAIN-SUFFIX,mnc211.mcc441.pub.3gppnetwork.org
 
 # HK
 DOMAIN,csl.prod.ondemandconnectivity.com
@@ -1379,6 +1447,18 @@ DOMAIN,wlan.three.com.hk
 DOMAIN,wlan.datapath.three.com.hk
 DOMAIN-SUFFIX,mcc454.3gppnetwork.org
 DOMAIN-SUFFIX,mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc454.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc454.pub.3gppnetwork.org
 
 # TW
 DOMAIN-SUFFIX,mnc092.mcc466.3gppnetwork.org
@@ -1457,6 +1537,10 @@ DOMAIN-SUFFIX,mnc205.mcc525.3gppnetwork.org
 DOMAIN-SUFFIX,mnc205.mcc525.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc525.3gppnetwork.org
 DOMAIN-SUFFIX,mcc525.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc525.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc525.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc525.pub.3gppnetwork.org
 
 # KR
 DOMAIN-SUFFIX,mnc001.mcc450.3gppnetwork.org
@@ -1609,6 +1693,10 @@ DOMAIN,epdg.epc.mnc010.mcc208.pub.3gppnetwork.org
 DOMAIN,epdg.epc.mnc020.mcc208.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc208.3gppnetwork.org
 DOMAIN-SUFFIX,mcc208.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc208.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc208.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc208.pub.3gppnetwork.org
 
 # CA
 DOMAIN,bmc.prod.ondemandconnectivity.com
@@ -1756,6 +1844,22 @@ DOMAIN-SUFFIX,mnc998.mcc302.3gppnetwork.org
 DOMAIN-SUFFIX,mnc998.mcc302.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc302.3gppnetwork.org
 DOMAIN-SUFFIX,mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc131.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc131.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc151.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc151.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc152.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc152.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc420.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc490.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc491.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc491.mcc302.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc996.mcc302.3gppnetwork.org
+DOMAIN-SUFFIX,mnc996.mcc302.pub.3gppnetwork.org
 
 # AU
 DOMAIN-SUFFIX,mnc002.mcc505.3gppnetwork.org
@@ -1846,6 +1950,58 @@ DOMAIN,epdg.epc.mnc001.mcc505.pub.3gppnetwork.org
 DOMAIN,epdg.epc.mnc003.mcc505.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc505.3gppnetwork.org
 DOMAIN-SUFFIX,mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc047.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc047.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc071.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc071.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc505.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc505.pub.3gppnetwork.org
 
 # NL
 DOMAIN-SUFFIX,mnc000.mcc204.3gppnetwork.org
@@ -1956,6 +2112,8 @@ DOMAIN-SUFFIX,mnc707.mcc255.3gppnetwork.org
 DOMAIN-SUFFIX,mnc707.mcc255.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc255.3gppnetwork.org
 DOMAIN-SUFFIX,mcc255.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc255.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc255.pub.3gppnetwork.org
 
 # IN
 DOMAIN,smdprd.jio.com
@@ -2348,6 +2506,22 @@ DOMAIN-SUFFIX,mnc240.mcc334.pub.3gppnetwork.org
 DOMAIN,epdg.epc.mnc050.mcc334.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc334.3gppnetwork.org
 DOMAIN-SUFFIX,mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc334.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc334.pub.3gppnetwork.org
 
 # BR
 DOMAIN-SUFFIX,mnc000.mcc724.3gppnetwork.org
@@ -2436,6 +2610,10 @@ DOMAIN-SUFFIX,mnc024.mcc530.3gppnetwork.org
 DOMAIN-SUFFIX,mnc024.mcc530.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc530.3gppnetwork.org
 DOMAIN-SUFFIX,mcc530.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc000.mcc530.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc530.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc530.pub.3gppnetwork.org
 
 # IT
 DOMAIN-SUFFIX,mnc001.mcc222.3gppnetwork.org
@@ -2535,3 +2713,9 @@ DOMAIN-SUFFIX,mnc709.mcc214.3gppnetwork.org
 DOMAIN-SUFFIX,mnc709.mcc214.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc214.3gppnetwork.org
 DOMAIN-SUFFIX,mcc214.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc214.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc214.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc214.pub.3gppnetwork.org

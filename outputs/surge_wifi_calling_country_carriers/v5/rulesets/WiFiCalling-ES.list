@@ -204,3 +204,16 @@ DOMAIN-SUFFIX,mnc709.mcc214.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc214.3gppnetwork.org
 DOMAIN-SUFFIX,mcc214.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 214-025 | XFERA MÓVILES, S.A. UNIPERSONAL
+DOMAIN-SUFFIX,mnc025.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc025.mcc214.pub.3gppnetwork.org
+# MCC-MNC: 214-028 | Consorcio de Telecomunicaciones Avanzadas, S.A.
+DOMAIN-SUFFIX,mnc028.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc214.pub.3gppnetwork.org
+# MCC-MNC: 214-029 | XFERA MÓVILES, S.A.U.
+DOMAIN-SUFFIX,mnc029.mcc214.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc214.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

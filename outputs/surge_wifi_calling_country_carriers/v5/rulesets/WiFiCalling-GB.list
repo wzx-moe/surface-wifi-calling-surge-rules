@@ -357,3 +357,16 @@ DOMAIN-SUFFIX,mcc234.3gppnetwork.org
 DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc235.3gppnetwork.org
 DOMAIN-SUFFIX,mcc235.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 234-004 | FMS Solutions Limited
+DOMAIN-SUFFIX,mnc004.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc234.pub.3gppnetwork.org
+# MCC-MNC: 234-018 | Cloud9 Communications Limited
+DOMAIN-SUFFIX,mnc018.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc018.mcc234.pub.3gppnetwork.org
+# MCC-MNC: 234-074 | Pareteum Europe B.V.
+DOMAIN-SUFFIX,mnc074.mcc234.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc234.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

@@ -1,23 +1,23 @@
 # Formal country rules; GeoIP compatibility rules are counted separately in legacy_geoip/SUMMARY.txt.
 # Non-comment formal country rule counts; original domains/fixed CIDRs plus verified endpoints and national MCC suffixes.
 # 38 broad GeoIP compatibility rules are separate in legacy_geoip/ and excluded from this total.
-US: rules=948
-CA: rules=145
-MX: rules=39
+US: rules=978
+CA: rules=161
+MX: rules=55
 BR: rules=58
-JP: rules=119
+JP: rules=127
 KR: rules=20
-HK: rules=106
+HK: rules=118
 TW: rules=40
-SG: rules=34
+SG: rules=38
 IN: rules=349
-AU: rules=88
-NZ: rules=26
-UA: rules=28
-GB: rules=140
-DE: rules=56
-FR: rules=128
+AU: rules=140
+NZ: rules=30
+UA: rules=30
+GB: rules=146
+DE: rules=80
+FR: rules=132
 IT: rules=17
-ES: rules=78
+ES: rules=84
 NL: rules=78
-TOTAL: rules=2497
+TOTAL: rules=2681

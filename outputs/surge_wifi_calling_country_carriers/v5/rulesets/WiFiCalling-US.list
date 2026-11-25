@@ -2350,3 +2350,52 @@ DOMAIN-SUFFIX,mcc314.3gppnetwork.org
 DOMAIN-SUFFIX,mcc314.pub.3gppnetwork.org
 DOMAIN-SUFFIX,mcc316.3gppnetwork.org
 DOMAIN-SUFFIX,mcc316.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 310-035 | ETEX Communications, LP (d/b/a) ETEX Wireless
+DOMAIN-SUFFIX,mnc035.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc310.pub.3gppnetwork.org
+# MCC-MNC: 310-290 | NEP Cellcorp Inc.
+DOMAIN-SUFFIX,mnc290.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc290.mcc310.pub.3gppnetwork.org
+# MCC-MNC: 310-360 | Cellular Network Partnership dba Pioneer Cellular
+DOMAIN-SUFFIX,mnc360.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc360.mcc310.pub.3gppnetwork.org
+# MCC-MNC: 310-460 | Eseye
+DOMAIN-SUFFIX,mnc460.mcc310.3gppnetwork.org
+DOMAIN-SUFFIX,mnc460.mcc310.pub.3gppnetwork.org
+# MCC-MNC: 311-930 | Cox Communications
+DOMAIN-SUFFIX,mnc930.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc930.mcc311.pub.3gppnetwork.org
+# MCC-MNC: 311-950 | Sunman Telecommunications Corp.
+DOMAIN-SUFFIX,mnc950.mcc311.3gppnetwork.org
+DOMAIN-SUFFIX,mnc950.mcc311.pub.3gppnetwork.org
+# MCC-MNC: 312-270 | Cellular Network Partnership dba Pioneer Cellular
+DOMAIN-SUFFIX,mnc270.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc270.mcc312.pub.3gppnetwork.org
+# MCC-MNC: 312-570 | Buffalo-Lake Erie Wireless Systems Co., LLC
+DOMAIN-SUFFIX,mnc570.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc312.pub.3gppnetwork.org
+# MCC-MNC: 312-620 | GlobeTouch Inc.
+DOMAIN-SUFFIX,mnc620.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc620.mcc312.pub.3gppnetwork.org
+# MCC-MNC: 312-690 | TGS, LLC
+DOMAIN-SUFFIX,mnc690.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc690.mcc312.pub.3gppnetwork.org
+# MCC-MNC: 312-760 | ARCTIC SLOPE TELEPHONE ASSOCIATION COOPERATIVE
+DOMAIN-SUFFIX,mnc760.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc760.mcc312.pub.3gppnetwork.org
+# MCC-MNC: 312-810 | Bristol Bay Telephone Cooperative
+DOMAIN-SUFFIX,mnc810.mcc312.3gppnetwork.org
+DOMAIN-SUFFIX,mnc810.mcc312.pub.3gppnetwork.org
+# MCC-MNC: 313-080 | Speedwavz LLP
+DOMAIN-SUFFIX,mnc080.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc080.mcc313.pub.3gppnetwork.org
+# MCC-MNC: 313-570 | Cellular Network Partnership
+DOMAIN-SUFFIX,mnc570.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc570.mcc313.pub.3gppnetwork.org
+# MCC-MNC: 313-600 | ST Engineering iDirect
+DOMAIN-SUFFIX,mnc600.mcc313.3gppnetwork.org
+DOMAIN-SUFFIX,mnc600.mcc313.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

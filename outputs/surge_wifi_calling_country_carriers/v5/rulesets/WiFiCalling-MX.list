@@ -105,3 +105,31 @@ DOMAIN,epdg.epc.mnc050.mcc334.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc334.3gppnetwork.org
 DOMAIN-SUFFIX,mcc334.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 334-010 | AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.
+DOMAIN-SUFFIX,mnc010.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc010.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-040 | AT&T NORTE, S. DE R.L. DE C.V. Y AT&T DESARROLLO EN COMUNICACIONES DE MÉXICO, S. DE R.L. DE C.V.
+DOMAIN-SUFFIX,mnc040.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc040.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-050 | GRUPO AT&T CELULLAR, S. DE R.L. DE C.V.
+DOMAIN-SUFFIX,mnc050.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc050.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-060 | SERVICIOS DE ACCESO INALÁMBRICO, S.A DE C.V.
+DOMAIN-SUFFIX,mnc060.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc060.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-090 | AT&T COMUNICACIONES DIGITALES, S. DE R.L. DE C.V.
+DOMAIN-SUFFIX,mnc090.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-100 | TELECOMUNICACIONES DE MÉXICO
+DOMAIN-SUFFIX,mnc100.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc100.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-130 | AXTEL, S.A.B. DE C.V.
+DOMAIN-SUFFIX,mnc130.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc130.mcc334.pub.3gppnetwork.org
+# MCC-MNC: 334-160 | CABLEVISIÓN RED, S.A. DE C.V.
+DOMAIN-SUFFIX,mnc160.mcc334.3gppnetwork.org
+DOMAIN-SUFFIX,mnc160.mcc334.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

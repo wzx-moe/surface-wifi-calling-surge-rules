@@ -226,3 +226,85 @@ DOMAIN,epdg.epc.mnc003.mcc505.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc505.3gppnetwork.org
 DOMAIN-SUFFIX,mcc505.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 505-001 | Telstra Corporation Ltd.
+DOMAIN-SUFFIX,mnc001.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc001.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-003 | Vodafone Network Pty. Ltd.
+DOMAIN-SUFFIX,mnc003.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-005 | The Ozitel Network Pty. Ltd.
+DOMAIN-SUFFIX,mnc005.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-007 | Vodafone Network Pty. Ltd.
+DOMAIN-SUFFIX,mnc007.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-008 | One.Tel GSM 1800 Pty. Ltd.
+DOMAIN-SUFFIX,mnc008.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-009 | Airnet Commercial Australia Ltd.
+DOMAIN-SUFFIX,mnc009.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc009.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-011 | Telstra Corporation Ltd.
+DOMAIN-SUFFIX,mnc011.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc011.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-014 | AAPT Ltd
+DOMAIN-SUFFIX,mnc014.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc014.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-015 | 3GIS Pty Ltd. (Telstra & Hutchison 3G)
+DOMAIN-SUFFIX,mnc015.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc015.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-017 | Vivid Wireless Pty Ltd
+DOMAIN-SUFFIX,mnc017.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-020 | Ausgrid Corporation
+DOMAIN-SUFFIX,mnc020.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-022 | iiNet Ltd
+DOMAIN-SUFFIX,mnc022.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-023 | Challenge Networks Pty Ltd
+DOMAIN-SUFFIX,mnc023.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-026 | Dialogue Communications Pty Ltd
+DOMAIN-SUFFIX,mnc026.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc026.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-027 | Nexium Telecommunications
+DOMAIN-SUFFIX,mnc027.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc027.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-028 | RCOM International Pty Ltd
+DOMAIN-SUFFIX,mnc028.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc028.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-030 | Compatel Limited
+DOMAIN-SUFFIX,mnc030.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc030.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-033 | CLX Networks Pty Ltd
+DOMAIN-SUFFIX,mnc033.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc033.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-035 | MessageBird Pty Ltd
+DOMAIN-SUFFIX,mnc035.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc035.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-038 | Truphone Pty Ltd
+DOMAIN-SUFFIX,mnc038.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc038.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-039 | Telstra Corporation Ltd.
+DOMAIN-SUFFIX,mnc039.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc039.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-047 | Woodside Energy Limited
+DOMAIN-SUFFIX,mnc047.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc047.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-051 | Fortescue Metals Group Ltd
+DOMAIN-SUFFIX,mnc051.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc051.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-071 | Telstra Corporation Ltd.
+DOMAIN-SUFFIX,mnc071.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc071.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-072 | Telstra Corporation Ltd.
+DOMAIN-SUFFIX,mnc072.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc072.mcc505.pub.3gppnetwork.org
+# MCC-MNC: 505-090 | UE Access Pty Ltd
+DOMAIN-SUFFIX,mnc090.mcc505.3gppnetwork.org
+DOMAIN-SUFFIX,mnc090.mcc505.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

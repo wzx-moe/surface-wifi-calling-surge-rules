@@ -151,3 +151,43 @@ DOMAIN-SUFFIX,mnc869.mcc262.pub.3gppnetwork.org
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc262.3gppnetwork.org
 DOMAIN-SUFFIX,mcc262.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 262-003 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc003.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc003.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-005 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc005.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc005.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-012 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc012.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc012.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-016 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc016.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc016.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-017 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc017.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc017.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-020 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc020.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc020.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-021 | Multiconnect GmbH
+DOMAIN-SUFFIX,mnc021.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-023 | Drillisch Online AG
+DOMAIN-SUFFIX,mnc023.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc023.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-073 | Xantaro Deutschland GmbH
+DOMAIN-SUFFIX,mnc073.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc073.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-074 | Qualcomm CDMA Technologies GmbH
+DOMAIN-SUFFIX,mnc074.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc074.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-075 | Core Network Dynamics GmbH
+DOMAIN-SUFFIX,mnc075.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc075.mcc262.pub.3gppnetwork.org
+# MCC-MNC: 262-077 | E-Plus Mobilfunk GmbH & Co. KG
+DOMAIN-SUFFIX,mnc077.mcc262.3gppnetwork.org
+DOMAIN-SUFFIX,mnc077.mcc262.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions

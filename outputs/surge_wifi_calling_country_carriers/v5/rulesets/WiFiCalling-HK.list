@@ -271,3 +271,25 @@ DOMAIN,wlan.datapath.three.com.hk
 # Home-network namespace only; not a promise that a given carrier permits foreign Wi-Fi Calling.
 DOMAIN-SUFFIX,mcc454.3gppnetwork.org
 DOMAIN-SUFFIX,mcc454.pub.3gppnetwork.org
+
+# BEGIN ITU-T E.212 synced additions
+# Source: T-SP-E.212B-2023 (https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2023-MSW-E.docx)
+# MCC-MNC: 454-008 | Truphone (Hong Kong) Ltd
+DOMAIN-SUFFIX,mnc008.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc008.mcc454.pub.3gppnetwork.org
+# MCC-MNC: 454-021 | 21 ViaNet Group Limited
+DOMAIN-SUFFIX,mnc021.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc021.mcc454.pub.3gppnetwork.org
+# MCC-MNC: 454-022 | 263 Mobile Communications (HongKong) Limited
+DOMAIN-SUFFIX,mnc022.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc022.mcc454.pub.3gppnetwork.org
+# MCC-MNC: 454-029 | Hong Kong Telecommunications (HKT) Limited
+DOMAIN-SUFFIX,mnc029.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc029.mcc454.pub.3gppnetwork.org
+# MCC-MNC: 454-032 | Hong Kong Broadband Network Ltd
+DOMAIN-SUFFIX,mnc032.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc032.mcc454.pub.3gppnetwork.org
+# MCC-MNC: 454-036 | Easco Telecommunications Limited
+DOMAIN-SUFFIX,mnc036.mcc454.3gppnetwork.org
+DOMAIN-SUFFIX,mnc036.mcc454.pub.3gppnetwork.org
+# END ITU-T E.212 synced additions
